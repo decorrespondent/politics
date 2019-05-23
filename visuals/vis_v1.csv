@@ -1,0 +1,944 @@
+election_year,family_name,vote_share
+1900,Christian democracy,25.5
+1900,Liberal,22.7
+1900,Social democracy,22.5
+1900,no family,2.5
+1901,Conservative,24.04
+1901,Liberal,27.134999999999998
+1901,Social democracy,17.06
+1902,Christian democracy,29.25
+1902,Communist/Socialist,4.09
+1902,Conservative,13.69
+1902,Liberal,19.80666666666667
+1902,Social democracy,10.655
+1903,Conservative,20.49
+1903,Liberal,27.565
+1903,Social democracy,20.07
+1903,no family,20.49
+1904,Christian democracy,22.65
+1904,Liberal,25.4
+1904,Social democracy,25.98
+1904,no family,2.9
+1906,Christian democracy,27.65
+1906,Communist/Socialist,2.33
+1906,Conservative,20.124000000000002
+1906,Liberal,15.258
+1906,Social democracy,15.162500000000001
+1906,no family,3.0
+1908,Christian democracy,22.900000000000002
+1908,Liberal,27.6
+1908,Social democracy,12.950000000000001
+1909,Conservative,19.8
+1909,Liberal,15.133333333333333
+1909,Social democracy,28.7
+1909,no family,5.7
+1910,Christian democracy,19.003333333333334
+1910,Communist/Socialist,4.09
+1910,Conservative,16.336666666666666
+1910,Liberal,20.840000000000003
+1910,Right-wing,17.43
+1910,Social democracy,17.54
+1910,no family,14.35
+1911,Conservative,31.2
+1911,Liberal,40.2
+1911,Social democracy,28.5
+1912,Christian democracy,25.85
+1912,Liberal,11.1
+1912,Social democracy,18.200000000000003
+1913,Conservative,22.4
+1913,Liberal,23.65
+1913,Social democracy,29.6
+1913,no family,0.7
+1914,Agrarian,0.2
+1914,Christian democracy,22.25
+1914,Conservative,21.810000000000002
+1914,Liberal,21.256666666666664
+1914,Right-wing,18.84
+1914,Social democracy,21.0475
+1915,Conservative,0.2
+1915,Liberal,0.2
+1915,Social democracy,0.2
+1915,no family,0.2
+1917,Agrarian,6.926666666666667
+1917,Conservative,27.435000000000002
+1917,Liberal,19.25
+1917,Social democracy,25.816666666666666
+1918,Agrarian,0.4
+1918,Christian democracy,16.633333333333333
+1918,Communist/Socialist,3.4499999999999997
+1918,Conservative,18.9
+1918,Liberal,10.599999999999998
+1918,Right-wing,1.175
+1918,Social democracy,14.842000000000002
+1918,no family,5.0200000000000005
+1919,Agrarian,19.7
+1919,Christian democracy,22.5875
+1919,Communist/Socialist,7.63
+1919,Conservative,6.9799999999999995
+1919,Liberal,10.087777777777779
+1919,Right-wing,15.964999999999998
+1919,Social democracy,22.299999999999997
+1919,Special issue,2.27
+1919,no family,3.8075
+1919,to be coded,6.2
+1920,Agrarian,3.8550000000000004
+1920,Christian democracy,19.97
+1920,Communist/Socialist,8.969999999999999
+1920,Conservative,16.039444444444445
+1920,Liberal,13.390555555555558
+1920,Right-wing,15.813333333333333
+1920,Social democracy,29.410000000000004
+1920,Special issue,0.6
+1920,no family,0.8144444444444444
+1921,Agrarian,11.0
+1921,Christian democracy,22.049999999999997
+1921,Communist/Socialist,3.9
+1921,Conservative,25.8
+1921,Liberal,18.4
+1921,Social democracy,24.633333333333336
+1921,no family,0.4
+1922,Agrarian,9.8
+1922,Christian democracy,18.166666666666668
+1922,Communist/Socialist,5.866666666666667
+1922,Conservative,19.621666666666666
+1922,Liberal,11.195
+1922,Right-wing,32.65
+1922,Social democracy,17.775
+1922,no family,9.063999999999998
+1922,to be coded,14.9
+1923,Agrarian,12.1
+1923,Christian democracy,44.05
+1923,Communist/Socialist,0.2
+1923,Conservative,29.75
+1923,Liberal,15.299999999999999
+1923,Right-wing,27.445
+1923,Social democracy,20.325
+1923,no family,3.12
+1924,Agrarian,2.5040000000000004
+1924,Christian democracy,8.4475
+1924,Communist/Socialist,4.381666666666667
+1924,Conservative,14.211111111111112
+1924,Liberal,10.587222222222222
+1924,Right-wing,15.3075
+1924,Social democracy,26.320833333333336
+1924,Special issue,0.6
+1924,no family,0.3
+1925,Agrarian,2.2
+1925,Christian democracy,14.833333333333334
+1925,Communist/Socialist,1.4
+1925,Conservative,2.0
+1925,Liberal,7.766666666666666
+1925,Right-wing,18.933333333333334
+1925,Social democracy,20.6
+1925,no family,8.024999999999999
+1926,Communist/Socialist,0.4
+1926,Conservative,20.6
+1926,Liberal,13.633333333333333
+1926,Social democracy,37.2
+1926,Special issue,0.8
+1927,Agrarian,15.125
+1927,Christian democracy,24.62
+1927,Communist/Socialist,5.6000000000000005
+1927,Conservative,26.829999999999995
+1927,Liberal,9.5
+1927,Right-wing,6.32
+1927,Social democracy,27.14333333333333
+1927,no family,3.7000000000000006
+1928,Agrarian,3.7920000000000003
+1928,Christian democracy,5.670000000000001
+1928,Communist/Socialist,9.426666666666668
+1928,Conservative,12.184285714285712
+1928,Liberal,8.219999999999999
+1928,Right-wing,20.47833333333333
+1928,Social democracy,24.516000000000002
+1928,Special issue,1.57
+1928,no family,11.26
+1929,Agrarian,9.433333333333334
+1929,Christian democracy,17.880000000000003
+1929,Communist/Socialist,3.564
+1929,Conservative,17.88
+1929,Liberal,11.264
+1929,Social democracy,24.567142857142862
+1929,Special issue,0.7
+1929,no family,8.91
+1930,Agrarian,7.445
+1930,Christian democracy,11.156
+1930,Communist/Socialist,4.983333333333333
+1930,Conservative,10.62
+1930,Liberal,5.0125
+1930,Right-wing,13.821666666666667
+1930,Social democracy,33.29
+1931,Agrarian,6.9
+1931,Communist/Socialist,0.5249999999999999
+1931,Conservative,27.514999999999997
+1931,Liberal,5.493333333333333
+1931,Right-wing,25.35
+1931,Social democracy,13.015
+1931,no family,9.87
+1932,Agrarian,4.085
+1932,Christian democracy,11.629
+1932,Communist/Socialist,4.6537500000000005
+1932,Conservative,15.9285
+1932,Liberal,8.64777777777778
+1932,Right-wing,13.820000000000002
+1932,Social democracy,22.711875
+1932,Special issue,0.355
+1932,no family,5.5
+1933,Agrarian,5.652
+1933,Christian democracy,7.594444444444444
+1933,Communist/Socialist,5.6066666666666665
+1933,Conservative,16.185714285714287
+1933,Liberal,5.168333333333334
+1933,Right-wing,25.939999999999998
+1933,Social democracy,20.6875
+1933,no family,1.6875
+1934,Communist/Socialist,5.2
+1934,Liberal,19.85
+1934,Right-wing,21.8
+1934,Social democracy,29.4
+1934,no family,11.6
+1935,Agrarian,3.2
+1935,Communist/Socialist,0.8833333333333333
+1935,Conservative,21.939999999999998
+1935,Liberal,8.0
+1935,Right-wing,1.0
+1935,Social democracy,21.4875
+1935,Special issue,0.8
+1935,no family,0.53
+1936,Agrarian,9.8575
+1936,Christian democracy,14.32
+1936,Communist/Socialist,7.265000000000001
+1936,Conservative,12.687500000000002
+1936,Liberal,13.712
+1936,Right-wing,14.21
+1936,Social democracy,25.195000000000004
+1936,no family,0.765
+1937,Agrarian,2.6
+1937,Christian democracy,17.919999999999998
+1937,Communist/Socialist,2.15
+1937,Conservative,23.55
+1937,Liberal,6.539999999999999
+1937,Right-wing,24.900000000000002
+1937,Social democracy,18.966666666666665
+1937,no family,6.033333333333332
+1938,Christian democracy,33.3
+1938,Conservative,51.9
+1938,Social democracy,10.0
+1938,no family,4.7
+1939,Agrarian,9.346666666666666
+1939,Christian democracy,16.79
+1939,Communist/Socialist,3.5250000000000004
+1939,Conservative,9.75
+1939,Liberal,10.213333333333333
+1939,Right-wing,2.183333333333333
+1939,Social democracy,30.135
+1939,no family,0.49
+1940,Agrarian,12.0
+1940,Communist/Socialist,2.05
+1940,Conservative,18.0
+1940,Liberal,12.0
+1940,Social democracy,53.8
+1943,Agrarian,5.5
+1943,Christian democracy,23.1
+1943,Conservative,31.45
+1943,Liberal,9.666666666666666
+1943,Right-wing,2.1500000000000004
+1943,Social democracy,30.1
+1943,no family,2.325
+1944,Agrarian,12.2
+1944,Christian democracy,20.5
+1944,Communist/Socialist,5.25
+1944,Conservative,32.35
+1944,Liberal,12.9
+1944,Social democracy,19.3
+1944,no family,7.79
+1945,Agrarian,11.299999999999999
+1945,Christian democracy,38.70820062363333
+1945,Communist/Socialist,10.25875
+1945,Conservative,18.756
+1945,Liberal,8.538888888888888
+1945,Right-wing,3.1
+1945,Social democracy,25.089999999999996
+1945,no family,10.1
+1946,Agrarian,0.44
+1946,Christian democracy,26.08333333333334
+1946,Communist/Socialist,14.196000000000002
+1946,Conservative,6.756666666666667
+1946,Liberal,5.022500000000001
+1946,Right-wing,2.77
+1946,Social democracy,17.005
+1946,Special issue,0.74
+1946,no family,0.47666666666666674
+1946,to be coded,2.16
+1947,Communist/Socialist,6.8
+1947,Conservative,14.576666666666668
+1947,Liberal,12.993333333333332
+1947,Right-wing,1.2
+1947,Social democracy,49.93
+1947,Special issue,4.34
+1947,no family,20.07
+1948,Agrarian,8.568000000000001
+1948,Christian democracy,22.33285714285714
+1948,Communist/Socialist,16.38
+1948,Conservative,17.346
+1948,Liberal,8.788333333333332
+1948,Right-wing,2.8699999999999997
+1948,Social democracy,18.913
+1948,Special issue,0.3566666666666667
+1948,no family,0.37999999999999995
+1949,Christian democracy,24.32
+1949,Communist/Socialist,6.1000000000000005
+1949,Conservative,4.1
+1949,Liberal,13.575
+1949,Right-wing,4.625
+1949,Social democracy,32.550000000000004
+1949,no family,1.57
+1950,Christian democracy,47.68
+1950,Communist/Socialist,3.2000000000000006
+1950,Conservative,21.182
+1950,Liberal,11.017142857142856
+1950,Social democracy,24.84857142857143
+1950,Special issue,0.55
+1950,no family,10.417500000000002
+1951,Agrarian,8.83
+1951,Christian democracy,26.27333333333333
+1951,Communist/Socialist,12.95
+1951,Conservative,21.86888888888889
+1951,Liberal,7.8116666666666665
+1951,Social democracy,23.933750000000003
+1951,Special issue,0.575
+1951,no family,4.873333333333333
+1952,Agrarian,10.7
+1952,Christian democracy,12.9025
+1952,Communist/Socialist,5.23
+1952,Conservative,5.830000000000001
+1952,Liberal,16.615
+1952,Social democracy,25.02333333333333
+1953,Christian democracy,21.433333333333334
+1953,Communist/Socialist,8.662500000000001
+1953,Conservative,12.902000000000001
+1953,Liberal,6.66625
+1953,Right-wing,5.233333333333334
+1953,Social democracy,26.474285714285713
+1953,Special issue,0.475
+1953,no family,13.936666666666666
+1954,Agrarian,13.595
+1954,Christian democracy,29.0625
+1954,Communist/Socialist,8.565000000000001
+1954,Conservative,19.993333333333336
+1954,Liberal,6.783333333333334
+1954,Right-wing,2.2
+1954,Social democracy,22.556
+1954,Special issue,0.2
+1954,no family,10.9
+1955,Communist/Socialist,0.6
+1955,Conservative,23.3825
+1955,Liberal,1.6500000000000001
+1955,Social democracy,51.565
+1955,Special issue,0.2
+1956,Agrarian,9.5
+1956,Christian democracy,21.426
+1956,Communist/Socialist,10.0125
+1956,Conservative,8.2225
+1956,Liberal,16.285
+1956,Right-wing,3.85
+1956,Social democracy,27.098000000000003
+1956,no family,2.02
+1957,Agrarian,2.36
+1957,Christian democracy,25.61
+1957,Communist/Socialist,4.225
+1957,Conservative,17.502499999999998
+1957,Liberal,9.64
+1957,Right-wing,2.8
+1957,Social democracy,26.77
+1957,Special issue,0.4
+1957,no family,14.796666666666667
+1958,Agrarian,17.9
+1958,Christian democracy,33.333333333333336
+1958,Communist/Socialist,14.020000000000001
+1958,Conservative,12.742857142857142
+1958,Liberal,6.700000000000001
+1958,Right-wing,2.5250000000000004
+1958,Social democracy,14.440000000000001
+1958,Special issue,0.2866666666666667
+1958,no family,0.395
+1959,Christian democracy,26.042
+1959,Communist/Socialist,4.155
+1959,Conservative,14.532499999999999
+1959,Liberal,10.615
+1959,Right-wing,7.7
+1959,Social democracy,38.47
+1959,Special issue,0.3
+1959,no family,0.475
+1960,Agrarian,13.6
+1960,Communist/Socialist,2.8
+1960,Conservative,17.25
+1960,Green/Ecologist,6.1
+1960,Liberal,9.98
+1960,Social democracy,44.95
+1960,Special issue,0.4
+1960,no family,21.05
+1961,Agrarian,1.51
+1961,Christian democracy,23.945999999999998
+1961,Communist/Socialist,1.986666666666667
+1961,Conservative,15.92
+1961,Liberal,12.565000000000001
+1961,Right-wing,3.5
+1961,Social democracy,28.183333333333337
+1961,no family,1.1024999999999998
+1962,Agrarian,12.575
+1962,Christian democracy,26.599999999999998
+1962,Communist/Socialist,12.2275
+1962,Conservative,16.677142857142858
+1962,Liberal,4.306666666666666
+1962,Right-wing,3.75
+1962,Social democracy,18.98714285714286
+1962,Special issue,0.3
+1962,no family,0.46
+1963,Agrarian,2.13
+1963,Christian democracy,21.869999999999997
+1963,Communist/Socialist,10.366666666666667
+1963,Conservative,1.6133333333333333
+1963,Liberal,6.2299999999999995
+1963,Right-wing,5.1
+1963,Social democracy,15.969999999999999
+1963,Special issue,0.27
+1963,no family,0.44999999999999996
+1964,Agrarian,13.2
+1964,Christian democracy,17.54
+1964,Communist/Socialist,6.29
+1964,Conservative,17.98
+1964,Green/Ecologist,5.8
+1964,Liberal,8.907777777777778
+1964,Social democracy,42.745
+1964,Special issue,3.105
+1964,no family,41.9
+1965,Christian democracy,29.0825
+1965,Communist/Socialist,2.9499999999999997
+1965,Conservative,24.21
+1965,Liberal,10.800000000000002
+1965,Right-wing,4.35
+1965,Social democracy,27.653333333333332
+1965,no family,0.9025
+1966,Agrarian,11.1
+1966,Christian democracy,24.400000000000002
+1966,Communist/Socialist,21.2
+1966,Conservative,22.055000000000003
+1966,Green/Ecologist,10.9
+1966,Liberal,7.51125
+1966,Right-wing,4.3149999999999995
+1966,Social democracy,23.27777777777778
+1966,Special issue,0.3
+1966,no family,38.26
+1966,to be coded,0.1
+1967,Agrarian,4.77
+1967,Christian democracy,14.66
+1967,Communist/Socialist,7.7700000000000005
+1967,Conservative,8.934
+1967,Liberal,7.605
+1967,Right-wing,0.6
+1967,Social democracy,21.225
+1967,no family,0.66
+1968,Agrarian,15.7
+1968,Christian democracy,19.68166666666667
+1968,Communist/Socialist,8.904444444444444
+1968,Conservative,12.085714285714287
+1968,Green/Ecologist,6.1
+1968,Liberal,9.786999999999999
+1968,Right-wing,7.15
+1968,Social democracy,25.55
+1968,Special issue,0.44
+1968,no family,17.21
+1969,Christian democracy,26.733333333333334
+1969,Conservative,45.66
+1969,Liberal,5.8
+1969,Right-wing,4.3
+1969,Social democracy,29.86
+1969,no family,2.1599999999999997
+1970,Agrarian,15.833333333333334
+1970,Christian democracy,15.866666666666667
+1970,Communist/Socialist,7.466666666666668
+1970,Conservative,25.3
+1970,Liberal,8.725
+1970,Right-wing,5.5
+1970,Social democracy,27.116666666666664
+1970,Special issue,0.5
+1970,no family,0.3
+1970,to be coded,0.1
+1971,Agrarian,1.1
+1971,Christian democracy,15.992857142857146
+1971,Communist/Socialist,2.14
+1971,Conservative,10.94142857142857
+1971,Green/Ecologist,5.47
+1971,Liberal,7.740000000000001
+1971,Right-wing,8.3
+1971,Social democracy,32.77333333333333
+1971,no family,12.716666666666667
+1972,Agrarian,9.166666666666666
+1972,Christian democracy,16.76857142857143
+1972,Communist/Socialist,10.416
+1972,Conservative,5.247999999999999
+1972,Green/Ecologist,4.8
+1972,Liberal,6.299999999999999
+1972,Right-wing,4.6499999999999995
+1972,Social democracy,19.10333333333333
+1972,Special issue,0.2866666666666667
+1972,no family,0.92
+1973,Agrarian,25.1
+1973,Christian democracy,11.596
+1973,Communist/Socialist,5.105714285714286
+1973,Conservative,16.305714285714284
+1973,Green/Ecologist,6.0
+1973,Liberal,10.483333333333333
+1973,Social democracy,20.742
+1973,Special issue,9.2
+1973,no family,22.35
+1974,Christian democracy,28.6625
+1974,Communist/Socialist,5.8675
+1974,Conservative,12.6
+1974,Liberal,12.504285714285714
+1974,Right-wing,3.05
+1974,Social democracy,15.443750000000001
+1974,Special issue,0.6
+1974,no family,13.14
+1974,to be coded,1.285
+1975,Agrarian,10.600000000000001
+1975,Christian democracy,14.919999999999998
+1975,Communist/Socialist,5.3725
+1975,Conservative,5.88
+1975,Green/Ecologist,5.0
+1975,Liberal,11.879999999999999
+1975,Right-wing,5.4
+1975,Social democracy,30.069999999999993
+1975,Special issue,2.9
+1975,no family,10.446666666666667
+1976,Agrarian,24.1
+1976,Christian democracy,21.112000000000002
+1976,Communist/Socialist,8.494285714285715
+1976,Conservative,40.715
+1976,Liberal,9.788
+1976,Right-wing,3.1999999999999997
+1976,Social democracy,32.33875
+1976,Special issue,0.5
+1976,no family,0.34
+1977,Agrarian,0.84
+1977,Christian democracy,14.790999999999997
+1977,Communist/Socialist,4.003846153846154
+1977,Conservative,9.686666666666666
+1977,Green/Ecologist,2.795
+1977,Liberal,9.783846153846154
+1977,Right-wing,10.04
+1977,Social democracy,23.877142857142854
+1977,Special issue,3.1633333333333327
+1977,no family,15.84
+1978,Christian democracy,13.800000000000002
+1978,Communist/Socialist,4.913333333333333
+1978,Conservative,7.9399999999999995
+1978,Green/Ecologist,2.0
+1978,Liberal,5.825
+1978,Right-wing,3.1
+1978,Social democracy,9.116666666666667
+1979,Agrarian,13.333333333333334
+1979,Christian democracy,16.192222222222224
+1979,Communist/Socialist,9.774666666666665
+1979,Conservative,11.98090909090909
+1979,Green/Ecologist,3.45
+1979,Liberal,14.057857142857145
+1979,Right-wing,3.5274999999999994
+1979,Social democracy,18.529999999999994
+1979,Special issue,0.9575
+1979,no family,8.107999999999999
+1980,Christian democracy,20.546666666666667
+1980,Communist/Socialist,4.48
+1980,Conservative,17.14
+1980,Green/Ecologist,1.5
+1980,Liberal,19.74
+1980,Social democracy,14.901999999999997
+1981,Christian democracy,17.302500000000002
+1981,Communist/Socialist,6.693636363636364
+1981,Conservative,15.110714285714284
+1981,Green/Ecologist,3.8340000000000005
+1981,Liberal,8.178
+1981,Right-wing,4.1000000000000005
+1981,Social democracy,21.847272727272724
+1981,Special issue,2.4290000000000003
+1981,no family,7.01
+1981,to be coded,1.9
+1982,Agrarian,15.5
+1982,Christian democracy,12.621666666666664
+1982,Communist/Socialist,2.3025
+1982,Conservative,17.12
+1982,Green/Ecologist,1.68
+1982,Liberal,10.009999999999998
+1982,Right-wing,0.83
+1982,Social democracy,33.395
+1982,Special issue,0.835
+1982,no family,1.0766666666666667
+1983,Agrarian,13.65
+1983,Christian democracy,20.212857142857143
+1983,Communist/Socialist,10.746666666666668
+1983,Conservative,11.054999999999998
+1983,Green/Ecologist,7.672
+1983,Liberal,12.156666666666666
+1983,Right-wing,4.0
+1983,Social democracy,17.35923076923077
+1983,Special issue,0.5033333333333333
+1983,no family,0.5
+1983,to be coded,0.07
+1984,Christian democracy,18.790000000000003
+1984,Communist/Socialist,3.87
+1984,Conservative,12.75
+1984,Green/Ecologist,8.33
+1984,Liberal,8.811666666666667
+1984,Social democracy,16.9225
+1985,Agrarian,12.4
+1985,Christian democracy,22.18
+1985,Communist/Socialist,10.16
+1985,Conservative,27.503333333333334
+1985,Green/Ecologist,9.5975
+1985,Liberal,13.398
+1985,Right-wing,3.48
+1985,Social democracy,25.025
+1986,Christian democracy,17.522
+1986,Communist/Socialist,2.6514285714285717
+1986,Conservative,9.61
+1986,Green/Ecologist,2.42
+1986,Liberal,11.77
+1986,Right-wing,9.75
+1986,Social democracy,30.46
+1986,Special issue,0.54
+1986,no family,0.4
+1987,Agrarian,11.950000000000001
+1987,Christian democracy,15.854444444444441
+1987,Communist/Socialist,5.428461538461539
+1987,Conservative,22.41888888888889
+1987,Green/Ecologist,5.607777777777778
+1987,Liberal,11.015333333333333
+1987,Right-wing,4.1175
+1987,Social democracy,14.32095238095238
+1987,Special issue,0.5399999999999999
+1987,no family,0.38
+1987,to be coded,0.06
+1988,Agrarian,11.3
+1988,Christian democracy,2.45
+1988,Communist/Socialist,5.1
+1988,Conservative,13.6
+1988,Green/Ecologist,6.633333333333333
+1988,Liberal,10.319999999999999
+1988,Right-wing,9.8
+1988,Social democracy,21.832
+1989,Agrarian,14.57
+1989,Christian democracy,21.667142857142853
+1989,Communist/Socialist,6.951111111111112
+1989,Conservative,12.368571428571427
+1989,Green/Ecologist,2.91
+1989,Liberal,11.0275
+1989,Right-wing,1.79
+1989,Social democracy,20.57
+1989,Special issue,0.6757142857142858
+1989,no family,7.585
+1990,Agrarian,2.8825000000000003
+1990,Christian democracy,15.530714285714286
+1990,Communist/Socialist,9.310769230769232
+1990,Conservative,10.151111111111112
+1990,Green/Ecologist,5.006923076923077
+1990,Liberal,16.019411764705886
+1990,Right-wing,6.403333333333333
+1990,Social democracy,16.264285714285716
+1990,Special issue,19.786
+1990,no family,34.0
+1990,to be coded,1.14
+1991,Agrarian,8.514285714285714
+1991,Christian democracy,9.531111111111109
+1991,Communist/Socialist,6.432
+1991,Conservative,17.933333333333334
+1991,Green/Ecologist,5.8340000000000005
+1991,Liberal,9.042142857142858
+1991,Right-wing,4.1899999999999995
+1991,Social democracy,16.494545454545456
+1991,Special issue,1.078
+1991,no family,0.7033333333333333
+1992,Agrarian,2.954
+1992,Christian democracy,9.634666666666666
+1992,Communist/Socialist,5.7675
+1992,Conservative,19.444285714285712
+1992,Green/Ecologist,2.208
+1992,Liberal,5.629999999999999
+1992,Right-wing,5.355
+1992,Social democracy,12.578545454545456
+1992,Special issue,2.7123076923076925
+1992,no family,3.3560000000000003
+1992,to be coded,2.5916666666666663
+1993,Agrarian,7.8075
+1993,Christian democracy,8.55
+1993,Communist/Socialist,4.971666666666667
+1993,Conservative,12.336250000000001
+1993,Green/Ecologist,9.31
+1993,Liberal,12.754
+1993,Right-wing,7.92
+1993,Social democracy,17.8825
+1993,Special issue,0.9344444444444446
+1993,no family,1.9000000000000001
+1994,Agrarian,5.4366666666666665
+1994,Christian democracy,15.20842105263158
+1994,Communist/Socialist,6.949090909090909
+1994,Conservative,11.303333333333335
+1994,Green/Ecologist,5.819999999999999
+1994,Liberal,9.104210526315791
+1994,Right-wing,7.268000000000001
+1994,Social democracy,29.63461538461539
+1994,Special issue,1.3271428571428572
+1994,no family,15.553999999999998
+1994,to be coded,1.7999999999999998
+1995,Agrarian,5.995000000000001
+1995,Christian democracy,11.97
+1995,Communist/Socialist,4.62
+1995,Conservative,10.253333333333332
+1995,Green/Ecologist,4.796666666666667
+1995,Liberal,13.070833333333333
+1995,Right-wing,8.446666666666667
+1995,Social democracy,18.452222222222222
+1995,Special issue,0.984
+1995,to be coded,1.0
+1996,Agrarian,1.75
+1996,Christian democracy,11.121818181818181
+1996,Communist/Socialist,7.476363636363637
+1996,Conservative,24.35785714285714
+1996,Green/Ecologist,5.111666666666667
+1996,Liberal,9.755
+1996,Right-wing,4.050000000000001
+1996,Social democracy,16.74888888888889
+1996,Special issue,3.623999999999999
+1996,no family,8.03
+1996,to be coded,1.846666666666667
+1997,Agrarian,7.31
+1997,Christian democracy,21.046666666666667
+1997,Communist/Socialist,2.8412499999999996
+1997,Conservative,15.047545454545451
+1997,Green/Ecologist,4.8
+1997,Liberal,9.544
+1997,Right-wing,14.95
+1997,Social democracy,14.103
+1997,Special issue,1.4066666666666665
+1997,no family,1.1449999999999998
+1998,Agrarian,3.795
+1998,Christian democracy,11.932222222222222
+1998,Communist/Socialist,6.344444444444445
+1998,Conservative,15.267333333333333
+1998,Green/Ecologist,4.382857142857143
+1998,Liberal,9.043571428571427
+1998,Right-wing,5.095555555555555
+1998,Social democracy,23.939166666666665
+1998,Special issue,1.0
+1998,no family,1.2999999999999998
+1999,Agrarian,11.7
+1999,Christian democracy,13.104285714285714
+1999,Communist/Socialist,4.638333333333333
+1999,Conservative,11.35
+1999,Green/Ecologist,6.908571428571428
+1999,Liberal,10.546363636363635
+1999,Right-wing,10.944999999999999
+1999,Social democracy,21.02888888888889
+1999,Special issue,0.8333333333333334
+2000,Agrarian,7.026666666666666
+2000,Christian democracy,11.244444444444445
+2000,Communist/Socialist,4.753333333333333
+2000,Conservative,13.262
+2000,Green/Ecologist,4.34
+2000,Liberal,13.457272727272727
+2000,Right-wing,4.946666666666666
+2000,Social democracy,19.981666666666666
+2000,Special issue,4.996666666666667
+2000,no family,6.368571428571429
+2000,to be coded,2.9299999999999997
+2001,Agrarian,9.6
+2001,Christian democracy,3.38
+2001,Communist/Socialist,8.185714285714287
+2001,Conservative,13.502142857142855
+2001,Green/Ecologist,3.5233333333333334
+2001,Liberal,12.962
+2001,Right-wing,4.378333333333333
+2001,Social democracy,13.9675
+2001,Special issue,1.1416666666666668
+2001,no family,0.7
+2002,Agrarian,5.756666666666667
+2002,Christian democracy,16.105
+2002,Communist/Socialist,4.332352941176471
+2002,Conservative,14.181111111111111
+2002,Green/Ecologist,5.398888888888889
+2002,Liberal,9.242500000000001
+2002,Right-wing,5.4390909090909085
+2002,Social democracy,18.78705882352941
+2002,Special issue,1.0050000000000001
+2002,no family,14.256666666666666
+2003,Agrarian,8.65
+2003,Christian democracy,12.722857142857142
+2003,Communist/Socialist,5.673333333333335
+2003,Conservative,15.11375
+2003,Green/Ecologist,3.87
+2003,Liberal,10.682727272727272
+2003,Right-wing,5.414
+2003,Social democracy,20.839999999999996
+2003,Special issue,2.2725
+2003,no family,2.3
+2004,Agrarian,6.6
+2004,Christian democracy,11.784444444444444
+2004,Communist/Socialist,9.651666666666666
+2004,Conservative,13.823333333333332
+2004,Green/Ecologist,6.81
+2004,Liberal,15.205
+2004,Right-wing,7.595
+2004,Social democracy,23.138888888888886
+2004,Special issue,4.6890909090909085
+2004,no family,6.414999999999999
+2004,to be coded,6.27
+2005,Agrarian,9.2
+2005,Christian democracy,11.09
+2005,Communist/Socialist,4.525555555555555
+2005,Conservative,9.437857142857142
+2005,Green/Ecologist,5.164
+2005,Liberal,16.8475
+2005,Right-wing,6.3100000000000005
+2005,Social democracy,17.635454545454547
+2005,Special issue,0.7133333333333334
+2005,no family,0.9
+2005,to be coded,0.3
+2006,Agrarian,12.305
+2006,Christian democracy,10.575454545454544
+2006,Communist/Socialist,9.892499999999998
+2006,Conservative,15.68529411764706
+2006,Green/Ecologist,5.1899999999999995
+2006,Liberal,4.300909090909091
+2006,Right-wing,6.15875
+2006,Social democracy,18.952142857142857
+2006,Special issue,1.3375
+2006,no family,1.9399999999999997
+2006,to be coded,1.22
+2007,Agrarian,8.808000000000002
+2007,Christian democracy,17.145
+2007,Communist/Socialist,5.585
+2007,Conservative,17.12857142857143
+2007,Green/Ecologist,5.833749999999999
+2007,Liberal,8.061428571428571
+2007,Right-wing,5.884285714285714
+2007,Social democracy,14.291578947368421
+2007,Special issue,1.2775
+2007,no family,2.8475
+2008,Agrarian,3.73
+2008,Christian democracy,6.432857142857143
+2008,Communist/Socialist,3.4033333333333338
+2008,Conservative,27.261249999999997
+2008,Green/Ecologist,5.87
+2008,Liberal,7.99153846153846
+2008,Right-wing,6.528571428571428
+2008,Social democracy,27.209999999999997
+2008,Special issue,5.030000000000001
+2008,no family,17.95
+2008,to be coded,5.4
+2009,Christian democracy,23.216
+2009,Communist/Socialist,5.998749999999999
+2009,Conservative,18.203333333333333
+2009,Green/Ecologist,8.313333333333333
+2009,Liberal,13.391666666666666
+2009,Right-wing,5.154999999999999
+2009,Social democracy,28.782
+2009,Special issue,2.0
+2010,Agrarian,13.334999999999999
+2010,Christian democracy,8.292222222222222
+2010,Communist/Socialist,5.768000000000001
+2010,Conservative,15.311764705882354
+2010,Green/Ecologist,4.872857142857143
+2010,Liberal,11.194444444444445
+2010,Right-wing,6.329999999999999
+2010,Social democracy,15.379999999999997
+2010,Special issue,1.555
+2010,no family,5.15
+2011,Agrarian,11.224
+2011,Christian democracy,11.206249999999999
+2011,Communist/Socialist,7.881666666666667
+2011,Conservative,16.763529411764704
+2011,Green/Ecologist,4.221666666666668
+2011,Liberal,12.834
+2011,Right-wing,5.417142857142857
+2011,Social democracy,18.06
+2011,Special issue,6.105999999999998
+2011,no family,3.4428571428571426
+2011,to be coded,1.8
+2012,Agrarian,3.88
+2012,Christian democracy,13.985625000000002
+2012,Communist/Socialist,7.8575
+2012,Conservative,6.55076923076923
+2012,Green/Ecologist,3.5733333333333337
+2012,Liberal,7.32875
+2012,Right-wing,5.4994444444444435
+2012,Social democracy,25.819499999999998
+2012,Special issue,4.077500000000001
+2012,no family,1.8575000000000002
+2013,Christian democracy,15.589142857142857
+2013,Communist/Socialist,5.234285714285714
+2013,Conservative,10.87176923076923
+2013,Green/Ecologist,10.3
+2013,Liberal,7.5922
+2013,Right-wing,5.4062222222222225
+2013,Social democracy,25.306125
+2013,Special issue,2.101125
+2013,to be coded,1.626
+2014,Agrarian,12.82
+2014,Christian democracy,6.006666666666667
+2014,Communist/Socialist,3.9924999999999997
+2014,Conservative,17.529999999999998
+2014,Green/Ecologist,9.284
+2014,Liberal,8.296000000000001
+2014,Right-wing,9.43142857142857
+2014,Social democracy,15.129375
+2014,Special issue,6.740000000000001
+2014,no family,20.22
+2014,to be coded,1.69
+2015,Agrarian,19.49
+2015,Christian democracy,9.876428571428573
+2015,Communist/Socialist,6.231764705882353
+2015,Conservative,13.462
+2015,Green/Ecologist,3.5914285714285716
+2015,Liberal,15.708461538461538
+2015,Right-wing,6.757222222222222
+2015,Social democracy,11.919500000000003
+2015,Special issue,0.9925
+2015,no family,1.105
+2016,Agrarian,22.45
+2016,Christian democracy,14.435999999999998
+2016,Communist/Socialist,9.224285714285713
+2016,Conservative,12.695714285714287
+2016,Green/Ecologist,3.186666666666666
+2016,Liberal,8.69375
+2016,Right-wing,4.952
+2016,Social democracy,16.929
+2016,Special issue,1.9666666666666666
+2016,no family,3.4400000000000004
+2017,Christian democracy,14.350000000000001
+2017,Communist/Socialist,5.897142857142858
+2017,Conservative,10.364117647058823
+2017,Green/Ecologist,4.3025
+2017,Liberal,10.716923076923079
+2017,Right-wing,9.784444444444443
+2017,Social democracy,16.452499999999997
+2017,Special issue,3.6116666666666664
+2017,no family,2.395
+2018,Agrarian,9.29
+2018,Christian democracy,8.596666666666666
+2018,Communist/Socialist,4.6066666666666665
+2018,Conservative,13.455
+2018,Green/Ecologist,11.998000000000001
+2018,Liberal,10.388
+2018,Right-wing,15.878
+2018,Social democracy,10.815000000000001
+2018,Special issue,2.625
+2018,no family,0.52
+2018,to be coded,4.17
+2019,Agrarian,15.65
+2019,Christian democracy,2.705
+2019,Communist/Socialist,7.503333333333333
+2019,Conservative,10.751666666666667
+2019,Green/Ecologist,4.833333333333333
+2019,Liberal,10.971666666666666
+2019,Social democracy,19.82
+2019,Special issue,1.665

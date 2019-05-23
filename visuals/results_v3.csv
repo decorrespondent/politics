@@ -1,0 +1,4630 @@
+election_year,country_name,party_id,family_name,seats,vote_share
+1900,Belgium,63,Liberal,31.0,22.7
+1900,Belgium,2422,Social democracy,32.0,22.5
+1900,Belgium,2423,Christian democracy,86.0,48.5
+1900,Belgium,2481,Christian democracy,1.0,2.5
+1900,Belgium,2488,no family,2.0,
+1901,Denmark,590,Conservative,8.0,24.04
+1901,Denmark,1605,Liberal,76.0,42.87
+1901,Denmark,1629,Social democracy,14.0,17.06
+1901,Denmark,2430,Liberal,16.0,11.4
+1902,Belgium,63,Liberal,20.0,25.1
+1902,Belgium,2422,Social democracy,10.0,15.0
+1902,Belgium,2423,Christian democracy,54.0,56.0
+1902,Belgium,2481,Christian democracy,1.0,2.5
+1902,France,401,Conservative,75.0,10.14
+1902,France,1539,Social democracy,45.0,6.31
+1902,France,2585,Conservative,117.0,16.81
+1902,France,2587,Liberal,175.0,29.73
+1902,France,2589,Conservative,145.0,14.12
+1902,France,2590,Communist/Socialist,0.0,4.09
+1902,France,2592,Liberal,18.0,4.59
+1903,Denmark,590,Conservative,12.0,20.49
+1903,Denmark,1128,no family,1.0,
+1903,Denmark,1605,Liberal,73.0,47.14
+1903,Denmark,1629,Social democracy,16.0,20.07
+1903,Denmark,2430,Liberal,12.0,7.99
+1904,Belgium,63,Liberal,22.0,25.4
+1904,Belgium,2300,no family,1.0,2.9
+1904,Belgium,2422,Social democracy,19.0,25.98
+1904,Belgium,2423,Christian democracy,38.0,43.5
+1904,Belgium,2481,Christian democracy,1.0,1.8
+1906,Belgium,63,Liberal,15.0,17.7
+1906,Belgium,1335,Social democracy,14.0,19.1
+1906,Belgium,2422,Social democracy,6.0,6.2
+1906,Belgium,2423,Christian democracy,50.0,54.3
+1906,Belgium,2481,Christian democracy,0.0,1.0
+1906,Denmark,211,Liberal,9.0,12.6
+1906,Denmark,590,Conservative,12.0,21.0
+1906,Denmark,1128,no family,4.0,3.0
+1906,Denmark,1605,Liberal,56.0,31.2
+1906,Denmark,1629,Social democracy,24.0,25.4
+1906,Denmark,2430,Liberal,9.0,6.8
+1906,France,401,Conservative,239.0,28.53
+1906,France,1539,Social democracy,53.0,9.95
+1906,France,2585,Conservative,39.0,7.85
+1906,France,2586,Conservative,67.0,14.06
+1906,France,2587,Liberal,52.0,7.99
+1906,France,2589,Conservative,107.0,29.18
+1906,France,2590,Communist/Socialist,18.0,2.33
+1908,Belgium,63,Liberal,22.0,27.6
+1908,Belgium,1335,Social democracy,3.0,3.3
+1908,Belgium,2422,Social democracy,19.0,22.6
+1908,Belgium,2423,Christian democracy,37.0,43.1
+1908,Belgium,2481,Christian democracy,1.0,2.7
+1909,Denmark,211,Liberal,15.0,15.5
+1909,Denmark,590,Conservative,21.0,19.8
+1909,Denmark,1128,no family,6.0,5.7
+1909,Denmark,1605,Liberal,37.0,24.0
+1909,Denmark,1629,Social democracy,24.0,28.7
+1909,Denmark,2430,Liberal,11.0,5.9
+1910,Belgium,63,Liberal,15.0,18.6
+1910,Belgium,1335,Social democracy,15.0,19.1
+1910,Belgium,2422,Social democracy,6.0,6.7
+1910,Belgium,2423,Christian democracy,49.0,53.1
+1910,Belgium,2481,Christian democracy,0.0,2.1
+1910,Denmark,211,Liberal,20.0,18.6
+1910,Denmark,590,Conservative,13.0,18.6
+1910,Denmark,1128,no family,0.0,0.4
+1910,Denmark,1605,Liberal,57.0,34.1
+1910,Denmark,1629,Social democracy,24.0,28.3
+1910,France,1328,no family,2.0,
+1910,France,1539,Social democracy,75.0,13.15
+1910,France,2581,Right-wing,137.0,17.43
+1910,France,2585,Conservative,105.0,11.44
+1910,France,2587,Liberal,0.0,12.06
+1910,France,2589,Conservative,91.0,18.97
+1910,France,2590,Communist/Socialist,25.0,4.09
+1910,France,2593,Christian democracy,0.0,1.81
+1910,France,2594,Social democracy,145.0,20.45
+1911,Sweden,657,Conservative,64.0,31.2
+1911,Sweden,892,Liberal,102.0,40.2
+1911,Sweden,904,Social democracy,64.0,28.5
+1912,Belgium,63,Liberal,44.0,11.1
+1912,Belgium,1335,Social democracy,,27.1
+1912,Belgium,2422,Social democracy,39.0,9.3
+1912,Belgium,2423,Christian democracy,101.0,51.0
+1912,Belgium,2481,Christian democracy,2.0,0.7
+1913,Denmark,211,Liberal,31.0,18.7
+1913,Denmark,590,Conservative,7.0,22.4
+1913,Denmark,1128,no family,0.0,0.7
+1913,Denmark,1605,Liberal,44.0,28.6
+1913,Denmark,1629,Social democracy,32.0,29.6
+1914,Belgium,63,Liberal,20.0,24.5
+1914,Belgium,2422,Social democracy,26.0,30.3
+1914,Belgium,2423,Christian democracy,41.0,42.8
+1914,Belgium,2481,Christian democracy,1.0,1.7
+1914,France,401,Conservative,137.0,18.15
+1914,France,1539,Social democracy,103.0,16.76
+1914,France,2581,Right-wing,150.0,18.84
+1914,France,2585,Conservative,96.0,16.6
+1914,France,2587,Liberal,0.0,9.72
+1914,France,2589,Conservative,73.0,15.39
+1914,France,2594,Social democracy,27.0,3.88
+1914,Sweden,657,Conservative,86.0,37.1
+1914,Sweden,892,Liberal,64.0,29.55
+1914,Sweden,904,Social democracy,80.0,33.25
+1914,Sweden,1461,Agrarian,0.0,0.2
+1915,Denmark,211,Liberal,31.0,
+1915,Denmark,590,Conservative,7.0,
+1915,Denmark,1128,no family,1.0,
+1915,Denmark,1605,Liberal,43.0,
+1915,Denmark,1629,Social democracy,32.0,
+1917,Finland,94,Agrarian,26.0,12.38
+1917,Finland,395,Social democracy,92.0,44.79
+1917,Finland,585,Liberal,21.0,10.9
+1917,Finland,2433,Social democracy,0.0,1.56
+1917,Finland,2434,Conservative,32.0,30.17
+1917,Sweden,657,Conservative,57.0,24.7
+1917,Sweden,892,Liberal,62.0,27.6
+1917,Sweden,904,Social democracy,86.0,31.1
+1917,Sweden,1461,Agrarian,9.0,5.3
+1917,Sweden,2556,Agrarian,3.0,3.1
+1918,Denmark,211,Liberal,32.0,20.7
+1918,Denmark,590,Conservative,22.0,18.3
+1918,Denmark,1605,Liberal,45.0,29.4
+1918,Denmark,1629,Social democracy,39.0,28.7
+1918,Denmark,2058,no family,0.0,0.5
+1918,Denmark,2429,Liberal,1.0,1.3
+1918,Netherlands,300,Christian democracy,13.0,13.4
+1918,Netherlands,405,Christian democracy,7.0,6.5
+1918,Netherlands,944,Liberal,5.0,5.3
+1918,Netherlands,1194,Communist/Socialist,2.0,2.3
+1918,Netherlands,1451,Social democracy,22.0,22.0
+1918,Netherlands,2110,no family,0.0,
+1918,Netherlands,2457,Liberal,3.0,3.1
+1918,Netherlands,2458,Agrarian,1.0,0.4
+1918,Netherlands,2459,Liberal,4.0,3.8
+1918,Netherlands,2462,Liberal,6.0,6.2
+1918,Netherlands,2539,Christian democracy,30.0,30.0
+1918,United Kingdom,332,Social democracy,7.0,2.21
+1918,United Kingdom,453,no family,8.0,
+1918,United Kingdom,659,Liberal,36.0,13.0
+1918,United Kingdom,689,Communist/Socialist,73.0,4.6
+1918,United Kingdom,773,Conservative,332.0,32.5
+1918,United Kingdom,1556,Social democracy,57.0,20.8
+1918,United Kingdom,1599,no family,1.0,0.09
+1918,United Kingdom,2296,no family,1.0,0.3
+1918,United Kingdom,2501,Liberal,127.0,12.6
+1918,United Kingdom,2503,Right-wing,9.0,1.45
+1918,United Kingdom,2504,Right-wing,2.0,0.9
+1918,United Kingdom,2508,Social democracy,4.0,0.5
+1918,United Kingdom,2719,Conservative,50.0,5.9
+1919,Austria,973,Social democracy,72.0,40.75
+1919,Austria,1013,Christian democracy,69.0,35.93
+1919,Austria,2672,Conservative,8.0,5.85
+1919,Austria,2673,Conservative,2.0,2.02
+1919,Austria,2675,Liberal,3.0,2.16
+1919,Austria,2676,Right-wing,5.0,1.9
+1919,Austria,2677,Conservative,3.0,1.58
+1919,Austria,2678,Conservative,2.0,1.12
+1919,Austria,2679,Right-wing,0.0,1.57
+1919,Austria,2686,no family,4.0,1.49
+1919,Austria,2688,Liberal,1.0,1.64
+1919,Austria,2689,Special issue,1.0,2.27
+1919,Belgium,63,Liberal,34.0,17.6
+1919,Belgium,2052,no family,,0.1
+1919,Belgium,2300,no family,4.0,2.4
+1919,Belgium,2422,Social democracy,70.0,36.6
+1919,Belgium,2423,Christian democracy,73.0,35.2
+1919,Belgium,2424,Social democracy,5.0,3.5
+1919,Belgium,2488,no family,,4.7
+1919,Finland,94,Agrarian,42.0,19.7
+1919,Finland,395,Social democracy,80.0,38.0
+1919,Finland,585,Liberal,22.0,12.1
+1919,Finland,1118,Conservative,28.0,15.7
+1919,Finland,1219,Liberal,26.0,12.8
+1919,Finland,2433,Social democracy,2.0,1.5
+1919,France,401,Conservative,106.0,17.69
+1919,France,1328,no family,2.0,
+1919,France,1539,Social democracy,67.0,23.36
+1919,France,2581,Right-wing,201.0,22.66
+1919,France,2585,Conservative,51.0,6.28
+1919,France,2587,Liberal,79.0,11.07
+1919,France,2589,Conservative,88.0,14.2
+1919,France,2594,Social democracy,22.0,3.52
+1919,Germany,137,Christian democracy,73.0,15.45
+1919,Germany,558,Social democracy,165.0,37.87
+1919,Germany,2289,no family,2.0,0.38
+1919,Germany,2690,Communist/Socialist,22.0,7.63
+1919,Germany,2691,Liberal,74.0,18.32
+1919,Germany,2692,Right-wing,41.0,10.26
+1919,Germany,2693,Conservative,23.0,4.66
+1919,Germany,2696,Conservative,3.0,0.7
+1919,Germany,2697,Christian democracy,16.0,3.77
+1919,Germany,2701,Liberal,4.0,0.9
+1919,Luxembourg,701,Social democracy,8.0,15.6
+1919,Luxembourg,2149,no family,0.0,3.0
+1919,Luxembourg,2290,no family,1.0,0.7
+1919,Luxembourg,2450,Right-wing,3.0,6.6
+1919,Luxembourg,2451,to be coded,2.0,6.2
+1919,Luxembourg,2453,Liberal,7.0,14.2
+1919,Luxembourg,2527,Right-wing,27.0,52.8
+1920,Austria,973,Social democracy,69.0,35.99
+1920,Austria,1013,Christian democracy,85.0,41.79
+1920,Austria,2674,Conservative,21.0,17.25
+1920,Austria,2678,Conservative,0.0,
+1920,Austria,2681,Right-wing,7.0,
+1920,Austria,2684,Right-wing,0.0,
+1920,Austria,2686,no family,1.0,1.44
+1920,Denmark,211,Liberal,17.0,11.843333333333334
+1920,Denmark,590,Conservative,27.0,18.836666666666666
+1920,Denmark,812,Special issue,1.0,0.6
+1920,Denmark,1605,Liberal,50.0,34.77
+1920,Denmark,1629,Social democracy,44.0,30.47
+1920,Denmark,2058,no family,0.0,0.7533333333333333
+1920,Denmark,2429,Liberal,3.6666666666666665,2.63
+1920,Germany,137,Christian democracy,67.0,13.61
+1920,Germany,558,Social democracy,113.0,21.58
+1920,Germany,649,Communist/Socialist,2.0,1.7
+1920,Germany,2289,no family,2.0,0.25
+1920,Germany,2690,Communist/Socialist,81.0,18.81
+1920,Germany,2691,Liberal,44.0,8.46
+1920,Germany,2692,Right-wing,60.0,12.94
+1920,Germany,2693,Conservative,62.0,13.87
+1920,Germany,2696,Conservative,5.0,1.23
+1920,Germany,2697,Christian democracy,20.0,4.51
+1920,Germany,2701,Liberal,4.0,0.84
+1920,Germany,2703,Agrarian,3.0,0.69
+1920,Germany,2704,Agrarian,3.0,0.63
+1920,Sweden,657,Conservative,70.0,27.8
+1920,Sweden,882,Communist/Socialist,7.0,6.4
+1920,Sweden,892,Liberal,47.0,21.8
+1920,Sweden,904,Social democracy,75.0,29.6
+1920,Sweden,1461,Agrarian,19.0,7.9
+1920,Sweden,2556,Agrarian,10.0,6.2
+1921,Belgium,63,Liberal,33.0,18.1
+1921,Belgium,2052,no family,,0.3
+1921,Belgium,2300,no family,1.0,0.5
+1921,Belgium,2422,Social democracy,68.0,34.9
+1921,Belgium,2423,Christian democracy,76.0,39.8
+1921,Belgium,2424,Social democracy,4.0,2.8
+1921,Belgium,2564,Christian democracy,4.0,4.3
+1921,Sweden,657,Conservative,62.0,25.8
+1921,Sweden,882,Communist/Socialist,7.0,4.6
+1921,Sweden,892,Liberal,41.0,18.7
+1921,Sweden,904,Social democracy,93.0,36.2
+1921,Sweden,1461,Agrarian,21.0,11.0
+1921,Sweden,2557,Communist/Socialist,6.0,3.2
+1922,Finland,94,Agrarian,45.0,20.3
+1922,Finland,395,Social democracy,53.0,25.1
+1922,Finland,585,Liberal,25.0,12.4
+1922,Finland,1118,Conservative,35.0,18.2
+1922,Finland,1219,Liberal,15.0,9.2
+1922,Finland,1292,Communist/Socialist,27.0,14.8
+1922,Ireland,30,no family,9.0,7.8
+1922,Ireland,280,Conservative,36.0,21.8
+1922,Ireland,318,Social democracy,17.0,21.3
+1922,Ireland,2447,Conservative,58.0,38.5
+1922,Ireland,2523,Liberal,1.0,2.3
+1922,Ireland,2563,Agrarian,7.0,7.8
+1922,Luxembourg,151,Communist/Socialist,0.0,1.0
+1922,Luxembourg,701,Social democracy,6.0,10.7
+1922,Luxembourg,2450,Right-wing,4.0,14.9
+1922,Luxembourg,2451,to be coded,2.0,
+1922,Luxembourg,2452,no family,1.0,
+1922,Luxembourg,2453,Liberal,9.0,23.0
+1922,Luxembourg,2527,Right-wing,26.0,50.4
+1922,Netherlands,300,Christian democracy,16.0,13.7
+1922,Netherlands,405,Christian democracy,11.0,10.9
+1922,Netherlands,944,Liberal,5.0,4.6
+1922,Netherlands,1194,Communist/Socialist,2.0,1.8
+1922,Netherlands,1251,Conservative,1.0,0.9
+1922,Netherlands,1451,Social democracy,20.0,19.4
+1922,Netherlands,2110,no family,0.0,
+1922,Netherlands,2288,no family,1.0,0.6
+1922,Netherlands,2458,Agrarian,2.0,1.3
+1922,Netherlands,2461,Liberal,10.0,9.3
+1922,Netherlands,2539,Christian democracy,32.0,29.9
+1922,United Kingdom,332,Social democracy,3.0,0.71
+1922,United Kingdom,453,no family,10.0,2.62
+1922,United Kingdom,659,Liberal,62.0,18.54
+1922,United Kingdom,773,Conservative,344.0,38.23
+1922,United Kingdom,1017,Liberal,53.0,10.22
+1922,United Kingdom,1556,Social democracy,142.0,29.44
+1922,United Kingdom,2514,Conservative,1.0,0.1
+1923,Austria,973,Social democracy,68.0,39.6
+1923,Austria,1013,Christian democracy,82.0,44.05
+1923,Austria,2674,Conservative,10.0,
+1923,Austria,2681,Right-wing,5.0,
+1923,Austria,2687,no family,0.0,2.88
+1923,Austria,2699,Right-wing,,10.84
+1923,Ireland,30,no family,13.0,8.1
+1923,Ireland,280,Conservative,44.0,27.4
+1923,Ireland,318,Social democracy,14.0,10.6
+1923,Ireland,2216,no family,0.0,0.5
+1923,Ireland,2447,Conservative,63.0,39.0
+1923,Ireland,2523,Liberal,2.0,0.9
+1923,Ireland,2525,Conservative,2.0,0.3
+1923,Ireland,2563,Agrarian,15.0,12.1
+1923,United Kingdom,332,Social democracy,3.0,0.4
+1923,United Kingdom,453,no family,5.0,1.0
+1923,United Kingdom,659,Liberal,158.0,29.7
+1923,United Kingdom,773,Conservative,258.0,38.0
+1923,United Kingdom,1276,Communist/Socialist,0.0,0.2
+1923,United Kingdom,1556,Social democracy,191.0,30.7
+1924,Denmark,211,Liberal,20.0,13.0
+1924,Denmark,590,Conservative,28.0,18.9
+1924,Denmark,812,Special issue,1.0,0.6
+1924,Denmark,1605,Liberal,44.0,28.3
+1924,Denmark,1606,Liberal,0.0,1.0
+1924,Denmark,1629,Social democracy,55.0,36.6
+1924,France,401,Conservative,162.0,17.86
+1924,France,686,Communist/Socialist,26.0,9.82
+1924,France,1539,Social democracy,104.0,20.1
+1924,France,2581,Right-wing,204.0,35.35
+1924,France,2587,Liberal,53.0,11.72
+1924,France,2589,Conservative,25.0,4.16
+1924,Germany,137,Christian democracy,67.0,13.415
+1924,Germany,558,Social democracy,115.5,23.235
+1924,Germany,649,Communist/Socialist,53.5,10.76
+1924,Germany,2289,no family,1.0,0.11
+1924,Germany,2691,Liberal,30.0,5.984999999999999
+1924,Germany,2692,Right-wing,99.0,19.965
+1924,Germany,2693,Conservative,48.0,9.620000000000001
+1924,Germany,2695,Right-wing,23.0,4.765000000000001
+1924,Germany,2696,Conservative,4.5,0.96
+1924,Germany,2697,Christian democracy,17.5,3.4800000000000004
+1924,Germany,2698,Conservative,9.5,1.99
+1924,Germany,2701,Liberal,4.0,0.78
+1924,Germany,2703,Agrarian,4.0,0.755
+1924,Germany,2704,Agrarian,2.0,0.47
+1924,Germany,2705,Right-wing,4.0,1.15
+1924,Germany,2706,Agrarian,1.5,0.28
+1924,Germany,2707,Agrarian,1.0,0.215
+1924,Sweden,657,Conservative,65.0,26.1
+1924,Sweden,882,Communist/Socialist,4.0,3.6
+1924,Sweden,892,Liberal,28.0,13.0
+1924,Sweden,904,Social democracy,104.0,41.1
+1924,Sweden,1461,Agrarian,23.0,10.8
+1924,Sweden,2475,Communist/Socialist,1.0,1.5
+1924,Sweden,2477,Liberal,5.0,3.9
+1924,United Kingdom,332,Social democracy,1.0,
+1924,United Kingdom,453,no family,3.0,0.49
+1924,United Kingdom,659,Liberal,40.0,17.6
+1924,United Kingdom,689,Communist/Socialist,0.0,0.28
+1924,United Kingdom,773,Conservative,412.0,47.2
+1924,United Kingdom,1276,Communist/Socialist,1.0,0.33
+1924,United Kingdom,1556,Social democracy,151.0,32.99
+1924,United Kingdom,2514,Conservative,7.0,1.11
+1925,Belgium,63,Liberal,23.0,14.6
+1925,Belgium,708,Communist/Socialist,2.0,1.6
+1925,Belgium,2422,Social democracy,78.0,39.4
+1925,Belgium,2423,Christian democracy,75.0,36.1
+1925,Belgium,2424,Social democracy,6.0,3.9
+1925,Belgium,2488,no family,3.0,2.5
+1925,Luxembourg,701,Social democracy,8.0,16.2
+1925,Luxembourg,2149,no family,0.0,1.4
+1925,Luxembourg,2450,Right-wing,3.0,6.9
+1925,Luxembourg,2452,no family,2.0,5.3
+1925,Luxembourg,2456,Liberal,5.0,9.6
+1925,Luxembourg,2527,Right-wing,22.0,42.6
+1925,Luxembourg,2529,Right-wing,2.0,7.3
+1925,Luxembourg,2531,Liberal,1.0,2.8
+1925,Luxembourg,2533,Liberal,3.0,4.8
+1925,Luxembourg,2536,Agrarian,1.0,2.4
+1925,Netherlands,300,Christian democracy,13.0,12.2
+1925,Netherlands,405,Christian democracy,11.0,9.9
+1925,Netherlands,944,Liberal,7.0,6.1
+1925,Netherlands,1194,Communist/Socialist,1.0,1.2
+1925,Netherlands,1251,Conservative,2.0,2.0
+1925,Netherlands,1451,Social democracy,24.0,22.9
+1925,Netherlands,2110,no family,0.0,
+1925,Netherlands,2458,Agrarian,1.0,2.0
+1925,Netherlands,2461,Liberal,9.0,8.7
+1925,Netherlands,2464,Christian democracy,1.0,1.0
+1925,Netherlands,2466,Christian democracy,1.0,1.2
+1925,Netherlands,2539,Christian democracy,30.0,28.6
+1926,Denmark,211,Liberal,16.0,11.3
+1926,Denmark,590,Conservative,30.0,20.6
+1926,Denmark,812,Special issue,1.0,0.8
+1926,Denmark,1239,Communist/Socialist,0.0,0.4
+1926,Denmark,1605,Liberal,46.0,28.3
+1926,Denmark,1606,Liberal,2.0,1.3
+1926,Denmark,1629,Social democracy,53.0,37.2
+1927,Austria,973,Social democracy,71.0,42.28
+1927,Austria,1013,Christian democracy,73.0,48.24
+1927,Austria,2674,Conservative,12.0,
+1927,Austria,2681,Right-wing,9.0,6.32
+1927,Austria,2683,Christian democracy,0.0,1.0
+1927,Finland,94,Agrarian,52.0,22.6
+1927,Finland,395,Social democracy,60.0,28.3
+1927,Finland,585,Liberal,24.0,12.2
+1927,Finland,1118,Conservative,34.0,17.7
+1927,Finland,1219,Liberal,10.0,6.8
+1927,Finland,1292,Communist/Socialist,20.0,12.1
+1927,Finland,2054,no family,0.0,0.15
+1927,Ireland,30,no family,14.0,10.65
+1927,Ireland,280,Conservative,50.5,30.700000000000003
+1927,Ireland,318,Social democracy,17.5,10.85
+1927,Ireland,433,Communist/Socialist,5.0,3.6
+1927,Ireland,2216,no family,0.0,0.3
+1927,Ireland,2443,Conservative,5.0,4.46
+1927,Ireland,2447,Conservative,54.5,33.05
+1927,Ireland,2526,Communist/Socialist,1.0,1.1
+1927,Ireland,2563,Agrarian,8.5,7.65
+1928,France,401,Conservative,120.0,17.77
+1928,France,686,Communist/Socialist,14.0,11.26
+1928,France,1328,no family,2.0,
+1928,France,1539,Social democracy,99.0,18.04
+1928,France,2581,Right-wing,182.0,21.99
+1928,France,2585,Conservative,52.0,
+1928,France,2587,Liberal,74.0,23.19
+1928,France,2589,Conservative,26.0,2.27
+1928,France,2594,Social democracy,33.0,5.18
+1928,Germany,137,Christian democracy,61.0,11.88
+1928,Germany,558,Social democracy,153.0,29.76
+1928,Germany,649,Communist/Socialist,54.0,10.62
+1928,Germany,2691,Liberal,25.0,4.81
+1928,Germany,2692,Right-wing,73.0,14.25
+1928,Germany,2693,Conservative,45.0,8.71
+1928,Germany,2695,Right-wing,12.0,2.63
+1928,Germany,2696,Conservative,4.0,0.64
+1928,Germany,2697,Christian democracy,17.0,3.27
+1928,Germany,2698,Conservative,23.0,4.51
+1928,Germany,2701,Liberal,7.0,1.18
+1928,Germany,2703,Agrarian,3.0,0.65
+1928,Germany,2708,Agrarian,2.0,0.42
+1928,Germany,2709,Christian democracy,9.0,1.86
+1928,Germany,2710,Special issue,2.0,1.57
+1928,Germany,2712,Agrarian,1.0,0.39
+1928,Luxembourg,701,Social democracy,12.0,32.6
+1928,Luxembourg,2450,Right-wing,3.0,
+1928,Luxembourg,2456,Liberal,2.0,9.7
+1928,Luxembourg,2527,Right-wing,24.0,44.8
+1928,Luxembourg,2529,Right-wing,2.0,6.6
+1928,Luxembourg,2531,Liberal,1.0,
+1928,Luxembourg,2533,Liberal,6.0,6.3
+1928,Luxembourg,2535,Liberal,1.0,
+1928,Luxembourg,2536,Agrarian,1.0,
+1928,Sweden,657,Conservative,73.0,29.4
+1928,Sweden,882,Communist/Socialist,8.0,6.4
+1928,Sweden,892,Liberal,28.0,12.9
+1928,Sweden,904,Social democracy,90.0,37.0
+1928,Sweden,1461,Agrarian,27.0,11.2
+1928,Sweden,2477,Liberal,4.0,3.0
+1929,Belgium,63,Liberal,28.0,16.6
+1929,Belgium,708,Communist/Socialist,1.0,1.9
+1929,Belgium,2300,no family,6.0,1.9
+1929,Belgium,2422,Social democracy,70.0,36.0
+1929,Belgium,2423,Christian democracy,71.0,36.6
+1929,Belgium,2424,Social democracy,11.0,5.9
+1929,Denmark,211,Liberal,16.0,10.7
+1929,Denmark,590,Conservative,24.0,16.5
+1929,Denmark,812,Special issue,1.0,0.7
+1929,Denmark,1239,Communist/Socialist,0.0,0.2
+1929,Denmark,1605,Liberal,43.0,28.3
+1929,Denmark,1606,Liberal,3.0,1.8
+1929,Denmark,1629,Social democracy,61.0,41.8
+1929,Finland,94,Agrarian,60.0,26.2
+1929,Finland,395,Social democracy,59.0,27.4
+1929,Finland,585,Liberal,23.0,11.4
+1929,Finland,920,Agrarian,0.0,1.1
+1929,Finland,1118,Conservative,28.0,14.5
+1929,Finland,1219,Liberal,7.0,5.6
+1929,Finland,1292,Communist/Socialist,23.0,13.5
+1929,Netherlands,300,Christian democracy,12.0,11.6
+1929,Netherlands,405,Christian democracy,11.0,10.5
+1929,Netherlands,944,Liberal,7.0,6.2
+1929,Netherlands,1194,Communist/Socialist,2.0,2.0
+1929,Netherlands,1251,Conservative,3.0,2.3
+1929,Netherlands,1451,Social democracy,24.0,23.8
+1929,Netherlands,2110,no family,0.0,
+1929,Netherlands,2458,Agrarian,1.0,1.0
+1929,Netherlands,2461,Liberal,8.0,7.4
+1929,Netherlands,2464,Christian democracy,1.0,1.1
+1929,Netherlands,2539,Christian democracy,30.0,29.6
+1929,Netherlands,2714,Liberal,1.0,1.2
+1929,United Kingdom,332,Social democracy,3.0,0.11
+1929,United Kingdom,453,no family,6.0,1.03
+1929,United Kingdom,659,Liberal,59.0,23.44
+1929,United Kingdom,773,Conservative,260.0,38.22
+1929,United Kingdom,1276,Communist/Socialist,0.0,0.22
+1929,United Kingdom,1556,Social democracy,287.0,36.96
+1930,Austria,973,Social democracy,72.0,41.14
+1930,Austria,1013,Christian democracy,66.0,35.65
+1930,Austria,2674,Conservative,10.0,
+1930,Austria,2681,Right-wing,9.0,
+1930,Austria,2684,Right-wing,0.0,3.03
+1930,Austria,2685,Right-wing,8.0,6.17
+1930,Austria,2699,Right-wing,,12.8
+1930,Finland,94,Agrarian,59.0,27.3
+1930,Finland,395,Social democracy,66.0,34.2
+1930,Finland,585,Liberal,20.0,10.0
+1930,Finland,920,Agrarian,1.0,1.8
+1930,Finland,1118,Conservative,42.0,18.0
+1930,Finland,1219,Liberal,11.0,5.8
+1930,Finland,1292,Communist/Socialist,0.0,1.0
+1930,Finland,1565,Communist/Socialist,1.0,0.82
+1930,Germany,137,Christian democracy,68.0,11.63
+1930,Germany,558,Social democracy,143.0,24.53
+1930,Germany,649,Communist/Socialist,77.0,13.13
+1930,Germany,2691,Liberal,20.0,3.44
+1930,Germany,2692,Right-wing,41.0,7.03
+1930,Germany,2693,Conservative,30.0,4.86
+1930,Germany,2695,Right-wing,107.0,18.25
+1930,Germany,2696,Conservative,3.0,0.48
+1930,Germany,2697,Christian democracy,19.0,3.2
+1930,Germany,2698,Conservative,23.0,3.9
+1930,Germany,2700,Christian democracy,14.0,2.48
+1930,Germany,2701,Liberal,5.0,0.81
+1930,Germany,2703,Agrarian,3.0,0.52
+1930,Germany,2709,Christian democracy,19.0,2.82
+1930,Germany,2711,Conservative,4.0,0.83
+1930,Germany,2712,Agrarian,1.0,0.16
+1931,Luxembourg,151,Communist/Socialist,0.0,0.7
+1931,Luxembourg,701,Social democracy,15.0,19.2
+1931,Luxembourg,2452,no family,2.0,
+1931,Luxembourg,2456,Liberal,4.0,9.2
+1931,Luxembourg,2527,Right-wing,26.0,46.0
+1931,Luxembourg,2529,Right-wing,2.0,4.7
+1931,Luxembourg,2535,Liberal,2.0,7.9
+1931,Luxembourg,2536,Agrarian,2.0,6.9
+1931,Luxembourg,2538,Liberal,1.0,5.3
+1931,United Kingdom,332,Social democracy,2.0,0.57
+1931,United Kingdom,453,no family,3.0,0.54
+1931,United Kingdom,659,Liberal,32.0,6.34
+1931,United Kingdom,773,Conservative,470.0,54.98
+1931,United Kingdom,1017,Liberal,35.0,3.74
+1931,United Kingdom,1276,Communist/Socialist,0.0,0.35
+1931,United Kingdom,1556,Social democracy,52.0,30.71
+1931,United Kingdom,2479,Social democracy,13.0,1.58
+1931,United Kingdom,2517,Liberal,4.0,0.48
+1931,United Kingdom,2518,Conservative,4.0,0.05
+1932,Belgium,63,Liberal,24.0,14.3
+1932,Belgium,708,Communist/Socialist,3.0,2.8
+1932,Belgium,2422,Social democracy,73.0,37.1
+1932,Belgium,2423,Christian democracy,79.0,38.5
+1932,Belgium,2424,Social democracy,8.0,5.6
+1932,Denmark,211,Liberal,14.0,9.4
+1932,Denmark,590,Conservative,27.0,18.7
+1932,Denmark,812,Special issue,1.0,0.6
+1932,Denmark,1239,Communist/Socialist,2.0,1.1
+1932,Denmark,1605,Liberal,38.0,24.7
+1932,Denmark,1606,Liberal,4.0,2.7
+1932,Denmark,1629,Social democracy,62.0,42.7
+1932,Denmark,2432,Right-wing,0.0,0.1
+1932,France,401,Conservative,157.0,19.18
+1932,France,686,Communist/Socialist,12.0,8.32
+1932,France,1539,Social democracy,129.0,20.51
+1932,France,2581,Right-wing,76.0,12.88
+1932,France,2583,Christian democracy,16.0,3.23
+1932,France,2584,Communist/Socialist,11.0,0.82
+1932,France,2585,Conservative,62.0,9.98
+1932,France,2587,Liberal,72.0,13.57
+1932,France,2589,Conservative,33.0,6.09
+1932,France,2594,Social democracy,37.0,5.38
+1932,Germany,137,Christian democracy,72.5,12.02
+1932,Germany,558,Social democracy,127.0,21.005
+1932,Germany,649,Communist/Socialist,94.5,15.59
+1932,Germany,2691,Liberal,3.0,0.98
+1932,Germany,2692,Right-wing,44.0,7.12
+1932,Germany,2693,Conservative,9.0,1.52
+1932,Germany,2695,Right-wing,213.0,35.18000000000001
+1932,Germany,2696,Conservative,1.0,0.18
+1932,Germany,2697,Christian democracy,21.0,3.33
+1932,Germany,2698,Conservative,1.5,0.355
+1932,Germany,2700,Christian democracy,4.0,1.065
+1932,Germany,2701,Liberal,2.5,0.38
+1932,Germany,2703,Agrarian,2.0,0.28
+1932,Germany,2704,Agrarian,1.0,0.16
+1932,Germany,2710,Special issue,1.0,0.11
+1932,Ireland,30,no family,14.0,10.4
+1932,Ireland,280,Conservative,72.0,44.5
+1932,Ireland,318,Social democracy,7.0,7.7
+1932,Ireland,2447,Conservative,57.0,35.28
+1932,Ireland,2526,Communist/Socialist,0.0,0.3
+1932,Ireland,2563,Agrarian,3.0,1.8
+1932,Sweden,657,Conservative,58.0,23.5
+1932,Sweden,882,Communist/Socialist,2.0,3.0
+1932,Sweden,892,Liberal,20.0,9.8
+1932,Sweden,904,Social democracy,104.0,41.7
+1932,Sweden,1461,Agrarian,36.0,14.1
+1932,Sweden,2405,no family,0.0,0.6
+1932,Sweden,2477,Liberal,4.0,2.0
+1932,Sweden,2478,Communist/Socialist,6.0,5.3
+1933,Finland,94,Agrarian,53.0,22.5
+1933,Finland,395,Social democracy,78.0,37.3
+1933,Finland,585,Liberal,21.0,10.4
+1933,Finland,920,Agrarian,3.0,3.4
+1933,Finland,957,Conservative,14.0,
+1933,Finland,1118,Conservative,18.0,16.9
+1933,Finland,1219,Liberal,11.0,7.4
+1933,Finland,2054,no family,0.0,0.24
+1933,Finland,2292,Agrarian,2.0,0.85
+1933,Germany,137,Christian democracy,73.0,11.09
+1933,Germany,558,Social democracy,120.0,18.25
+1933,Germany,649,Communist/Socialist,81.0,12.32
+1933,Germany,2691,Liberal,5.0,0.85
+1933,Germany,2692,Right-wing,52.0,7.97
+1933,Germany,2693,Conservative,2.0,1.1
+1933,Germany,2695,Right-wing,288.0,43.91
+1933,Germany,2697,Christian democracy,19.0,2.88
+1933,Germany,2700,Christian democracy,4.0,0.98
+1933,Germany,2701,Liberal,2.0,0.26
+1933,Germany,2703,Agrarian,1.0,0.21
+1933,Ireland,30,no family,9.0,5.0
+1933,Ireland,280,Conservative,77.0,49.7
+1933,Ireland,318,Social democracy,8.0,5.7
+1933,Ireland,2442,Conservative,11.0,9.2
+1933,Ireland,2447,Conservative,48.0,30.5
+1933,Netherlands,300,Christian democracy,14.0,13.4
+1933,Netherlands,405,Christian democracy,10.0,9.1
+1933,Netherlands,944,Liberal,6.0,5.1
+1933,Netherlands,1194,Communist/Socialist,4.0,3.2
+1933,Netherlands,1251,Conservative,3.0,2.5
+1933,Netherlands,1451,Social democracy,22.0,21.5
+1933,Netherlands,2110,no family,0.0,0.7
+1933,Netherlands,2288,no family,1.0,0.81
+1933,Netherlands,2458,Agrarian,1.0,1.3
+1933,Netherlands,2461,Liberal,7.0,7.0
+1933,Netherlands,2464,Christian democracy,1.0,0.9
+1933,Netherlands,2465,Communist/Socialist,1.0,1.3
+1933,Netherlands,2466,Christian democracy,1.0,1.1
+1933,Netherlands,2539,Christian democracy,28.0,27.9
+1933,Netherlands,2542,Christian democracy,1.0,1.0
+1934,Luxembourg,151,Communist/Socialist,1.0,5.2
+1934,Luxembourg,701,Social democracy,14.0,29.4
+1934,Luxembourg,2140,Liberal,1.0,
+1934,Luxembourg,2452,no family,5.0,11.6
+1934,Luxembourg,2455,Liberal,7.0,10.3
+1934,Luxembourg,2527,Right-wing,25.0,41.7
+1934,Luxembourg,2529,Right-wing,1.0,1.9
+1935,Denmark,211,Liberal,14.0,9.2
+1935,Denmark,590,Conservative,26.0,17.8
+1935,Denmark,812,Special issue,1.0,0.8
+1935,Denmark,1239,Communist/Socialist,2.0,1.9
+1935,Denmark,1605,Liberal,28.0,17.8
+1935,Denmark,1606,Liberal,4.0,2.5
+1935,Denmark,1629,Social democracy,68.0,46.1
+1935,Denmark,2428,Agrarian,5.0,3.2
+1935,Denmark,2432,Right-wing,0.0,1.0
+1935,United Kingdom,332,Social democracy,2.0,0.46
+1935,United Kingdom,453,no family,4.0,0.53
+1935,United Kingdom,659,Liberal,21.0,6.56
+1935,United Kingdom,773,Conservative,387.0,47.72
+1935,United Kingdom,1017,Liberal,33.0,3.94
+1935,United Kingdom,1205,Communist/Socialist,4.0,0.63
+1935,United Kingdom,1276,Communist/Socialist,1.0,0.12
+1935,United Kingdom,1556,Social democracy,154.0,37.85
+1935,United Kingdom,2479,Social democracy,8.0,1.54
+1935,United Kingdom,2518,Conservative,1.0,0.3
+1936,Belgium,63,Liberal,23.0,12.4
+1936,Belgium,708,Communist/Socialist,9.0,6.1
+1936,Belgium,2052,no family,0.0,0.63
+1936,Belgium,2422,Social democracy,70.0,32.1
+1936,Belgium,2423,Christian democracy,61.0,27.7
+1936,Belgium,2424,Social democracy,16.0,7.1
+1936,Belgium,2425,Right-wing,21.0,11.5
+1936,Belgium,2569,Christian democracy,2.0,0.94
+1936,Finland,94,Agrarian,53.0,22.4
+1936,Finland,395,Social democracy,83.0,38.6
+1936,Finland,585,Liberal,21.0,11.2
+1936,Finland,920,Agrarian,1.0,2.0
+1936,Finland,957,Conservative,14.0,8.3
+1936,Finland,1118,Conservative,20.0,10.4
+1936,Finland,1219,Liberal,7.0,6.3
+1936,Finland,2292,Agrarian,1.0,0.63
+1936,France,401,Conservative,109.0,14.45
+1936,France,686,Communist/Socialist,72.0,15.26
+1936,France,1539,Social democracy,149.0,19.86
+1936,France,2581,Right-wing,222.0,16.92
+1936,France,2587,Liberal,0.0,25.76
+1936,France,2594,Social democracy,56.0,7.61
+1936,Sweden,657,Conservative,44.0,17.6
+1936,Sweden,882,Communist/Socialist,5.0,3.3
+1936,Sweden,892,Liberal,27.0,12.9
+1936,Sweden,904,Social democracy,112.0,45.9
+1936,Sweden,1461,Agrarian,36.0,14.4
+1936,Sweden,2405,no family,0.0,0.9
+1936,Sweden,2478,Communist/Socialist,6.0,4.4
+1937,Ireland,30,no family,8.0,9.7
+1937,Ireland,280,Conservative,69.0,45.2
+1937,Ireland,318,Social democracy,13.0,10.3
+1937,Ireland,1393,Christian democracy,48.0,34.8
+1937,Luxembourg,701,Social democracy,18.0,24.7
+1937,Luxembourg,2140,Liberal,1.0,3.6
+1937,Luxembourg,2448,Liberal,2.0,9.8
+1937,Luxembourg,2449,no family,1.0,4.2
+1937,Luxembourg,2452,no family,3.0,
+1937,Luxembourg,2455,Liberal,5.0,9.5
+1937,Luxembourg,2527,Right-wing,25.0,45.6
+1937,Luxembourg,2536,Agrarian,0.0,2.6
+1937,Netherlands,300,Christian democracy,17.0,16.4
+1937,Netherlands,405,Christian democracy,8.0,7.5
+1937,Netherlands,944,Liberal,6.0,5.9
+1937,Netherlands,1194,Communist/Socialist,3.0,3.4
+1937,Netherlands,1251,Conservative,2.0,1.9
+1937,Netherlands,1451,Social democracy,23.0,21.9
+1937,Netherlands,2461,Liberal,4.0,3.9
+1937,Netherlands,2463,Right-wing,4.0,4.2
+1937,Netherlands,2465,Communist/Socialist,0.0,0.9
+1937,Netherlands,2539,Christian democracy,31.0,28.8
+1937,Netherlands,2542,Christian democracy,2.0,2.1
+1938,Ireland,30,no family,7.0,4.7
+1938,Ireland,280,Conservative,77.0,51.9
+1938,Ireland,318,Social democracy,9.0,10.0
+1938,Ireland,1393,Christian democracy,45.0,33.3
+1939,Belgium,63,Liberal,33.0,17.18
+1939,Belgium,708,Communist/Socialist,9.0,4.65
+1939,Belgium,2052,no family,0.0,0.41
+1939,Belgium,2300,no family,1.0,0.55
+1939,Belgium,2422,Social democracy,64.0,29.44
+1939,Belgium,2423,Christian democracy,67.0,30.38
+1939,Belgium,2424,Social democracy,17.0,8.4
+1939,Belgium,2425,Right-wing,4.0,4.25
+1939,Belgium,2486,Christian democracy,6.0,3.2
+1939,Belgium,2488,no family,1.0,0.54
+1939,Denmark,211,Liberal,14.0,9.5
+1939,Denmark,412,Right-wing,1.0,0.5
+1939,Denmark,590,Conservative,26.0,17.8
+1939,Denmark,1239,Communist/Socialist,3.0,2.4
+1939,Denmark,1605,Liberal,30.0,18.2
+1939,Denmark,1606,Liberal,3.0,2.0
+1939,Denmark,1629,Social democracy,64.0,42.9
+1939,Denmark,2428,Agrarian,4.0,3.0
+1939,Denmark,2431,Conservative,0.0,1.0
+1939,Denmark,2432,Right-wing,3.0,1.8
+1939,Finland,94,Agrarian,56.0,22.9
+1939,Finland,395,Social democracy,85.0,39.8
+1939,Finland,585,Liberal,18.0,9.6
+1939,Finland,957,Conservative,8.0,6.6
+1939,Finland,1118,Conservative,25.0,13.6
+1939,Finland,1219,Liberal,6.0,4.8
+1939,Finland,2054,no family,,0.46
+1939,Finland,2293,Agrarian,2.0,2.14
+1940,Sweden,657,Conservative,42.0,18.0
+1940,Sweden,882,Communist/Socialist,3.0,3.5
+1940,Sweden,892,Liberal,23.0,12.0
+1940,Sweden,904,Social democracy,134.0,53.8
+1940,Sweden,1461,Agrarian,28.0,12.0
+1940,Sweden,2478,Communist/Socialist,0.0,0.6
+1943,Denmark,211,Liberal,13.0,8.7
+1943,Denmark,412,Right-wing,3.0,2.2
+1943,Denmark,590,Conservative,31.0,21.0
+1943,Denmark,1128,no family,0.0,0.0
+1943,Denmark,1605,Liberal,28.0,18.7
+1943,Denmark,1606,Liberal,2.0,1.6
+1943,Denmark,1629,Social democracy,66.0,44.5
+1943,Denmark,2428,Agrarian,2.0,1.2
+1943,Denmark,2432,Right-wing,3.0,2.1
+1943,Ireland,30,no family,11.0,8.7
+1943,Ireland,280,Conservative,67.0,41.9
+1943,Ireland,318,Social democracy,17.0,15.7
+1943,Ireland,923,Agrarian,10.0,9.8
+1943,Ireland,1393,Christian democracy,32.0,23.1
+1943,Ireland,2216,no family,0.0,0.3
+1943,Ireland,2298,no family,1.0,0.3
+1944,Ireland,30,no family,11.0,7.79
+1944,Ireland,156,Social democracy,4.0,2.7
+1944,Ireland,280,Conservative,76.0,48.9
+1944,Ireland,318,Social democracy,8.0,8.7
+1944,Ireland,923,Agrarian,9.0,10.8
+1944,Ireland,1393,Christian democracy,30.0,20.5
+1944,Sweden,657,Conservative,39.0,15.8
+1944,Sweden,882,Communist/Socialist,15.0,10.3
+1944,Sweden,892,Liberal,26.0,12.9
+1944,Sweden,904,Social democracy,115.0,46.5
+1944,Sweden,1461,Agrarian,35.0,13.6
+1944,Sweden,2478,Communist/Socialist,0.0,0.2
+1945,Austria,769,Communist/Socialist,4.0,5.4
+1945,Austria,973,Social democracy,76.0,44.6
+1945,Austria,1013,Christian democracy,85.0,49.8
+1945,Austria,2055,no family,0.0,0.2
+1945,Denmark,211,Liberal,11.0,8.2
+1945,Denmark,412,Right-wing,4.0,3.1
+1945,Denmark,590,Conservative,26.0,18.2
+1945,Denmark,1239,Communist/Socialist,18.0,12.5
+1945,Denmark,1605,Liberal,38.0,23.38
+1945,Denmark,1606,Liberal,3.0,1.87
+1945,Denmark,1629,Social democracy,48.0,32.78
+1945,Denmark,1634,no family,1.0,
+1945,Finland,94,Agrarian,49.0,21.4
+1945,Finland,395,Social democracy,50.0,25.1
+1945,Finland,585,Liberal,14.0,7.9
+1945,Finland,1118,Conservative,28.0,15.0
+1945,Finland,1219,Liberal,9.0,5.2
+1945,Finland,1292,Communist/Socialist,49.0,23.5
+1945,Finland,1565,Communist/Socialist,1.0,0.5
+1945,Finland,2293,Agrarian,0.0,1.2
+1945,France,401,Conservative,35.0,11.11
+1945,France,686,Communist/Socialist,148.0,26.08
+1945,France,947,no family,2.0,
+1945,France,1086,Christian democracy,141.0,24.91
+1945,France,1297,Conservative,62.0,13.27
+1945,France,1539,Social democracy,134.0,23.77
+1945,Luxembourg,151,Communist/Socialist,5.0,13.49
+1945,Luxembourg,701,Social democracy,11.0,25.97
+1945,Luxembourg,967,Liberal,9.0,16.74
+1945,Luxembourg,1234,Christian democracy,25.0,41.4146018709
+1945,Luxembourg,2140,Liberal,0.0,1.66
+1945,Luxembourg,2452,no family,1.0,0.64
+1945,United Kingdom,332,Social democracy,2.0,0.4
+1945,United Kingdom,453,no family,19.0,
+1945,United Kingdom,659,Liberal,12.0,9.0
+1945,United Kingdom,773,Conservative,197.0,36.2
+1945,United Kingdom,1017,Liberal,11.0,2.9
+1945,United Kingdom,1205,Communist/Socialist,3.0,0.2
+1945,United Kingdom,1276,Communist/Socialist,2.0,0.4
+1945,United Kingdom,1284,Social democracy,0.0,0.1
+1945,United Kingdom,1556,Social democracy,393.0,48.0
+1945,United Kingdom,2296,no family,1.0,0.5
+1946,Belgium,63,Liberal,16.0,8.9
+1946,Belgium,167,Social democracy,66.0,31.6
+1946,Belgium,708,Communist/Socialist,23.0,12.69
+1946,Belgium,1051,Christian democracy,92.0,42.54
+1946,Belgium,1181,to be coded,1.0,2.16
+1946,Belgium,1335,Social democracy,4.0,1.6
+1946,Belgium,2052,no family,0.0,0.14
+1946,France,686,Communist/Socialist,156.0,27.35
+1946,France,890,Conservative,47.0,11.95
+1946,France,1086,Christian democracy,159.0,27.200000000000003
+1946,France,1094,Conservative,5.0,1.6
+1946,France,1297,Conservative,66.0,12.8
+1946,France,1539,Social democracy,102.5,19.5
+1946,Italy,93,Liberal,23.0,4.36
+1946,Italy,335,Social democracy,2.0,0.34
+1946,Italy,409,Conservative,30.0,5.27
+1946,Italy,618,Agrarian,1.0,0.44
+1946,Italy,1028,Special issue,4.0,0.74
+1946,Italy,1050,Right-wing,16.0,2.77
+1946,Italy,1088,Communist/Socialist,104.0,18.93
+1946,Italy,1330,Communist/Socialist,7.0,1.45
+1946,Italy,1475,Social democracy,115.0,20.68
+1946,Italy,1633,Christian democracy,207.0,35.21
+1946,Italy,1714,Conservative,42.0,6.78
+1946,Italy,2044,Liberal,2.0,0.42
+1946,Italy,2302,no family,3.0,0.62
+1946,Netherlands,300,Christian democracy,13.0,12.9
+1946,Netherlands,405,Christian democracy,8.0,7.84
+1946,Netherlands,451,Christian democracy,32.0,30.81
+1946,Netherlands,742,Social democracy,29.0,28.31
+1946,Netherlands,1194,Communist/Socialist,10.0,10.56
+1946,Netherlands,1251,Conservative,2.0,2.14
+1946,Netherlands,1409,Liberal,6.0,6.41
+1946,Netherlands,2110,no family,0.0,0.67
+1947,Denmark,211,Liberal,10.0,6.9
+1947,Denmark,412,Right-wing,0.0,1.2
+1947,Denmark,590,Conservative,17.0,12.4
+1947,Denmark,1239,Communist/Socialist,9.0,6.8
+1947,Denmark,1605,Liberal,49.0,27.58
+1947,Denmark,1606,Liberal,6.0,4.5
+1947,Denmark,1629,Social democracy,57.0,40.0
+1947,Denmark,1634,no family,2.0,
+1947,Malta,248,Special issue,2.0,3.47
+1947,Malta,816,Conservative,4.0,13.28
+1947,Malta,984,Conservative,7.0,18.05
+1947,Malta,1003,Social democracy,24.0,59.86
+1947,Malta,1298,Special issue,3.0,5.21
+1947,Malta,1572,no family,0.0,0.14
+1948,Finland,66,Special issue,1.0,0.4
+1948,Finland,94,Agrarian,56.0,24.2
+1948,Finland,395,Social democracy,54.0,26.3
+1948,Finland,585,Liberal,13.0,7.3
+1948,Finland,1118,Conservative,33.0,17.0
+1948,Finland,1219,Liberal,5.0,3.9
+1948,Finland,1292,Communist/Socialist,38.0,20.0
+1948,Finland,2293,Agrarian,0.0,0.29
+1948,Ireland,30,no family,12.0,
+1948,Ireland,92,Conservative,10.0,13.21
+1948,Ireland,156,Social democracy,5.0,2.57
+1948,Ireland,280,Conservative,68.0,41.85
+1948,Ireland,318,Social democracy,14.0,8.69
+1948,Ireland,923,Agrarian,7.0,5.58
+1948,Ireland,1393,Christian democracy,31.0,19.83
+1948,Ireland,2216,no family,0.0,0.02
+1948,Italy,93,Liberal,9.0,2.5
+1948,Italy,242,Social democracy,33.0,7.07
+1948,Italy,335,Social democracy,1.0,0.24
+1948,Italy,618,Agrarian,1.0,0.37
+1948,Italy,831,Right-wing,6.0,2.01
+1948,Italy,1028,Special issue,0.0,0.2
+1948,Italy,1030,Special issue,3.0,0.47
+1948,Italy,1050,Right-wing,14.0,2.8
+1948,Italy,1088,Communist/Socialist,131.0,31.0
+1948,Italy,1475,Social democracy,52.0,
+1948,Italy,1633,Christian democracy,305.0,48.5
+1948,Italy,1713,Right-wing,19.0,3.8
+1948,Luxembourg,151,Communist/Socialist,5.0,16.86
+1948,Luxembourg,701,Social democracy,15.0,41.46
+1948,Luxembourg,967,Liberal,9.0,8.38
+1948,Luxembourg,1234,Christian democracy,22.0,33.3
+1948,Netherlands,3,Christian democracy,1.0,1.26
+1948,Netherlands,300,Christian democracy,13.0,13.21
+1948,Netherlands,405,Christian democracy,9.0,9.19
+1948,Netherlands,451,Christian democracy,32.0,31.04
+1948,Netherlands,742,Social democracy,27.0,25.6
+1948,Netherlands,1194,Communist/Socialist,8.0,7.74
+1948,Netherlands,1251,Conservative,2.0,2.37
+1948,Netherlands,1409,Liberal,8.0,7.95
+1948,Netherlands,2110,no family,0.0,0.83
+1948,Sweden,657,Conservative,23.0,12.3
+1948,Sweden,882,Communist/Socialist,8.0,6.3
+1948,Sweden,892,Liberal,57.0,22.7
+1948,Sweden,904,Social democracy,112.0,46.1
+1948,Sweden,1461,Agrarian,30.0,12.4
+1948,Sweden,2406,Social democracy,0.0,0.1
+1949,Austria,50,Right-wing,16.0,11.7
+1949,Austria,769,Communist/Socialist,5.0,5.1
+1949,Austria,973,Social democracy,67.0,38.7
+1949,Austria,1013,Christian democracy,77.0,44.0
+1949,Austria,2055,no family,0.0,0.28
+1949,Belgium,63,Liberal,29.0,15.25
+1949,Belgium,167,Social democracy,66.0,29.75
+1949,Belgium,290,Right-wing,0.0,2.1
+1949,Belgium,708,Communist/Socialist,12.0,7.5
+1949,Belgium,1051,Christian democracy,105.0,43.5
+1949,Germany,137,Christian democracy,10.0,3.1
+1949,Germany,187,Right-wing,5.0,1.8
+1949,Germany,543,Liberal,52.0,11.9
+1949,Germany,558,Social democracy,131.0,29.2
+1949,Germany,610,no family,3.0,4.8
+1949,Germany,649,Communist/Socialist,15.0,5.7
+1949,Germany,808,Christian democracy,115.0,25.2
+1949,Germany,912,Conservative,17.0,4.0
+1949,Germany,1131,Conservative,17.0,4.2
+1949,Germany,1180,Christian democracy,24.0,5.8
+1949,Germany,1420,Right-wing,12.0,2.9
+1949,Germany,2034,no family,0.0,0.9
+1949,Germany,2289,no family,1.0,0.3
+1950,Belgium,63,Liberal,20.0,11.25
+1950,Belgium,167,Social democracy,73.0,34.5
+1950,Belgium,708,Communist/Socialist,7.0,4.7
+1950,Belgium,1051,Christian democracy,108.0,47.68
+1950,Belgium,1335,Social democracy,4.0,1.77
+1950,Belgium,2052,no family,0.0,0.03
+1950,Denmark,211,Liberal,12.0,8.2
+1950,Denmark,590,Conservative,27.0,17.8
+1950,Denmark,812,Special issue,0.0,0.3
+1950,Denmark,1239,Communist/Socialist,7.0,4.6
+1950,Denmark,1605,Liberal,32.0,21.3
+1950,Denmark,1606,Liberal,12.0,8.2
+1950,Denmark,1629,Social democracy,59.0,39.6
+1950,Denmark,1634,no family,2.0,
+1950,Malta,248,Special issue,0.0,0.8
+1950,Malta,816,Conservative,1.0,5.99
+1950,Malta,984,Conservative,12.0,29.62
+1950,Malta,1003,Social democracy,11.0,28.58
+1950,Malta,1033,Liberal,4.0,9.97
+1950,Malta,1274,Social democracy,11.0,23.19
+1950,Malta,1572,no family,1.0,1.84
+1950,United Kingdom,332,Social democracy,2.0,0.2
+1950,United Kingdom,453,no family,1.0,
+1950,United Kingdom,659,Liberal,9.0,9.1
+1950,United Kingdom,773,Conservative,282.0,
+1950,United Kingdom,1017,Liberal,16.0,
+1950,United Kingdom,1276,Communist/Socialist,0.0,0.3
+1950,United Kingdom,1496,Conservative,,43.4
+1950,United Kingdom,1556,Social democracy,315.0,46.1
+1951,Finland,66,Special issue,1.0,0.3
+1951,Finland,94,Agrarian,51.0,23.3
+1951,Finland,395,Social democracy,53.0,26.5
+1951,Finland,585,Liberal,14.0,7.3
+1951,Finland,1118,Conservative,28.0,14.6
+1951,Finland,1219,Liberal,10.0,5.7
+1951,Finland,1292,Communist/Socialist,43.0,21.6
+1951,Finland,2293,Agrarian,0.0,0.27
+1951,France,686,Communist/Socialist,97.0,26.7
+1951,France,890,Conservative,77.0,10.0
+1951,France,1086,Christian democracy,82.0,12.5
+1951,France,1094,Conservative,107.0,21.8
+1951,France,1414,Conservative,87.0,14.0
+1951,France,1539,Social democracy,94.0,14.5
+1951,Ireland,30,no family,14.0,
+1951,Ireland,92,Conservative,2.0,4.07
+1951,Ireland,280,Conservative,69.0,46.28
+1951,Ireland,318,Social democracy,16.0,11.4
+1951,Ireland,923,Agrarian,6.0,2.92
+1951,Ireland,1393,Christian democracy,40.0,25.75
+1951,Ireland,2216,no family,0.0,0.02
+1951,Luxembourg,151,Communist/Socialist,4.0,3.4
+1951,Luxembourg,701,Social democracy,19.0,35.48
+1951,Luxembourg,967,Liberal,8.0,20.55
+1951,Luxembourg,1234,Christian democracy,21.0,40.57
+1951,Malta,248,Special issue,0.0,0.85
+1951,Malta,984,Conservative,15.0,35.47
+1951,Malta,1003,Social democracy,14.0,35.7
+1951,Malta,1033,Liberal,4.0,8.12
+1951,Malta,1274,Social democracy,7.0,18.79
+1951,United Kingdom,332,Social democracy,2.0,0.3
+1951,United Kingdom,659,Liberal,6.0,2.6
+1951,United Kingdom,773,Conservative,302.0,
+1951,United Kingdom,1017,Liberal,19.0,
+1951,United Kingdom,1276,Communist/Socialist,0.0,0.1
+1951,United Kingdom,1496,Conservative,,48.0
+1951,United Kingdom,1556,Social democracy,295.0,48.8
+1951,United Kingdom,2296,no family,1.0,0.1
+1952,Netherlands,3,Christian democracy,2.0,2.71
+1952,Netherlands,300,Christian democracy,12.0,11.31
+1952,Netherlands,405,Christian democracy,9.0,8.92
+1952,Netherlands,451,Christian democracy,30.0,28.67
+1952,Netherlands,625,Conservative,0.0,0.67
+1952,Netherlands,742,Social democracy,30.0,28.97
+1952,Netherlands,1194,Communist/Socialist,6.0,6.16
+1952,Netherlands,1251,Conservative,2.0,2.42
+1952,Netherlands,1409,Liberal,9.0,8.83
+1952,Sweden,657,Conservative,31.0,14.4
+1952,Sweden,882,Communist/Socialist,5.0,4.3
+1952,Sweden,892,Liberal,58.0,24.4
+1952,Sweden,904,Social democracy,110.0,46.0
+1952,Sweden,1461,Agrarian,26.0,10.7
+1952,Sweden,2406,Social democracy,0.0,0.1
+1953,Austria,50,Right-wing,14.0,10.9
+1953,Austria,769,Communist/Socialist,4.0,5.3
+1953,Austria,973,Social democracy,73.0,42.1
+1953,Austria,1013,Christian democracy,74.0,41.3
+1953,Austria,2055,no family,0.0,0.13
+1953,Denmark,211,Liberal,13.5,8.2
+1953,Denmark,412,Right-wing,0.0,0.8
+1953,Denmark,538,Liberal,0.0,2.7
+1953,Denmark,590,Conservative,28.0,17.05
+1953,Denmark,812,Special issue,1.0,0.5
+1953,Denmark,1239,Communist/Socialist,7.5,4.55
+1953,Denmark,1605,Liberal,37.5,22.6
+1953,Denmark,1606,Liberal,7.5,4.55
+1953,Denmark,1629,Social democracy,67.5,40.849999999999994
+1953,Denmark,1634,no family,3.0,
+1953,Germany,137,Christian democracy,3.0,0.8
+1953,Germany,187,Right-wing,0.0,1.1
+1953,Germany,238,Christian democracy,0.0,1.2
+1953,Germany,543,Liberal,48.0,9.5
+1953,Germany,558,Social democracy,151.0,28.8
+1953,Germany,649,Communist/Socialist,0.0,2.2
+1953,Germany,808,Christian democracy,191.0,36.4
+1953,Germany,912,Conservative,15.0,3.3
+1953,Germany,1131,Conservative,0.0,1.7
+1953,Germany,1180,Christian democracy,52.0,8.8
+1953,Germany,1507,Right-wing,27.0,5.9
+1953,Italy,93,Liberal,5.0,1.6
+1953,Italy,242,Social democracy,19.0,4.5
+1953,Italy,487,Liberal,13.0,3.01
+1953,Italy,831,Right-wing,29.0,5.8
+1953,Italy,1030,Special issue,3.0,0.45
+1953,Italy,1050,Right-wing,40.0,6.9
+1953,Italy,1088,Communist/Socialist,143.0,22.6
+1953,Italy,1475,Social democracy,75.0,12.7
+1953,Italy,1633,Christian democracy,263.0,40.1
+1953,Italy,2059,no family,0.0,0.83
+1953,Malta,217,Conservative,0.0,4.32
+1953,Malta,984,Conservative,18.0,38.14
+1953,Malta,1003,Social democracy,19.0,44.55
+1953,Malta,1033,Liberal,0.0,1.17
+1953,Malta,1274,Social democracy,3.0,11.82
+1954,Belgium,63,Liberal,24.0,12.1
+1954,Belgium,167,Social democracy,82.0,37.3
+1954,Belgium,290,Right-wing,1.0,2.2
+1954,Belgium,708,Communist/Socialist,4.0,3.6
+1954,Belgium,1051,Christian democracy,95.0,41.1
+1954,Belgium,1268,Christian democracy,1.0,0.8
+1954,Belgium,1335,Social democracy,5.0,2.1
+1954,Belgium,2052,no family,0.0,0.2
+1954,Finland,66,Special issue,1.0,0.2
+1954,Finland,94,Agrarian,53.0,24.1
+1954,Finland,395,Social democracy,54.0,26.2
+1954,Finland,585,Liberal,12.0,6.8
+1954,Finland,1109,Liberal,0.0,0.3
+1954,Finland,1118,Conservative,24.0,12.8
+1954,Finland,1219,Liberal,13.0,7.9
+1954,Finland,1292,Communist/Socialist,43.0,21.6
+1954,Ireland,30,no family,5.0,
+1954,Ireland,92,Conservative,3.0,3.82
+1954,Ireland,280,Conservative,65.0,43.36
+1954,Ireland,318,Social democracy,19.0,12.06
+1954,Ireland,433,Communist/Socialist,0.0,0.15
+1954,Ireland,923,Agrarian,5.0,3.09
+1954,Ireland,1393,Christian democracy,50.0,31.98
+1954,Luxembourg,151,Communist/Socialist,3.0,8.91
+1954,Luxembourg,701,Social democracy,17.0,35.12
+1954,Luxembourg,967,Liberal,6.0,10.79
+1954,Luxembourg,1234,Christian democracy,26.0,42.37
+1954,Luxembourg,2139,Liberal,0.0,2.81
+1955,Malta,217,Conservative,0.0,3.02
+1955,Malta,984,Conservative,17.0,40.21
+1955,Malta,1003,Social democracy,23.0,56.73
+1955,United Kingdom,311,Special issue,0.0,0.2
+1955,United Kingdom,659,Liberal,6.0,2.7
+1955,United Kingdom,689,Communist/Socialist,2.0,0.6
+1955,United Kingdom,773,Conservative,324.0,
+1955,United Kingdom,1017,Liberal,21.0,
+1955,United Kingdom,1496,Conservative,,49.7
+1955,United Kingdom,1556,Social democracy,277.0,46.4
+1956,Austria,50,Right-wing,6.0,6.5
+1956,Austria,769,Communist/Socialist,3.0,4.4
+1956,Austria,973,Social democracy,74.0,43.0
+1956,Austria,1013,Christian democracy,82.0,46.0
+1956,Austria,2055,no family,0.0,0.04
+1956,France,401,Conservative,73.0,11.12
+1956,France,686,Communist/Socialist,147.0,25.9
+1956,France,890,Conservative,,3.95
+1956,France,898,Conservative,51.0,11.7
+1956,France,1086,Christian democracy,71.0,11.1
+1956,France,1094,Conservative,16.0,4.0
+1956,France,1328,no family,3.0,
+1956,France,1414,Conservative,95.0,15.0
+1956,France,1539,Social democracy,88.0,15.2
+1956,France,2079,Right-wing,0.0,1.2
+1956,Netherlands,300,Christian democracy,15.0,9.91
+1956,Netherlands,405,Christian democracy,13.0,8.43
+1956,Netherlands,451,Christian democracy,49.0,31.69
+1956,Netherlands,625,Conservative,0.0,0.65
+1956,Netherlands,742,Social democracy,50.0,32.69
+1956,Netherlands,1194,Communist/Socialist,7.0,4.75
+1956,Netherlands,1251,Conservative,3.0,2.26
+1956,Netherlands,1409,Liberal,13.0,8.77
+1956,Sweden,657,Conservative,42.0,17.1
+1956,Sweden,882,Communist/Socialist,6.0,5.0
+1956,Sweden,892,Liberal,58.0,23.8
+1956,Sweden,904,Social democracy,106.0,44.6
+1956,Sweden,1461,Agrarian,19.0,9.5
+1956,Sweden,2406,Social democracy,0.0,0.0
+1957,Denmark,211,Liberal,14.0,7.8
+1957,Denmark,538,Liberal,0.0,2.3
+1957,Denmark,590,Conservative,30.0,16.6
+1957,Denmark,812,Special issue,1.0,0.4
+1957,Denmark,1239,Communist/Socialist,6.0,3.1
+1957,Denmark,1605,Liberal,45.0,25.1
+1957,Denmark,1606,Liberal,9.0,5.3
+1957,Denmark,1629,Social democracy,70.0,39.4
+1957,Denmark,1634,no family,4.0,
+1957,Germany,187,Right-wing,0.0,1.0
+1957,Germany,543,Liberal,41.0,7.7
+1957,Germany,558,Social democracy,169.0,31.8
+1957,Germany,808,Christian democracy,217.0,39.7
+1957,Germany,912,Conservative,17.0,3.4
+1957,Germany,1180,Christian democracy,53.0,10.5
+1957,Germany,1507,Right-wing,0.0,4.6
+1957,Ireland,30,no family,9.0,
+1957,Ireland,92,Conservative,1.0,1.68
+1957,Ireland,280,Conservative,78.0,48.33
+1957,Ireland,318,Social democracy,12.0,9.11
+1957,Ireland,433,Communist/Socialist,4.0,5.35
+1957,Ireland,923,Agrarian,3.0,2.36
+1957,Ireland,1393,Christian democracy,40.0,26.63
+1957,Ireland,2216,no family,0.0,0.39
+1958,Belgium,63,Liberal,20.0,11.1
+1958,Belgium,167,Social democracy,80.0,35.8
+1958,Belgium,290,Right-wing,1.0,2.0
+1958,Belgium,708,Communist/Socialist,2.0,1.9
+1958,Belgium,1051,Christian democracy,104.0,46.5
+1958,Belgium,1335,Social democracy,5.0,2.1
+1958,Finland,66,Special issue,1.0,0.3
+1958,Finland,94,Agrarian,48.0,23.1
+1958,Finland,395,Social democracy,48.0,23.1
+1958,Finland,585,Liberal,13.0,6.5
+1958,Finland,1108,Social democracy,3.0,1.7
+1958,Finland,1109,Liberal,0.0,0.3
+1958,Finland,1118,Conservative,29.0,15.3
+1958,Finland,1219,Liberal,8.0,5.9
+1958,Finland,1292,Communist/Socialist,50.0,23.2
+1958,France,401,Conservative,23.0,9.7
+1958,France,686,Communist/Socialist,10.0,18.9
+1958,France,898,Conservative,0.0,1.5
+1958,France,1086,Christian democracy,57.0,11.1
+1958,France,1094,Conservative,198.0,20.6
+1958,France,1414,Conservative,133.0,20.0
+1958,France,1539,Social democracy,44.0,15.5
+1958,France,2079,Right-wing,0.0,1.1
+1958,France,2269,Social democracy,0.0,1.2
+1958,Italy,93,Liberal,6.0,1.4
+1958,Italy,242,Social democracy,22.0,4.6
+1958,Italy,421,Conservative,14.0,2.6
+1958,Italy,487,Liberal,17.0,3.5
+1958,Italy,831,Right-wing,24.0,4.8
+1958,Italy,974,Special issue,1.0,0.1
+1958,Italy,1030,Special issue,3.0,0.46
+1958,Italy,1050,Right-wing,11.0,2.2
+1958,Italy,1088,Communist/Socialist,140.0,22.7
+1958,Italy,1475,Social democracy,84.0,14.2
+1958,Italy,1633,Christian democracy,273.0,42.4
+1958,Italy,2059,no family,0.0,0.2
+1958,Italy,2302,no family,1.0,0.59
+1958,Sweden,657,Conservative,45.0,19.5
+1958,Sweden,882,Communist/Socialist,5.0,3.4
+1958,Sweden,892,Liberal,38.0,18.2
+1958,Sweden,904,Social democracy,111.0,46.2
+1958,Sweden,1461,Agrarian,32.0,12.7
+1958,Sweden,2406,Social democracy,0.0,0.0
+1959,Austria,50,Right-wing,8.0,7.7
+1959,Austria,769,Communist/Socialist,0.0,3.3
+1959,Austria,973,Social democracy,78.0,44.8
+1959,Austria,1013,Christian democracy,79.0,44.2
+1959,Luxembourg,151,Communist/Socialist,3.0,9.07
+1959,Luxembourg,701,Social democracy,17.0,34.92
+1959,Luxembourg,967,Liberal,11.0,18.45
+1959,Luxembourg,1234,Christian democracy,21.0,36.91
+1959,Luxembourg,2149,no family,0.0,0.65
+1959,Netherlands,300,Christian democracy,14.0,9.39
+1959,Netherlands,405,Christian democracy,12.0,8.11
+1959,Netherlands,451,Christian democracy,49.0,31.6
+1959,Netherlands,625,Conservative,0.0,0.67
+1959,Netherlands,742,Social democracy,48.0,30.36
+1959,Netherlands,1194,Communist/Socialist,3.0,2.41
+1959,Netherlands,1251,Conservative,3.0,2.16
+1959,Netherlands,1409,Liberal,19.0,12.21
+1959,Netherlands,1452,Communist/Socialist,2.0,1.84
+1959,United Kingdom,311,Special issue,0.0,0.3
+1959,United Kingdom,453,no family,1.0,
+1959,United Kingdom,659,Liberal,6.0,5.9
+1959,United Kingdom,773,Conservative,345.0,
+1959,United Kingdom,1017,Liberal,20.0,
+1959,United Kingdom,1496,Conservative,,49.4
+1959,United Kingdom,1556,Social democracy,258.0,43.8
+1960,Denmark,211,Liberal,11.0,5.8
+1960,Denmark,538,Liberal,6.0,3.3
+1960,Denmark,590,Conservative,32.0,17.9
+1960,Denmark,812,Special issue,1.0,0.4
+1960,Denmark,1239,Communist/Socialist,0.0,1.1
+1960,Denmark,1605,Liberal,38.0,21.1
+1960,Denmark,1606,Liberal,0.0,2.2
+1960,Denmark,1629,Social democracy,76.0,42.1
+1960,Denmark,1634,no family,4.0,
+1960,Denmark,1644,Green/Ecologist,11.0,6.1
+1960,Sweden,657,Conservative,39.0,16.6
+1960,Sweden,882,Communist/Socialist,5.0,4.5
+1960,Sweden,892,Liberal,40.0,17.5
+1960,Sweden,904,Social democracy,114.0,47.8
+1960,Sweden,1461,Agrarian,34.0,13.6
+1960,Sweden,2405,no family,0.0,0.0
+1961,Belgium,63,Liberal,20.0,12.33
+1961,Belgium,167,Social democracy,84.0,36.7
+1961,Belgium,290,Right-wing,5.0,3.5
+1961,Belgium,708,Communist/Socialist,5.0,3.08
+1961,Belgium,1051,Christian democracy,96.0,41.5
+1961,Belgium,1268,Christian democracy,1.0,0.81
+1961,Belgium,2052,no family,0.0,0.63
+1961,Belgium,2300,no family,1.0,0.88
+1961,Germany,543,Liberal,67.0,12.8
+1961,Germany,558,Social democracy,190.0,36.2
+1961,Germany,633,Communist/Socialist,0.0,1.9
+1961,Germany,808,Christian democracy,192.0,35.8
+1961,Germany,1180,Christian democracy,50.0,9.6
+1961,Germany,1701,Conservative,0.0,2.8
+1961,Ireland,30,no family,6.0,
+1961,Ireland,92,Conservative,1.0,1.13
+1961,Ireland,280,Conservative,70.0,43.83
+1961,Ireland,318,Social democracy,16.0,11.65
+1961,Ireland,523,Communist/Socialist,2.0,0.98
+1961,Ireland,923,Agrarian,2.0,1.51
+1961,Ireland,1393,Christian democracy,47.0,32.02
+1961,Ireland,2216,no family,0.0,0.1
+1962,Austria,50,Right-wing,8.0,7.0
+1962,Austria,769,Communist/Socialist,0.0,3.0
+1962,Austria,973,Social democracy,76.0,44.0
+1962,Austria,1013,Christian democracy,81.0,45.4
+1962,Finland,66,Special issue,1.0,0.3
+1962,Finland,94,Agrarian,53.0,22.95
+1962,Finland,200,Agrarian,0.0,2.2
+1962,Finland,395,Social democracy,38.0,19.5
+1962,Finland,585,Liberal,13.0,6.1
+1962,Finland,1108,Social democracy,2.0,4.4
+1962,Finland,1109,Liberal,1.0,0.52
+1962,Finland,1118,Conservative,32.0,15.0
+1962,Finland,1219,Liberal,13.0,6.3
+1962,Finland,1292,Communist/Socialist,47.0,22.01
+1962,France,59,Conservative,18.0,2.3
+1962,France,401,Conservative,41.0,7.4
+1962,France,516,Communist/Socialist,2.0,2.0
+1962,France,686,Communist/Socialist,41.0,21.9
+1962,France,1086,Christian democracy,37.0,7.8
+1962,France,1094,Conservative,230.0,33.7
+1962,France,1414,Conservative,32.0,11.5
+1962,France,1539,Social democracy,64.0,12.4
+1962,France,2079,Right-wing,0.0,0.5
+1962,Malta,217,Conservative,1.0,4.84
+1962,Malta,393,Social democracy,4.0,9.27
+1962,Malta,984,Conservative,25.0,42.0
+1962,Malta,1003,Social democracy,16.0,33.85
+1962,Malta,1225,Social democracy,4.0,9.49
+1962,Malta,2171,no family,0.0,0.46
+1963,Italy,93,Liberal,6.0,1.4
+1963,Italy,242,Social democracy,33.0,6.1
+1963,Italy,487,Liberal,39.0,7.0
+1963,Italy,831,Right-wing,27.0,5.1
+1963,Italy,974,Special issue,1.0,0.1
+1963,Italy,1030,Special issue,3.0,0.44
+1963,Italy,1088,Communist/Socialist,166.0,25.3
+1963,Italy,1475,Social democracy,87.0,13.8
+1963,Italy,1633,Christian democracy,260.0,38.3
+1963,Italy,1702,Conservative,8.0,1.8
+1963,Italy,2059,no family,0.0,0.3
+1963,Netherlands,300,Christian democracy,13.0,8.72
+1963,Netherlands,405,Christian democracy,13.0,8.58
+1963,Netherlands,451,Christian democracy,50.0,31.88
+1963,Netherlands,625,Conservative,1.0,0.74
+1963,Netherlands,742,Social democracy,43.0,28.01
+1963,Netherlands,1194,Communist/Socialist,4.0,2.77
+1963,Netherlands,1251,Conservative,3.0,2.3
+1963,Netherlands,1409,Liberal,16.0,10.29
+1963,Netherlands,1452,Communist/Socialist,4.0,3.03
+1963,Netherlands,1595,Agrarian,3.0,2.13
+1963,Netherlands,2110,no family,0.0,0.6
+1964,Denmark,211,Liberal,10.0,5.3
+1964,Denmark,538,Liberal,5.0,2.5
+1964,Denmark,590,Conservative,36.0,20.1
+1964,Denmark,1239,Communist/Socialist,0.0,1.2
+1964,Denmark,1605,Liberal,38.0,20.8
+1964,Denmark,1606,Liberal,0.0,1.3
+1964,Denmark,1629,Social democracy,76.0,41.9
+1964,Denmark,1634,no family,4.0,
+1964,Denmark,1644,Green/Ecologist,10.0,5.8
+1964,Luxembourg,151,Communist/Socialist,5.0,12.47
+1964,Luxembourg,701,Social democracy,21.0,37.68
+1964,Luxembourg,967,Liberal,6.0,10.57
+1964,Luxembourg,1234,Christian democracy,22.0,33.28
+1964,Luxembourg,1462,Special issue,2.0,6.01
+1964,Sweden,282,Christian democracy,0.0,1.8
+1964,Sweden,657,Conservative,32.0,13.7
+1964,Sweden,802,Conservative,3.0,1.5
+1964,Sweden,882,Communist/Socialist,8.0,5.2
+1964,Sweden,892,Liberal,42.0,17.0
+1964,Sweden,904,Social democracy,113.0,47.3
+1964,Sweden,1010,Liberal,2.0,0.3
+1964,Sweden,1461,Agrarian,33.0,13.2
+1964,United Kingdom,311,Special issue,0.0,0.2
+1964,United Kingdom,659,Liberal,9.0,11.2
+1964,United Kingdom,773,Conservative,298.0,
+1964,United Kingdom,1017,Liberal,6.0,
+1964,United Kingdom,1496,Conservative,,43.4
+1964,United Kingdom,1556,Social democracy,317.0,44.1
+1965,Belgium,63,Liberal,48.0,21.6
+1965,Belgium,167,Social democracy,64.0,28.28
+1965,Belgium,290,Right-wing,12.0,6.7
+1965,Belgium,708,Communist/Socialist,6.0,4.6
+1965,Belgium,969,Liberal,3.0,1.3
+1965,Belgium,1051,Christian democracy,77.0,34.45
+1965,Belgium,2052,no family,0.0,0.8
+1965,Belgium,2300,no family,2.0,
+1965,Germany,543,Liberal,49.0,9.5
+1965,Germany,558,Social democracy,202.0,39.3
+1965,Germany,633,Communist/Socialist,0.0,1.3
+1965,Germany,808,Christian democracy,196.0,38.2
+1965,Germany,1180,Christian democracy,49.0,9.6
+1965,Germany,1537,Right-wing,0.0,2.0
+1965,Ireland,30,no family,2.0,
+1965,Ireland,92,Conservative,1.0,0.75
+1965,Ireland,280,Conservative,72.0,47.67
+1965,Ireland,318,Social democracy,22.0,15.38
+1965,Ireland,1393,Christian democracy,47.0,34.08
+1965,Ireland,2216,no family,0.0,0.01
+1966,Austria,50,Right-wing,6.0,5.35
+1966,Austria,973,Social democracy,74.0,42.56
+1966,Austria,1013,Christian democracy,85.0,48.35
+1966,Austria,1743,Right-wing,0.0,3.28
+1966,Denmark,211,Liberal,13.0,7.3
+1966,Denmark,538,Liberal,0.0,1.6
+1966,Denmark,590,Conservative,34.0,18.68
+1966,Denmark,1478,Liberal,4.0,2.5
+1966,Denmark,1605,Liberal,35.0,19.29
+1966,Denmark,1629,Social democracy,69.0,38.26
+1966,Denmark,1634,no family,4.0,
+1966,Denmark,1644,Green/Ecologist,20.0,10.9
+1966,Finland,66,Special issue,1.0,0.3
+1966,Finland,94,Agrarian,49.0,21.2
+1966,Finland,200,Agrarian,1.0,1.0
+1966,Finland,395,Social democracy,55.0,27.2
+1966,Finland,585,Liberal,11.0,5.7
+1966,Finland,1108,Social democracy,7.0,2.6
+1966,Finland,1118,Conservative,26.0,13.8
+1966,Finland,1219,Liberal,9.0,6.5
+1966,Finland,1292,Communist/Socialist,41.0,21.2
+1966,Finland,1463,Christian democracy,0.0,0.45
+1966,Malta,217,Conservative,0.0,1.46
+1966,Malta,393,Social democracy,0.0,1.29
+1966,Malta,984,Conservative,28.0,47.89
+1966,Malta,1003,Social democracy,22.0,43.09
+1966,Malta,1225,Social democracy,0.0,6.0
+1966,United Kingdom,659,Liberal,12.0,8.6
+1966,United Kingdom,773,Conservative,250.0,
+1966,United Kingdom,1017,Liberal,3.0,
+1966,United Kingdom,1092,to be coded,1.0,0.1
+1966,United Kingdom,1284,Social democracy,0.0,0.5
+1966,United Kingdom,1496,Conservative,,41.9
+1966,United Kingdom,1556,Social democracy,364.0,48.0
+1967,France,59,Conservative,41.0,5.5
+1967,France,516,Communist/Socialist,3.0,2.1
+1967,France,686,Communist/Socialist,72.0,22.5
+1967,France,1094,Conservative,191.0,33.0
+1967,France,1414,Conservative,7.0,3.3
+1967,France,1491,Christian democracy,38.0,14.1
+1967,France,1539,Social democracy,118.0,18.9
+1967,France,2079,Right-wing,0.0,0.6
+1967,Netherlands,300,Christian democracy,15.0,9.9
+1967,Netherlands,345,Liberal,7.0,4.48
+1967,Netherlands,405,Christian democracy,12.0,8.14
+1967,Netherlands,451,Christian democracy,42.0,26.5
+1967,Netherlands,625,Conservative,1.0,0.86
+1967,Netherlands,742,Social democracy,37.0,23.55
+1967,Netherlands,1194,Communist/Socialist,5.0,3.61
+1967,Netherlands,1251,Conservative,3.0,2.01
+1967,Netherlands,1409,Liberal,17.0,10.73
+1967,Netherlands,1452,Communist/Socialist,4.0,2.87
+1967,Netherlands,1595,Agrarian,7.0,4.77
+1967,Netherlands,2110,no family,0.0,0.66
+1968,Belgium,63,Liberal,47.0,20.9
+1968,Belgium,167,Social democracy,59.0,28.0
+1968,Belgium,290,Right-wing,20.0,9.8
+1968,Belgium,460,Social democracy,5.0,3.4
+1968,Belgium,708,Communist/Socialist,5.0,3.3
+1968,Belgium,723,Christian democracy,50.0,20.0
+1968,Belgium,969,Liberal,7.0,2.5
+1968,Belgium,1192,Christian democracy,19.0,11.7
+1968,Denmark,189,Communist/Socialist,4.0,2.0
+1968,Denmark,211,Liberal,27.0,15.0
+1968,Denmark,590,Conservative,37.0,20.4
+1968,Denmark,1239,Communist/Socialist,0.0,1.04
+1968,Denmark,1478,Liberal,0.0,1.3
+1968,Denmark,1605,Liberal,34.0,18.6
+1968,Denmark,1629,Social democracy,62.0,34.1
+1968,Denmark,1634,no family,4.0,
+1968,Denmark,1644,Green/Ecologist,11.0,6.1
+1968,France,59,Conservative,64.0,8.4
+1968,France,516,Communist/Socialist,0.0,3.9
+1968,France,686,Communist/Socialist,33.0,20.0
+1968,France,1094,Conservative,282.0,38.0
+1968,France,1414,Conservative,8.0,1.9
+1968,France,1491,Christian democracy,26.0,10.5
+1968,France,1539,Social democracy,57.0,16.5
+1968,Italy,93,Liberal,9.0,2.0
+1968,Italy,487,Liberal,31.0,5.8
+1968,Italy,831,Right-wing,24.0,4.5
+1968,Italy,1030,Special issue,3.0,0.48
+1968,Italy,1088,Communist/Socialist,177.0,26.9
+1968,Italy,1475,Social democracy,91.0,14.5
+1968,Italy,1593,Communist/Socialist,23.0,4.5
+1968,Italy,1633,Christian democracy,266.0,39.1
+1968,Italy,1702,Conservative,6.0,1.3
+1968,Italy,2059,no family,0.0,0.32
+1968,Luxembourg,151,Communist/Socialist,6.0,15.5
+1968,Luxembourg,701,Social democracy,18.0,32.25
+1968,Luxembourg,967,Liberal,11.0,16.57
+1968,Luxembourg,1234,Christian democracy,21.0,35.29
+1968,Luxembourg,1462,Special issue,0.0,0.4
+1968,Sweden,282,Christian democracy,0.0,1.5
+1968,Sweden,657,Conservative,29.0,12.9
+1968,Sweden,802,Conservative,4.0,1.7
+1968,Sweden,882,Communist/Socialist,3.0,3.0
+1968,Sweden,892,Liberal,32.0,14.3
+1968,Sweden,904,Social democracy,125.0,50.1
+1968,Sweden,1010,Liberal,3.0,0.9
+1968,Sweden,1461,Agrarian,37.0,15.7
+1969,Germany,543,Liberal,30.0,5.8
+1969,Germany,558,Social democracy,224.0,42.7
+1969,Germany,808,Christian democracy,193.0,36.6
+1969,Germany,1180,Christian democracy,49.0,9.5
+1969,Germany,1537,Right-wing,0.0,4.3
+1969,Ireland,30,no family,1.0,
+1969,Ireland,280,Conservative,75.0,45.66
+1969,Ireland,318,Social democracy,18.0,17.02
+1969,Ireland,1393,Christian democracy,50.0,34.1
+1969,Ireland,2216,no family,0.0,0.02
+1970,Austria,50,Right-wing,6.0,5.5
+1970,Austria,769,Communist/Socialist,0.0,1.0
+1970,Austria,973,Social democracy,81.0,48.4
+1970,Austria,1013,Christian democracy,78.0,44.7
+1970,Finland,66,Special issue,1.0,0.4
+1970,Finland,94,Agrarian,36.0,17.1
+1970,Finland,200,Agrarian,18.0,10.5
+1970,Finland,395,Social democracy,52.0,23.4
+1970,Finland,585,Liberal,11.0,5.3
+1970,Finland,1108,Social democracy,0.0,1.4
+1970,Finland,1118,Conservative,37.0,18.0
+1970,Finland,1219,Liberal,8.0,5.9
+1970,Finland,1292,Communist/Socialist,36.0,16.6
+1970,Finland,1463,Christian democracy,1.0,1.1
+1970,Sweden,282,Christian democracy,0.0,1.8
+1970,Sweden,657,Conservative,41.0,11.5
+1970,Sweden,882,Communist/Socialist,17.0,4.8
+1970,Sweden,892,Liberal,58.0,16.2
+1970,Sweden,904,Social democracy,163.0,45.3
+1970,Sweden,1461,Agrarian,71.0,19.9
+1970,United Kingdom,311,Special issue,0.0,0.6
+1970,United Kingdom,349,Special issue,2.0,0.5
+1970,United Kingdom,453,no family,1.0,
+1970,United Kingdom,659,Liberal,6.0,7.5
+1970,United Kingdom,773,Conservative,330.0,46.4
+1970,United Kingdom,1092,to be coded,1.0,0.1
+1970,United Kingdom,1284,Social democracy,1.0,1.1
+1970,United Kingdom,1556,Social democracy,288.0,43.1
+1970,United Kingdom,2296,no family,1.0,0.1
+1971,Austria,50,Right-wing,10.0,5.5
+1971,Austria,769,Communist/Socialist,0.0,1.4
+1971,Austria,973,Social democracy,93.0,50.0
+1971,Austria,1013,Christian democracy,80.0,43.1
+1971,Belgium,167,Social democracy,61.0,27.2
+1971,Belgium,290,Right-wing,21.0,11.1
+1971,Belgium,454,Liberal,11.0,5.66
+1971,Belgium,460,Social democracy,14.0,6.7
+1971,Belgium,640,Liberal,3.0,1.3
+1971,Belgium,708,Communist/Socialist,5.0,3.1
+1971,Belgium,723,Christian democracy,47.0,19.7
+1971,Belgium,969,Liberal,10.0,4.5
+1971,Belgium,1110,Liberal,20.0,9.48
+1971,Belgium,1192,Christian democracy,20.0,10.4
+1971,Belgium,2052,no family,0.0,0.42
+1971,Denmark,189,Communist/Socialist,0.0,1.6
+1971,Denmark,211,Liberal,27.0,14.3
+1971,Denmark,590,Conservative,31.0,16.7
+1971,Denmark,1239,Communist/Socialist,0.0,1.4
+1971,Denmark,1331,Christian democracy,0.0,2.0
+1971,Denmark,1605,Liberal,30.0,15.6
+1971,Denmark,1606,Liberal,0.0,1.7
+1971,Denmark,1629,Social democracy,70.0,37.3
+1971,Denmark,1634,no family,4.0,
+1971,Denmark,1644,Green/Ecologist,17.0,9.1
+1971,Malta,217,Conservative,0.0,1.04
+1971,Malta,984,Conservative,27.0,48.05
+1971,Malta,1003,Social democracy,28.0,50.84
+1971,Netherlands,87,Conservative,2.0,1.51
+1971,Netherlands,300,Christian democracy,13.0,8.59
+1971,Netherlands,342,Green/Ecologist,2.0,1.84
+1971,Netherlands,345,Liberal,11.0,6.78
+1971,Netherlands,402,Conservative,8.0,5.33
+1971,Netherlands,405,Christian democracy,10.0,6.32
+1971,Netherlands,451,Christian democracy,35.0,21.84
+1971,Netherlands,625,Conservative,2.0,1.61
+1971,Netherlands,742,Social democracy,39.0,24.6
+1971,Netherlands,1194,Communist/Socialist,6.0,3.9
+1971,Netherlands,1251,Conservative,3.0,2.35
+1971,Netherlands,1409,Liberal,16.0,10.34
+1971,Netherlands,1452,Communist/Socialist,2.0,1.44
+1971,Netherlands,1595,Agrarian,1.0,1.1
+1971,Netherlands,2110,no family,0.0,0.43
+1972,Finland,66,Special issue,1.0,0.3
+1972,Finland,94,Agrarian,35.0,16.4
+1972,Finland,200,Agrarian,18.0,9.16
+1972,Finland,395,Social democracy,55.0,25.78
+1972,Finland,585,Liberal,9.0,5.1
+1972,Finland,1108,Social democracy,0.0,1.0
+1972,Finland,1118,Conservative,34.0,17.58
+1972,Finland,1219,Liberal,7.0,5.2
+1972,Finland,1292,Communist/Socialist,37.0,17.01
+1972,Finland,1463,Christian democracy,4.0,2.5
+1972,Germany,543,Liberal,41.0,8.4
+1972,Germany,558,Social democracy,230.0,45.8
+1972,Germany,808,Christian democracy,177.0,35.2
+1972,Germany,1180,Christian democracy,48.0,9.7
+1972,Germany,1537,Right-wing,0.0,0.6
+1972,Italy,93,Liberal,15.0,2.9
+1972,Italy,242,Social democracy,29.0,5.1
+1972,Italy,487,Liberal,20.0,3.9
+1972,Italy,831,Right-wing,56.0,8.7
+1972,Italy,974,Special issue,1.0,0.1
+1972,Italy,1030,Special issue,3.0,0.46
+1972,Italy,1088,Communist/Socialist,179.0,27.2
+1972,Italy,1475,Social democracy,61.0,9.6
+1972,Italy,1593,Communist/Socialist,0.0,1.9
+1972,Italy,1633,Christian democracy,266.0,38.7
+1972,Netherlands,87,Conservative,0.0,0.56
+1972,Netherlands,300,Christian democracy,14.0,8.84
+1972,Netherlands,342,Green/Ecologist,7.0,4.8
+1972,Netherlands,345,Liberal,6.0,4.15
+1972,Netherlands,402,Conservative,6.0,4.12
+1972,Netherlands,405,Christian democracy,7.0,4.79
+1972,Netherlands,451,Christian democracy,27.0,17.65
+1972,Netherlands,625,Conservative,2.0,1.77
+1972,Netherlands,742,Social democracy,43.0,27.34
+1972,Netherlands,1194,Communist/Socialist,7.0,4.47
+1972,Netherlands,1251,Conservative,3.0,2.21
+1972,Netherlands,1409,Liberal,22.0,14.45
+1972,Netherlands,1452,Communist/Socialist,2.0,1.5
+1972,Netherlands,1595,Agrarian,3.0,1.94
+1972,Netherlands,2288,no family,1.0,0.92
+1973,Denmark,189,Communist/Socialist,0.0,1.5
+1973,Denmark,211,Liberal,20.0,11.2
+1973,Denmark,538,Liberal,1.0,
+1973,Denmark,590,Conservative,16.0,9.2
+1973,Denmark,812,Special issue,1.0,
+1973,Denmark,978,Liberal,27.0,15.9
+1973,Denmark,1239,Communist/Socialist,6.0,3.6
+1973,Denmark,1324,Conservative,13.0,7.8
+1973,Denmark,1331,Christian democracy,7.0,4.0
+1973,Denmark,1605,Liberal,22.0,12.3
+1973,Denmark,1606,Liberal,5.0,2.9
+1973,Denmark,1629,Social democracy,46.0,25.6
+1973,Denmark,1634,no family,4.0,
+1973,Denmark,1644,Green/Ecologist,11.0,6.0
+1973,France,59,Conservative,54.0,7.2
+1973,France,213,Christian democracy,30.0,13.3
+1973,France,516,Communist/Socialist,2.0,2.0
+1973,France,686,Communist/Socialist,73.0,21.4
+1973,France,885,Christian democracy,21.0,3.8
+1973,France,1094,Conservative,178.0,26.0
+1973,France,1176,Communist/Socialist,0.0,0.8
+1973,France,1414,Conservative,15.0,3.4
+1973,France,1492,Social democracy,11.0,1.7
+1973,France,1539,Social democracy,89.0,19.1
+1973,Ireland,30,no family,2.0,
+1973,Ireland,280,Conservative,69.0,46.24
+1973,Ireland,318,Social democracy,19.0,13.71
+1973,Ireland,433,Communist/Socialist,0.0,1.14
+1973,Ireland,1393,Christian democracy,54.0,35.08
+1973,Sweden,282,Christian democracy,0.0,1.8
+1973,Sweden,657,Conservative,51.0,14.3
+1973,Sweden,882,Communist/Socialist,19.0,5.3
+1973,Sweden,892,Liberal,34.0,9.4
+1973,Sweden,904,Social democracy,156.0,43.6
+1973,Sweden,1461,Agrarian,90.0,25.1
+1974,Belgium,167,Social democracy,59.0,26.7
+1974,Belgium,256,Communist/Socialist,0.0,0.3
+1974,Belgium,290,Right-wing,22.0,10.2
+1974,Belgium,454,Liberal,9.0,5.6
+1974,Belgium,460,Social democracy,13.0,5.9
+1974,Belgium,640,Liberal,3.0,
+1974,Belgium,708,Communist/Socialist,4.0,3.2
+1974,Belgium,723,Christian democracy,50.0,23.3
+1974,Belgium,969,Liberal,9.0,5.0
+1974,Belgium,1110,Liberal,21.0,9.6
+1974,Belgium,1192,Christian democracy,22.0,9.1
+1974,Greece,47,Christian democracy,220.0,54.4
+1974,Greece,489,Liberal,60.0,20.4
+1974,Greece,614,Communist/Socialist,8.0,9.5
+1974,Greece,1338,Social democracy,12.0,13.6
+1974,Greece,2230,Right-wing,0.0,1.1
+1974,Luxembourg,151,Communist/Socialist,5.0,10.47
+1974,Luxembourg,701,Social democracy,17.0,27.0
+1974,Luxembourg,967,Liberal,14.0,22.23
+1974,Luxembourg,1134,Social democracy,5.0,9.2
+1974,Luxembourg,1234,Christian democracy,18.0,27.85
+1974,Luxembourg,2149,no family,0.0,0.62
+1974,United Kingdom,311,Special issue,2.5,0.6
+1974,United Kingdom,319,Conservative,1.0,
+1974,United Kingdom,453,no family,2.0,
+1974,United Kingdom,646,Right-wing,3.0,
+1974,United Kingdom,659,Liberal,13.5,18.8
+1974,United Kingdom,773,Conservative,287.0,36.9
+1974,United Kingdom,1023,Social democracy,1.0,0.5
+1974,United Kingdom,1126,Right-wing,0.0,0.30000000000000004
+1974,United Kingdom,1210,Conservative,6.5,
+1974,United Kingdom,1284,Social democracy,9.0,2.45
+1974,United Kingdom,1363,to be coded,,1.285
+1974,United Kingdom,1556,Social democracy,310.0,38.2
+1974,United Kingdom,1599,no family,1.0,
+1975,Austria,50,Right-wing,10.0,5.4
+1975,Austria,769,Communist/Socialist,0.0,1.2
+1975,Austria,973,Social democracy,93.0,50.4
+1975,Austria,1013,Christian democracy,80.0,42.9
+1975,Denmark,189,Communist/Socialist,4.0,2.1
+1975,Denmark,211,Liberal,13.0,7.1
+1975,Denmark,590,Conservative,10.0,5.5
+1975,Denmark,812,Special issue,1.0,
+1975,Denmark,978,Liberal,24.0,13.6
+1975,Denmark,1239,Communist/Socialist,7.0,4.2
+1975,Denmark,1324,Conservative,3.0,2.2
+1975,Denmark,1331,Christian democracy,9.0,5.3
+1975,Denmark,1605,Liberal,42.0,23.3
+1975,Denmark,1606,Liberal,0.0,1.8
+1975,Denmark,1629,Social democracy,53.0,29.9
+1975,Denmark,1634,no family,4.0,
+1975,Denmark,1644,Green/Ecologist,9.0,5.0
+1975,Finland,66,Special issue,1.0,0.3
+1975,Finland,94,Agrarian,39.0,17.6
+1975,Finland,139,Conservative,1.0,1.7
+1975,Finland,200,Agrarian,2.0,3.6
+1975,Finland,395,Social democracy,54.0,24.9
+1975,Finland,585,Liberal,9.0,4.7
+1975,Finland,1118,Conservative,35.0,18.4
+1975,Finland,1219,Liberal,9.0,4.3
+1975,Finland,1292,Communist/Socialist,40.0,18.9
+1975,Finland,1389,Conservative,1.0,1.6
+1975,Finland,1463,Christian democracy,9.0,3.3
+1975,Finland,2054,no family,0.0,0.34
+1975,Portugal,251,Christian democracy,16.0,8.18
+1975,Portugal,260,Communist/Socialist,1.0,0.84
+1975,Portugal,514,Communist/Socialist,30.0,13.39
+1975,Portugal,601,Communist/Socialist,0.0,1.25
+1975,Portugal,725,Social democracy,116.0,40.7
+1975,Portugal,1273,Liberal,81.0,28.36
+1975,Portugal,1281,Social democracy,5.0,4.45
+1975,Portugal,1508,Communist/Socialist,0.0,1.1
+1975,Portugal,2291,no family,1.0,
+1976,Cyprus,534,no family,1.0,1.2
+1976,Cyprus,572,Communist/Socialist,9.0,
+1976,Cyprus,851,Conservative,21.0,71.2
+1976,Cyprus,945,Social democracy,4.0,
+1976,Cyprus,1575,Conservative,0.0,27.6
+1976,Germany,543,Liberal,39.0,7.9
+1976,Germany,558,Social democracy,214.0,42.6
+1976,Germany,808,Christian democracy,190.0,38.1
+1976,Germany,1180,Christian democracy,53.0,10.6
+1976,Germany,1537,Right-wing,0.0,0.3
+1976,Italy,93,Liberal,14.0,3.09
+1976,Italy,242,Social democracy,15.0,3.4
+1976,Italy,487,Liberal,5.0,1.3
+1976,Italy,825,no family,1.0,0.07
+1976,Italy,831,Right-wing,35.0,6.1
+1976,Italy,1030,Special issue,3.0,0.5
+1976,Italy,1088,Communist/Socialist,228.0,34.4
+1976,Italy,1296,Social democracy,4.0,1.07
+1976,Italy,1424,Communist/Socialist,6.0,1.5
+1976,Italy,1475,Social democracy,57.0,9.6
+1976,Italy,1633,Christian democracy,262.0,38.7
+1976,Italy,2059,no family,0.0,0.07
+1976,Malta,984,Conservative,31.0,48.46
+1976,Malta,1003,Social democracy,34.0,51.53
+1976,Malta,1572,no family,0.0,0.02
+1976,Portugal,251,Christian democracy,42.0,16.76
+1976,Portugal,260,Communist/Socialist,1.0,1.75
+1976,Portugal,514,Communist/Socialist,40.0,15.1
+1976,Portugal,601,Communist/Socialist,0.0,0.81
+1976,Portugal,725,Social democracy,107.0,36.61
+1976,Portugal,1273,Liberal,73.0,25.55
+1976,Sweden,282,Christian democracy,0.0,1.4
+1976,Sweden,657,Conservative,55.0,15.6
+1976,Sweden,882,Communist/Socialist,17.0,4.7
+1976,Sweden,892,Liberal,39.0,11.1
+1976,Sweden,904,Social democracy,152.0,42.7
+1976,Sweden,1461,Agrarian,86.0,24.1
+1977,Belgium,167,Social democracy,62.0,27.03
+1977,Belgium,256,Communist/Socialist,0.0,0.4
+1977,Belgium,290,Right-wing,20.0,10.04
+1977,Belgium,454,Liberal,14.0,7.02
+1977,Belgium,460,Social democracy,5.0,2.96
+1977,Belgium,640,Liberal,2.0,
+1977,Belgium,708,Communist/Socialist,2.0,2.72
+1977,Belgium,723,Christian democracy,56.0,26.19
+1977,Belgium,969,Liberal,10.0,4.26
+1977,Belgium,1110,Liberal,17.0,8.54
+1977,Belgium,1192,Christian democracy,24.0,9.75
+1977,Denmark,189,Communist/Socialist,5.0,2.7
+1977,Denmark,211,Liberal,6.0,3.6
+1977,Denmark,590,Conservative,15.0,8.5
+1977,Denmark,812,Special issue,1.0,
+1977,Denmark,978,Liberal,26.0,14.6
+1977,Denmark,1239,Communist/Socialist,7.0,3.7
+1977,Denmark,1324,Conservative,10.0,6.4
+1977,Denmark,1331,Christian democracy,6.0,3.4
+1977,Denmark,1605,Liberal,21.0,12.0
+1977,Denmark,1606,Liberal,6.0,3.3
+1977,Denmark,1629,Social democracy,65.0,37.0
+1977,Denmark,1634,no family,4.0,
+1977,Denmark,1644,Green/Ecologist,7.0,3.9
+1977,Denmark,2058,no family,0.0,0.9
+1977,Greece,47,Christian democracy,171.0,41.8
+1977,Greece,463,Liberal,2.0,1.1
+1977,Greece,489,Liberal,16.0,11.9
+1977,Greece,597,Communist/Socialist,1.0,
+1977,Greece,614,Communist/Socialist,11.0,9.4
+1977,Greece,1027,Conservative,5.0,6.8
+1977,Greece,1311,Communist/Socialist,1.0,2.7
+1977,Greece,1338,Social democracy,93.0,25.3
+1977,Ireland,30,no family,4.0,
+1977,Ireland,280,Conservative,84.0,50.63
+1977,Ireland,318,Social democracy,17.0,11.63
+1977,Ireland,433,Communist/Socialist,0.0,1.7
+1977,Ireland,1393,Christian democracy,43.0,30.49
+1977,Netherlands,212,Christian democracy,0.0,0.64
+1977,Netherlands,235,Christian democracy,49.0,31.89
+1977,Netherlands,342,Green/Ecologist,3.0,1.69
+1977,Netherlands,345,Liberal,8.0,5.44
+1977,Netherlands,402,Conservative,1.0,0.72
+1977,Netherlands,625,Conservative,1.0,0.95
+1977,Netherlands,742,Social democracy,53.0,33.83
+1977,Netherlands,1194,Communist/Socialist,2.0,1.73
+1977,Netherlands,1251,Conservative,3.0,2.13
+1977,Netherlands,1409,Liberal,28.0,17.95
+1977,Netherlands,1452,Communist/Socialist,1.0,0.94
+1977,Netherlands,1595,Agrarian,1.0,0.84
+1977,Spain,62,Christian democracy,2.0,0.95
+1977,Spain,118,Communist/Socialist,19.0,9.35
+1977,Spain,135,Liberal,166.0,34.52
+1977,Spain,645,Conservative,16.0,8.23
+1977,Spain,757,Special issue,1.0,0.79
+1977,Spain,894,Conservative,11.0,2.82
+1977,Spain,902,Social democracy,118.0,29.39
+1977,Spain,1026,Communist/Socialist,1.0,0.34
+1977,Spain,1221,Special issue,1.0,0.2
+1977,Spain,1361,Christian democracy,8.0,1.62
+1977,Spain,1377,no family,1.0,0.16
+1977,Spain,1790,Communist/Socialist,6.0,4.47
+1977,Spain,2084,Christian democracy,0.0,1.18
+1978,Belgium,256,Communist/Socialist,0.0,0.79
+1978,Belgium,290,Right-wing,14.0,7.0
+1978,Belgium,454,Liberal,14.0,5.9
+1978,Belgium,460,Social democracy,4.0,2.9
+1978,Belgium,640,Liberal,1.0,
+1978,Belgium,708,Communist/Socialist,4.0,3.29
+1978,Belgium,723,Christian democracy,57.0,26.1
+1978,Belgium,969,Liberal,11.0,4.2
+1978,Belgium,993,Right-wing,1.0,1.4
+1978,Belgium,1029,Social democracy,26.0,12.4
+1978,Belgium,1110,Liberal,22.0,10.3
+1978,Belgium,1192,Christian democracy,25.0,10.1
+1978,Belgium,1378,Social democracy,32.0,13.0
+1978,Belgium,1440,Right-wing,1.0,0.9
+1978,France,59,Conservative,,10.6
+1978,France,138,Conservative,142.0,22.5
+1978,France,177,Social democracy,10.0,1.4
+1978,France,401,Conservative,,1.9
+1978,France,509,Conservative,124.0,
+1978,France,516,Communist/Socialist,0.0,1.1
+1978,France,686,Communist/Socialist,86.0,20.6
+1978,France,873,Green/Ecologist,0.0,2.0
+1978,France,1176,Communist/Socialist,0.0,1.7
+1978,France,1414,Conservative,10.0,2.8
+1978,France,1492,Social democracy,0.0,2.2
+1978,France,1539,Social democracy,102.0,22.8
+1978,France,2260,Communist/Socialist,0.0,2.0
+1978,France,2265,Christian democracy,,5.2
+1979,Austria,50,Right-wing,11.0,6.1
+1979,Austria,769,Communist/Socialist,0.0,1.0
+1979,Austria,973,Social democracy,95.0,51.0
+1979,Austria,1013,Christian democracy,77.0,41.9
+1979,Denmark,189,Communist/Socialist,6.0,3.7
+1979,Denmark,211,Liberal,10.0,5.4
+1979,Denmark,590,Conservative,22.0,12.5
+1979,Denmark,978,Liberal,20.0,11.0
+1979,Denmark,1239,Communist/Socialist,0.0,1.9
+1979,Denmark,1324,Conservative,6.0,3.2
+1979,Denmark,1331,Christian democracy,5.0,2.6
+1979,Denmark,1605,Liberal,22.0,12.5
+1979,Denmark,1606,Liberal,5.0,2.6
+1979,Denmark,1629,Social democracy,68.0,38.3
+1979,Denmark,1634,no family,4.0,
+1979,Denmark,1644,Green/Ecologist,11.0,5.9
+1979,Finland,66,Special issue,1.0,0.3
+1979,Finland,94,Agrarian,36.0,17.3
+1979,Finland,200,Agrarian,7.0,4.6
+1979,Finland,395,Social democracy,52.0,23.9
+1979,Finland,585,Liberal,9.0,4.2
+1979,Finland,1118,Conservative,47.0,21.7
+1979,Finland,1219,Liberal,4.0,3.7
+1979,Finland,1292,Communist/Socialist,35.0,17.9
+1979,Finland,1389,Conservative,0.0,1.2
+1979,Finland,1463,Christian democracy,9.0,4.8
+1979,Italy,55,Social democracy,1.0,0.18
+1979,Italy,93,Liberal,16.0,3.03
+1979,Italy,242,Social democracy,20.0,3.8
+1979,Italy,487,Liberal,9.0,1.9
+1979,Italy,831,Right-wing,30.0,5.3
+1979,Italy,968,Communist/Socialist,6.0,1.4
+1979,Italy,974,Special issue,1.0,0.09
+1979,Italy,1030,Special issue,4.0,0.56
+1979,Italy,1088,Communist/Socialist,201.0,30.4
+1979,Italy,1296,Social democracy,18.0,3.5
+1979,Italy,1475,Social democracy,62.0,9.8
+1979,Italy,1633,Christian democracy,262.0,38.3
+1979,Italy,2059,no family,0.0,0.8
+1979,Luxembourg,151,Communist/Socialist,2.0,5.83
+1979,Luxembourg,202,Special issue,1.0,4.45
+1979,Luxembourg,310,Green/Ecologist,0.0,1.0
+1979,Luxembourg,701,Social democracy,14.0,24.26
+1979,Luxembourg,967,Liberal,15.0,21.32
+1979,Luxembourg,1134,Social democracy,2.0,5.98
+1979,Luxembourg,1234,Christian democracy,24.0,34.51
+1979,Luxembourg,1339,Social democracy,1.0,2.2
+1979,Portugal,11,Communist/Socialist,,19.33
+1979,Portugal,107,Conservative,5.0,
+1979,Portugal,251,Christian democracy,43.0,
+1979,Portugal,260,Communist/Socialist,1.0,2.24
+1979,Portugal,427,Christian democracy,0.0,1.24
+1979,Portugal,514,Communist/Socialist,44.0,
+1979,Portugal,725,Social democracy,74.0,28.1
+1979,Portugal,1273,Liberal,75.0,
+1979,Portugal,1281,Social democracy,3.0,
+1979,Portugal,1543,Liberal,,43.71
+1979,Portugal,1772,Communist/Socialist,5.0,
+1979,Spain,118,Communist/Socialist,23.0,10.81
+1979,Spain,135,Liberal,168.0,34.95
+1979,Spain,370,Social democracy,5.0,1.82
+1979,Spain,645,Conservative,9.0,5.91
+1979,Spain,757,Special issue,1.0,0.69
+1979,Spain,894,Conservative,8.0,2.7
+1979,Spain,902,Social democracy,121.0,30.5
+1979,Spain,1026,Communist/Socialist,1.0,0.48
+1979,Spain,1221,Special issue,1.0,0.21
+1979,Spain,1317,Special issue,3.0,0.96
+1979,Spain,1361,Christian democracy,7.0,1.65
+1979,Spain,1407,Right-wing,1.0,2.11
+1979,Spain,2227,Communist/Socialist,0.0,1.08
+1979,Spain,2294,no family,2.0,
+1979,Sweden,282,Christian democracy,0.0,1.4
+1979,Sweden,657,Conservative,73.0,20.3
+1979,Sweden,882,Communist/Socialist,20.0,5.6
+1979,Sweden,892,Liberal,38.0,10.6
+1979,Sweden,904,Social democracy,154.0,43.2
+1979,Sweden,1461,Agrarian,64.0,18.1
+1979,United Kingdom,311,Special issue,2.0,0.4
+1979,United Kingdom,319,Conservative,3.0,0.23
+1979,United Kingdom,453,no family,2.0,
+1979,United Kingdom,659,Liberal,11.0,13.8
+1979,United Kingdom,773,Conservative,339.0,43.9
+1979,United Kingdom,1023,Social democracy,1.0,0.4
+1979,United Kingdom,1126,Right-wing,0.0,0.6
+1979,United Kingdom,1210,Conservative,5.0,0.82
+1979,United Kingdom,1284,Social democracy,2.0,1.6
+1979,United Kingdom,1556,Social democracy,269.0,36.9
+1979,United Kingdom,2296,no family,1.0,0.13
+1980,Germany,543,Liberal,53.0,10.6
+1980,Germany,558,Social democracy,218.0,42.9
+1980,Germany,772,Green/Ecologist,0.0,1.5
+1980,Germany,808,Christian democracy,174.0,34.2
+1980,Germany,1180,Christian democracy,52.0,10.3
+1980,Portugal,11,Communist/Socialist,,17.14
+1980,Portugal,107,Conservative,6.0,
+1980,Portugal,251,Christian democracy,46.0,
+1980,Portugal,260,Communist/Socialist,1.0,1.41
+1980,Portugal,375,Communist/Socialist,0.0,1.41
+1980,Portugal,514,Communist/Socialist,39.0,
+1980,Portugal,565,Social democracy,4.0,
+1980,Portugal,622,Social democracy,4.0,
+1980,Portugal,725,Social democracy,66.0,27.76
+1980,Portugal,998,Communist/Socialist,0.0,1.03
+1980,Portugal,1273,Liberal,82.0,
+1980,Portugal,1281,Social democracy,2.0,
+1980,Portugal,1543,Liberal,,47.59
+1981,Belgium,161,Green/Ecologist,2.0,2.5
+1981,Belgium,256,Communist/Socialist,0.0,0.67
+1981,Belgium,290,Right-wing,20.0,9.8
+1981,Belgium,454,Liberal,24.0,8.6
+1981,Belgium,460,Social democracy,2.0,1.7
+1981,Belgium,708,Communist/Socialist,2.0,2.3
+1981,Belgium,723,Christian democracy,43.0,19.3
+1981,Belgium,969,Liberal,6.0,2.5
+1981,Belgium,993,Right-wing,1.0,1.1
+1981,Belgium,1029,Social democracy,26.0,12.4
+1981,Belgium,1110,Liberal,28.0,12.9
+1981,Belgium,1192,Christian democracy,18.0,7.1
+1981,Belgium,1378,Social democracy,35.0,12.7
+1981,Belgium,1440,Right-wing,3.0,2.7
+1981,Belgium,1594,Green/Ecologist,2.0,2.3
+1981,Cyprus,572,Communist/Socialist,12.0,32.77
+1981,Cyprus,851,Conservative,8.0,19.5
+1981,Cyprus,945,Social democracy,3.0,8.17
+1981,Cyprus,1575,Conservative,12.0,31.92
+1981,Cyprus,1776,Right-wing,0.0,2.8
+1981,Cyprus,1777,Liberal,0.0,2.7
+1981,Cyprus,1778,to be coded,0.0,1.9
+1981,Denmark,189,Communist/Socialist,5.0,2.6
+1981,Denmark,211,Liberal,9.0,5.1
+1981,Denmark,590,Conservative,26.0,14.5
+1981,Denmark,978,Liberal,16.0,8.9
+1981,Denmark,1239,Communist/Socialist,0.0,1.1
+1981,Denmark,1324,Conservative,15.0,8.3
+1981,Denmark,1331,Christian democracy,4.0,2.3
+1981,Denmark,1605,Liberal,20.0,11.3
+1981,Denmark,1606,Liberal,0.0,1.4
+1981,Denmark,1629,Social democracy,59.0,32.9
+1981,Denmark,1634,no family,4.0,
+1981,Denmark,1644,Green/Ecologist,21.0,11.3
+1981,France,138,Conservative,80.0,20.7
+1981,France,401,Conservative,0.0,10.6
+1981,France,509,Conservative,59.0,2.2
+1981,France,686,Communist/Socialist,43.0,16.1
+1981,France,873,Green/Ecologist,0.0,1.1
+1981,France,1414,Conservative,10.0,2.6
+1981,France,1492,Social democracy,14.0,1.1
+1981,France,1539,Social democracy,268.0,36.0
+1981,France,2265,Christian democracy,0.0,5.3
+1981,Greece,47,Christian democracy,115.0,35.9
+1981,Greece,614,Communist/Socialist,13.0,10.9
+1981,Greece,1311,Communist/Socialist,0.0,1.3
+1981,Greece,1338,Social democracy,172.0,48.1
+1981,Greece,2123,Conservative,0.0,1.7
+1981,Ireland,30,no family,4.0,
+1981,Ireland,280,Conservative,78.0,45.26
+1981,Ireland,318,Social democracy,15.0,9.89
+1981,Ireland,433,Communist/Socialist,1.0,1.72
+1981,Ireland,1323,Special issue,2.0,2.4290000000000003
+1981,Ireland,1393,Christian democracy,65.0,36.46
+1981,Ireland,2216,no family,0.0,0.03
+1981,Ireland,2298,no family,1.0,0.41
+1981,Malta,984,Conservative,31.0,50.92
+1981,Malta,1003,Social democracy,34.0,49.07
+1981,Malta,1572,no family,0.0,0.01
+1981,Netherlands,212,Christian democracy,2.0,1.25
+1981,Netherlands,235,Christian democracy,48.0,30.81
+1981,Netherlands,342,Green/Ecologist,3.0,1.97
+1981,Netherlands,345,Liberal,17.0,11.06
+1981,Netherlands,402,Conservative,0.0,0.56
+1981,Netherlands,625,Conservative,1.0,0.82
+1981,Netherlands,742,Social democracy,44.0,28.29
+1981,Netherlands,1194,Communist/Socialist,3.0,2.05
+1981,Netherlands,1251,Conservative,3.0,1.97
+1981,Netherlands,1409,Liberal,26.0,17.32
+1981,Netherlands,1452,Communist/Socialist,3.0,2.12
+1982,Ireland,30,no family,3.5,
+1982,Ireland,280,Conservative,78.0,46.230000000000004
+1982,Ireland,318,Social democracy,15.5,9.239999999999998
+1982,Ireland,433,Communist/Socialist,2.5,2.77
+1982,Ireland,1393,Christian democracy,66.5,38.26
+1982,Ireland,2216,no family,0.0,0.42
+1982,Ireland,2217,Communist/Socialist,0.0,1.01
+1982,Netherlands,212,Christian democracy,2.0,1.51
+1982,Netherlands,235,Christian democracy,45.0,29.39
+1982,Netherlands,275,Right-wing,1.0,0.83
+1982,Netherlands,342,Green/Ecologist,2.0,1.66
+1982,Netherlands,345,Liberal,6.0,4.26
+1982,Netherlands,357,Communist/Socialist,0.0,0.55
+1982,Netherlands,625,Conservative,1.0,0.82
+1982,Netherlands,742,Social democracy,47.0,30.4
+1982,Netherlands,1194,Communist/Socialist,3.0,1.79
+1982,Netherlands,1251,Conservative,3.0,1.9
+1982,Netherlands,1409,Liberal,36.0,23.08
+1982,Netherlands,1452,Communist/Socialist,3.0,2.28
+1982,Netherlands,2288,no family,1.0,0.69
+1982,Spain,118,Communist/Socialist,4.0,4.04
+1982,Spain,135,Liberal,11.0,6.8
+1982,Spain,637,Christian democracy,2.0,2.88
+1982,Spain,645,Conservative,107.0,26.48
+1982,Spain,757,Special issue,1.0,0.66
+1982,Spain,894,Conservative,12.0,3.69
+1982,Spain,902,Social democracy,202.0,48.34
+1982,Spain,1026,Communist/Socialist,1.0,0.48
+1982,Spain,1317,Special issue,2.0,1.01
+1982,Spain,1361,Christian democracy,8.0,1.89
+1982,Sweden,282,Christian democracy,0.0,1.8
+1982,Sweden,657,Conservative,86.0,23.6
+1982,Sweden,882,Communist/Socialist,20.0,5.5
+1982,Sweden,892,Liberal,21.0,5.9
+1982,Sweden,904,Social democracy,166.0,45.6
+1982,Sweden,1154,Green/Ecologist,0.0,1.7
+1982,Sweden,1461,Agrarian,56.0,15.5
+1983,Austria,50,Right-wing,12.0,5.0
+1983,Austria,973,Social democracy,90.0,47.6
+1983,Austria,1013,Christian democracy,81.0,43.2
+1983,Austria,1739,Green/Ecologist,0.0,1.4
+1983,Austria,1740,Green/Ecologist,0.0,2.0
+1983,Finland,66,Special issue,1.0,0.3
+1983,Finland,94,Agrarian,38.0,17.6
+1983,Finland,139,Conservative,0.0,0.08
+1983,Finland,200,Agrarian,17.0,9.7
+1983,Finland,395,Social democracy,57.0,26.7
+1983,Finland,585,Liberal,10.0,4.6
+1983,Finland,1062,Green/Ecologist,2.0,1.4
+1983,Finland,1118,Conservative,44.0,22.1
+1983,Finland,1119,no family,1.0,0.5
+1983,Finland,1292,Communist/Socialist,26.0,13.5
+1983,Finland,1389,Conservative,1.0,0.4
+1983,Finland,1463,Christian democracy,3.0,3.0
+1983,Germany,543,Liberal,34.0,7.0
+1983,Germany,558,Social democracy,193.0,38.2
+1983,Germany,772,Green/Ecologist,27.0,5.6
+1983,Germany,808,Christian democracy,191.0,38.2
+1983,Germany,1180,Christian democracy,53.0,10.6
+1983,Germany,1537,Right-wing,0.0,0.2
+1983,Italy,93,Liberal,29.0,5.08
+1983,Italy,242,Social democracy,23.0,4.09
+1983,Italy,335,Social democracy,1.0,0.25
+1983,Italy,487,Liberal,16.0,2.9
+1983,Italy,613,Special issue,0.0,1.4
+1983,Italy,831,Right-wing,42.0,6.8
+1983,Italy,974,Special issue,1.0,0.08
+1983,Italy,1030,Special issue,3.0,0.5
+1983,Italy,1080,Special issue,1.0,0.34
+1983,Italy,1088,Communist/Socialist,198.0,29.9
+1983,Italy,1296,Social democracy,11.0,2.2
+1983,Italy,1424,Communist/Socialist,7.0,1.5
+1983,Italy,1475,Social democracy,73.0,11.4
+1983,Italy,1633,Christian democracy,225.0,32.9
+1983,Portugal,11,Communist/Socialist,,18.55
+1983,Portugal,251,Christian democracy,30.0,12.89
+1983,Portugal,427,Christian democracy,0.0,0.7
+1983,Portugal,514,Communist/Socialist,40.0,
+1983,Portugal,725,Social democracy,101.0,37.07
+1983,Portugal,1273,Liberal,75.0,27.96
+1983,Portugal,1281,Social democracy,3.0,
+1983,Portugal,1535,Green/Ecologist,1.0,
+1983,United Kingdom,311,Special issue,2.0,0.4
+1983,United Kingdom,319,Conservative,3.0,0.5
+1983,United Kingdom,659,Liberal,17.0,25.4
+1983,United Kingdom,689,Communist/Socialist,1.0,0.33
+1983,United Kingdom,773,Conservative,397.0,42.4
+1983,United Kingdom,1023,Social democracy,1.0,0.4
+1983,United Kingdom,1210,Conservative,11.0,0.85
+1983,United Kingdom,1284,Social democracy,2.0,1.1
+1983,United Kingdom,1547,Social democracy,6.0,
+1983,United Kingdom,1556,Social democracy,209.0,27.6
+1983,United Kingdom,1566,to be coded,1.0,0.07
+1984,Denmark,74,Social democracy,1.0,
+1984,Denmark,189,Communist/Socialist,5.0,2.7
+1984,Denmark,211,Liberal,10.0,5.5
+1984,Denmark,590,Conservative,42.0,23.4
+1984,Denmark,978,Liberal,6.0,3.6
+1984,Denmark,1324,Conservative,8.0,4.6
+1984,Denmark,1331,Christian democracy,5.0,2.7
+1984,Denmark,1605,Liberal,22.0,12.1
+1984,Denmark,1606,Liberal,0.0,1.5
+1984,Denmark,1629,Social democracy,56.0,31.6
+1984,Denmark,1644,Green/Ecologist,21.0,11.5
+1984,Denmark,1892,Conservative,1.0,
+1984,Denmark,2574,Conservative,1.0,
+1984,Denmark,2575,Liberal,1.0,
+1984,Luxembourg,151,Communist/Socialist,2.0,5.04
+1984,Luxembourg,310,Green/Ecologist,2.0,5.16
+1984,Luxembourg,701,Social democracy,21.0,33.56
+1984,Luxembourg,967,Liberal,14.0,18.67
+1984,Luxembourg,1234,Christian democracy,25.0,34.88
+1984,Luxembourg,1339,Social democracy,0.0,2.46
+1985,Belgium,161,Green/Ecologist,5.0,2.51
+1985,Belgium,290,Right-wing,16.0,7.88
+1985,Belgium,454,Liberal,24.0,10.21
+1985,Belgium,708,Communist/Socialist,0.0,1.18
+1985,Belgium,723,Christian democracy,49.0,21.29
+1985,Belgium,969,Liberal,3.0,1.19
+1985,Belgium,993,Right-wing,1.0,1.41
+1985,Belgium,1029,Social democracy,32.0,14.55
+1985,Belgium,1110,Liberal,22.0,10.75
+1985,Belgium,1192,Christian democracy,20.0,7.95
+1985,Belgium,1378,Social democracy,35.0,13.76
+1985,Belgium,1440,Right-wing,1.0,1.15
+1985,Belgium,1594,Green/Ecologist,4.0,3.74
+1985,Cyprus,572,Communist/Socialist,15.0,27.43
+1985,Cyprus,851,Conservative,16.0,27.65
+1985,Cyprus,945,Social democracy,6.0,11.07
+1985,Cyprus,1575,Conservative,19.0,33.56
+1985,Greece,47,Christian democracy,126.0,40.8
+1985,Greece,614,Communist/Socialist,12.0,9.9
+1985,Greece,1311,Communist/Socialist,1.0,1.8
+1985,Greece,1338,Social democracy,161.0,45.8
+1985,Portugal,11,Communist/Socialist,,15.89
+1985,Portugal,251,Christian democracy,22.0,10.22
+1985,Portugal,260,Communist/Socialist,0.0,1.3
+1985,Portugal,341,Social democracy,45.0,18.38
+1985,Portugal,514,Communist/Socialist,34.0,
+1985,Portugal,725,Social democracy,57.0,21.3
+1985,Portugal,1273,Liberal,88.0,30.64
+1985,Portugal,1281,Social democracy,3.0,
+1985,Portugal,1535,Green/Ecologist,1.0,
+1985,Sweden,282,Christian democracy,1.0,
+1985,Sweden,657,Conservative,76.0,21.3
+1985,Sweden,882,Communist/Socialist,19.0,5.4
+1985,Sweden,892,Liberal,51.0,14.2
+1985,Sweden,904,Social democracy,159.0,44.7
+1985,Sweden,1154,Green/Ecologist,0.0,1.5
+1985,Sweden,1461,Agrarian,43.0,12.4
+1986,Austria,50,Right-wing,18.0,9.7
+1986,Austria,769,Communist/Socialist,0.0,0.7
+1986,Austria,973,Social democracy,80.0,43.1
+1986,Austria,1013,Christian democracy,77.0,41.3
+1986,Austria,1429,Green/Ecologist,8.0,4.8
+1986,France,138,Conservative,146.0,11.5
+1986,France,270,Right-wing,35.0,9.8
+1986,France,285,Conservative,4.0,1.3
+1986,France,509,Conservative,128.0,9.4
+1986,France,686,Communist/Socialist,32.0,9.7
+1986,France,873,Green/Ecologist,0.0,1.2
+1986,France,1492,Social democracy,13.0,0.8
+1986,France,1539,Social democracy,198.0,30.8
+1986,France,2264,Conservative,,20.8
+1986,Netherlands,212,Christian democracy,1.0,0.91
+1986,Netherlands,235,Christian democracy,54.0,34.59
+1986,Netherlands,342,Green/Ecologist,2.0,1.26
+1986,Netherlands,345,Liberal,9.0,6.13
+1986,Netherlands,625,Conservative,1.0,0.96
+1986,Netherlands,742,Social democracy,52.0,33.27
+1986,Netherlands,1194,Communist/Socialist,0.0,0.63
+1986,Netherlands,1251,Conservative,3.0,1.74
+1986,Netherlands,1409,Liberal,27.0,17.41
+1986,Netherlands,1452,Communist/Socialist,1.0,1.2
+1986,Spain,118,Communist/Socialist,7.0,4.66
+1986,Spain,411,Special issue,1.0,0.33
+1986,Spain,443,Special issue,1.0,0.32
+1986,Spain,637,Christian democracy,19.0,9.27
+1986,Spain,645,Conservative,105.0,26.13
+1986,Spain,894,Conservative,18.0,5.05
+1986,Spain,902,Social democracy,184.0,44.33
+1986,Spain,1026,Communist/Socialist,2.0,0.53
+1986,Spain,1221,Special issue,1.0,0.36
+1986,Spain,1317,Special issue,5.0,1.15
+1986,Spain,1361,Christian democracy,6.0,1.54
+1986,Spain,2028,Communist/Socialist,0.0,1.14
+1986,Spain,2294,no family,1.0,0.4
+1987,Belgium,161,Green/Ecologist,3.0,2.57
+1987,Belgium,290,Right-wing,16.0,8.07
+1987,Belgium,454,Liberal,23.0,9.42
+1987,Belgium,708,Communist/Socialist,0.0,0.83
+1987,Belgium,723,Christian democracy,43.0,19.47
+1987,Belgium,969,Liberal,3.0,1.16
+1987,Belgium,993,Right-wing,2.0,1.9
+1987,Belgium,1029,Social democracy,32.0,14.91
+1987,Belgium,1110,Liberal,25.0,11.56
+1987,Belgium,1192,Christian democracy,19.0,8.01
+1987,Belgium,1378,Social democracy,40.0,15.66
+1987,Belgium,1594,Green/Ecologist,6.0,4.49
+1987,Denmark,74,Social democracy,1.0,
+1987,Denmark,189,Communist/Socialist,0.0,1.4
+1987,Denmark,211,Liberal,11.0,6.2
+1987,Denmark,367,Communist/Socialist,4.0,2.2
+1987,Denmark,590,Conservative,38.0,20.8
+1987,Denmark,797,Green/Ecologist,0.0,1.3
+1987,Denmark,978,Liberal,9.0,4.8
+1987,Denmark,1324,Conservative,9.0,4.8
+1987,Denmark,1331,Christian democracy,4.0,2.4
+1987,Denmark,1605,Liberal,19.0,10.5
+1987,Denmark,1629,Social democracy,54.0,29.3
+1987,Denmark,1644,Green/Ecologist,27.0,14.6
+1987,Denmark,1894,Social democracy,1.0,
+1987,Denmark,2574,Conservative,1.0,
+1987,Denmark,2575,Liberal,1.0,
+1987,Finland,66,Special issue,1.0,0.3
+1987,Finland,94,Agrarian,40.0,17.6
+1987,Finland,200,Agrarian,9.0,6.3
+1987,Finland,229,Communist/Socialist,4.0,4.2
+1987,Finland,395,Social democracy,56.0,24.1
+1987,Finland,585,Liberal,12.0,5.3
+1987,Finland,1062,Green/Ecologist,4.0,4.0
+1987,Finland,1118,Conservative,53.0,23.1
+1987,Finland,1219,Liberal,0.0,1.0
+1987,Finland,1292,Communist/Socialist,16.0,9.4
+1987,Finland,1463,Christian democracy,5.0,2.6
+1987,Finland,1576,Special issue,0.0,1.2
+1987,Germany,543,Liberal,46.0,9.1
+1987,Germany,558,Social democracy,186.0,37.2
+1987,Germany,772,Green/Ecologist,42.0,8.3
+1987,Germany,808,Christian democracy,174.0,34.5
+1987,Germany,1180,Christian democracy,49.0,9.8
+1987,Germany,1537,Right-wing,0.0,0.6
+1987,Ireland,30,no family,3.0,
+1987,Ireland,280,Conservative,81.0,44.15
+1987,Ireland,318,Social democracy,12.0,6.45
+1987,Ireland,379,Social democracy,1.0,0.42
+1987,Ireland,433,Communist/Socialist,4.0,3.79
+1987,Ireland,651,Liberal,14.0,11.85
+1987,Ireland,1393,Christian democracy,51.0,27.07
+1987,Ireland,2217,Communist/Socialist,0.0,1.85
+1987,Italy,93,Liberal,21.0,3.7
+1987,Italy,242,Social democracy,17.0,3.0
+1987,Italy,335,Social democracy,2.0,0.44
+1987,Italy,487,Liberal,11.0,2.1
+1987,Italy,831,Right-wing,35.0,5.9
+1987,Italy,974,Special issue,1.0,0.11
+1987,Italy,1030,Special issue,3.0,0.52
+1987,Italy,1080,Special issue,0.0,0.77
+1987,Italy,1088,Communist/Socialist,177.0,26.6
+1987,Italy,1296,Social democracy,13.0,2.6
+1987,Italy,1304,Green/Ecologist,13.0,2.5
+1987,Italy,1424,Communist/Socialist,8.0,1.7
+1987,Italy,1475,Social democracy,94.0,14.3
+1987,Italy,1560,Special issue,1.0,0.48
+1987,Italy,1633,Christian democracy,234.0,34.3
+1987,Malta,984,Conservative,35.0,50.91
+1987,Malta,1003,Social democracy,34.0,48.87
+1987,Malta,2171,no family,0.0,0.16
+1987,Portugal,251,Christian democracy,4.0,4.54
+1987,Portugal,260,Communist/Socialist,0.0,0.91
+1987,Portugal,341,Social democracy,7.0,5.02
+1987,Portugal,514,Communist/Socialist,28.0,
+1987,Portugal,725,Social democracy,60.0,22.74
+1987,Portugal,889,Social democracy,2.0,
+1987,Portugal,1273,Liberal,148.0,51.34
+1987,Portugal,1295,Communist/Socialist,,12.41
+1987,Portugal,1535,Green/Ecologist,1.0,
+1987,United Kingdom,311,Special issue,3.0,0.4
+1987,United Kingdom,319,Conservative,3.0,0.26
+1987,United Kingdom,467,Green/Ecologist,0.0,0.3
+1987,United Kingdom,659,Liberal,17.0,22.6
+1987,United Kingdom,689,Communist/Socialist,1.0,0.26
+1987,United Kingdom,773,Conservative,376.0,42.3
+1987,United Kingdom,1023,Social democracy,3.0,0.5
+1987,United Kingdom,1210,Conservative,9.0,0.85
+1987,United Kingdom,1284,Social democracy,3.0,1.3
+1987,United Kingdom,1547,Social democracy,5.0,
+1987,United Kingdom,1556,Social democracy,229.0,30.8
+1987,United Kingdom,1566,to be coded,1.0,0.06
+1988,Denmark,74,Social democracy,1.0,
+1988,Denmark,211,Liberal,10.0,5.6
+1988,Denmark,367,Communist/Socialist,0.0,1.9
+1988,Denmark,590,Conservative,35.0,19.3
+1988,Denmark,797,Green/Ecologist,0.0,1.4
+1988,Denmark,978,Liberal,16.0,9.0
+1988,Denmark,1324,Conservative,9.0,4.7
+1988,Denmark,1331,Christian democracy,4.0,2.0
+1988,Denmark,1605,Liberal,22.0,11.8
+1988,Denmark,1629,Social democracy,55.0,29.8
+1988,Denmark,1644,Green/Ecologist,24.0,13.0
+1988,Denmark,1892,Conservative,1.0,
+1988,Denmark,2574,Conservative,1.0,
+1988,Denmark,2575,Liberal,1.0,
+1988,France,138,Conservative,123.0,19.2
+1988,France,270,Right-wing,1.0,9.8
+1988,France,285,Conservative,8.0,2.5
+1988,France,509,Conservative,130.0,18.8
+1988,France,686,Communist/Socialist,24.0,11.2
+1988,France,1492,Social democracy,9.0,1.2
+1988,France,1539,Social democracy,260.0,34.9
+1988,France,2260,Communist/Socialist,0.0,1.5
+1988,Sweden,282,Christian democracy,0.0,2.9
+1988,Sweden,657,Conservative,66.0,18.3
+1988,Sweden,882,Communist/Socialist,21.0,5.8
+1988,Sweden,892,Liberal,44.0,12.2
+1988,Sweden,904,Social democracy,156.0,43.2
+1988,Sweden,1154,Green/Ecologist,20.0,5.5
+1988,Sweden,1461,Agrarian,42.0,11.3
+1989,Greece,47,Christian democracy,146.5,45.25
+1989,Greece,1059,Special issue,1.5,0.53
+1989,Greece,1338,Social democracy,126.5,39.900000000000006
+1989,Greece,1374,Conservative,1.0,1.0
+1989,Greece,1441,Communist/Socialist,24.5,12.05
+1989,Greece,2163,Green/Ecologist,1.0,0.6
+1989,Ireland,30,no family,4.0,
+1989,Ireland,280,Conservative,77.0,44.15
+1989,Ireland,318,Social democracy,15.0,9.48
+1989,Ireland,379,Social democracy,1.0,0.59
+1989,Ireland,433,Communist/Socialist,7.0,4.97
+1989,Ireland,651,Liberal,6.0,5.49
+1989,Ireland,1393,Christian democracy,55.0,29.29
+1989,Ireland,1573,Green/Ecologist,1.0,1.5
+1989,Ireland,2217,Communist/Socialist,0.0,1.21
+1989,Luxembourg,151,Communist/Socialist,1.0,5.1
+1989,Luxembourg,315,Green/Ecologist,2.0,4.16
+1989,Luxembourg,374,Right-wing,0.0,2.66
+1989,Luxembourg,701,Social democracy,18.0,27.21
+1989,Luxembourg,967,Liberal,11.0,16.16
+1989,Luxembourg,1158,Green/Ecologist,2.0,4.22
+1989,Luxembourg,1234,Christian democracy,22.0,31.66
+1989,Luxembourg,1582,Conservative,4.0,7.29
+1989,Netherlands,209,Right-wing,1.0,0.92
+1989,Netherlands,212,Christian democracy,1.0,0.96
+1989,Netherlands,235,Christian democracy,54.0,35.31
+1989,Netherlands,345,Liberal,12.0,7.89
+1989,Netherlands,357,Communist/Socialist,0.0,0.44
+1989,Netherlands,625,Conservative,2.0,1.23
+1989,Netherlands,742,Social democracy,49.0,31.88
+1989,Netherlands,756,Green/Ecologist,6.0,4.07
+1989,Netherlands,1251,Conservative,3.0,1.87
+1989,Netherlands,1409,Liberal,22.0,14.57
+1989,Poland,108,Social democracy,161.0,
+1989,Poland,822,Agrarian,76.0,
+1989,Poland,1011,no family,23.0,
+1989,Poland,1077,Communist/Socialist,173.0,
+1989,Poland,1216,Communist/Socialist,27.0,
+1989,Spain,73,Special issue,0.0,1.08
+1989,Spain,118,Communist/Socialist,17.0,9.13
+1989,Spain,370,Social democracy,2.0,1.05
+1989,Spain,411,Special issue,1.0,0.32
+1989,Spain,443,Special issue,2.0,0.71
+1989,Spain,637,Christian democracy,14.0,7.95
+1989,Spain,645,Conservative,107.0,25.97
+1989,Spain,845,Special issue,2.0,0.67
+1989,Spain,894,Conservative,18.0,5.07
+1989,Spain,902,Social democracy,175.0,39.88
+1989,Spain,1026,Communist/Socialist,2.0,0.52
+1989,Spain,1221,Special issue,1.0,0.35
+1989,Spain,1317,Special issue,4.0,1.07
+1989,Spain,1361,Christian democracy,5.0,1.25
+1990,Austria,50,Right-wing,33.0,16.6
+1990,Austria,973,Social democracy,80.0,42.8
+1990,Austria,1013,Christian democracy,60.0,32.1
+1990,Austria,1429,Green/Ecologist,10.0,4.8
+1990,Austria,1740,Green/Ecologist,0.0,2.0
+1990,Czech Republic,19,Special issue,22.0,10.03
+1990,Czech Republic,29,Right-wing,0.0,2.68
+1990,Czech Republic,196,Green/Ecologist,0.0,4.1
+1990,Czech Republic,440,Christian democracy,4.0,
+1990,Czech Republic,665,Communist/Socialist,32.0,13.24
+1990,Czech Republic,743,Liberal,127.0,49.5
+1990,Czech Republic,789,Social democracy,0.0,4.11
+1990,Czech Republic,872,Right-wing,0.0,1.0
+1990,Czech Republic,1245,Christian democracy,15.0,8.42
+1990,Czech Republic,2101,Agrarian,0.0,4.11
+1990,Czech Republic,2102,to be coded,0.0,1.04
+1990,Denmark,74,Social democracy,1.0,
+1990,Denmark,211,Liberal,7.0,3.5
+1990,Denmark,306,Communist/Socialist,0.0,1.7
+1990,Denmark,367,Communist/Socialist,0.0,1.8
+1990,Denmark,590,Conservative,30.0,16.0
+1990,Denmark,978,Liberal,12.0,6.4
+1990,Denmark,1324,Conservative,9.0,5.1
+1990,Denmark,1331,Christian democracy,4.0,2.3
+1990,Denmark,1605,Liberal,29.0,15.8
+1990,Denmark,1629,Social democracy,69.0,37.4
+1990,Denmark,1644,Green/Ecologist,15.0,8.3
+1990,Denmark,1894,Social democracy,1.0,
+1990,Denmark,2574,Conservative,1.0,
+1990,Denmark,2575,Liberal,1.0,
+1990,Germany,255,Green/Ecologist,8.0,1.2
+1990,Germany,524,Right-wing,0.0,2.1
+1990,Germany,543,Liberal,79.0,11.1
+1990,Germany,558,Social democracy,239.0,33.5
+1990,Germany,772,Green/Ecologist,0.0,3.8
+1990,Germany,791,Communist/Socialist,17.0,2.4
+1990,Germany,808,Christian democracy,268.0,36.7
+1990,Germany,1180,Christian democracy,51.0,7.1
+1990,Greece,47,Christian democracy,150.0,46.9
+1990,Greece,1059,Special issue,2.0,0.7
+1990,Greece,1338,Social democracy,123.0,38.6
+1990,Greece,1358,no family,4.0,
+1990,Greece,1374,Conservative,1.0,0.7
+1990,Greece,1441,Communist/Socialist,19.0,10.3
+1990,Greece,2163,Green/Ecologist,1.0,0.8
+1990,Hungary,198,to be coded,0.0,1.9
+1990,Hungary,418,Communist/Socialist,0.0,3.6
+1990,Hungary,434,Christian democracy,21.0,6.5
+1990,Hungary,546,Conservative,164.0,24.7
+1990,Hungary,870,Conservative,44.0,11.7
+1990,Hungary,921,Conservative,22.0,9.0
+1990,Hungary,1183,Agrarian,2.0,3.1
+1990,Hungary,1202,Communist/Socialist,0.0,3.7
+1990,Hungary,1203,Liberal,0.0,1.9
+1990,Hungary,1426,Liberal,93.0,21.4
+1990,Hungary,1591,Social democracy,33.0,10.9
+1990,Hungary,1617,no family,7.0,1.0
+1990,Latvia,42,Special issue,131.0,68.2
+1990,Latvia,288,no family,15.0,10.3
+1990,Latvia,1260,Communist/Socialist,55.0,21.5
+1990,Lithuania,21,Green/Ecologist,4.0,
+1990,Lithuania,58,no family,64.0,
+1990,Lithuania,675,Christian democracy,2.0,
+1990,Lithuania,1144,Liberal,3.0,
+1990,Lithuania,1408,Social democracy,9.0,
+1990,Lithuania,1446,Communist/Socialist,46.0,
+1990,Lithuania,1623,Communist/Socialist,7.0,
+1990,Romania,152,to be coded,2.0,0.48
+1990,Romania,307,Communist/Socialist,5.0,1.05
+1990,Romania,419,Liberal,263.0,66.3
+1990,Romania,425,no family,11.0,
+1990,Romania,441,no family,5.0,
+1990,Romania,648,Right-wing,9.0,2.1
+1990,Romania,792,Green/Ecologist,8.0,1.7
+1990,Romania,888,Christian democracy,12.0,2.6
+1990,Romania,948,Conservative,29.0,7.2
+1990,Romania,1015,Liberal,29.0,6.4
+1990,Romania,1299,Agrarian,9.0,1.8
+1990,Romania,1601,Social democracy,2.0,0.53
+1990,Romania,1639,Green/Ecologist,12.0,2.6
+1990,Slovakia,559,Conservative,14.0,8.66
+1990,Slovakia,874,Green/Ecologist,6.0,3.49
+1990,Slovakia,1000,Christian democracy,7.0,4.4
+1990,Slovakia,1061,Liberal,48.0,29.35
+1990,Slovakia,1072,Right-wing,22.0,13.94
+1990,Slovakia,1415,Communist/Socialist,22.0,13.35
+1990,Slovakia,1432,Christian democracy,31.0,19.21
+1990,Slovakia,1651,Social democracy,0.0,1.82
+1990,Slovakia,2232,Liberal,0.0,1.78
+1990,Slovakia,2233,Agrarian,0.0,2.52
+1990,Slovenia,16,Christian democracy,11.0,12.6
+1990,Slovenia,65,Special issue,1.0,
+1990,Slovenia,179,Social democracy,6.0,7.4
+1990,Slovenia,199,Special issue,1.0,
+1990,Slovenia,317,Communist/Socialist,5.0,5.4
+1990,Slovenia,706,Social democracy,14.0,17.3
+1990,Slovenia,875,Liberal,3.0,3.5
+1990,Slovenia,1047,Christian democracy,11.0,13.0
+1990,Slovenia,1252,Liberal,12.0,14.5
+1990,Slovenia,1371,Liberal,8.0,9.5
+1990,Slovenia,1619,Green/Ecologist,8.0,8.8
+1990,Slovenia,2275,Liberal,0.0,1.6
+1990,Slovenia,2570,Green/Ecologist,0.0,2.0
+1990,Slovenia,2571,Social democracy,0.0,2.5
+1991,Belgium,161,Green/Ecologist,10.0,5.1
+1991,Belgium,171,Right-wing,1.0,1.0
+1991,Belgium,256,Communist/Socialist,0.0,0.49
+1991,Belgium,290,Right-wing,10.0,5.9
+1991,Belgium,454,Liberal,20.0,8.1
+1991,Belgium,723,Christian democracy,39.0,16.8
+1991,Belgium,748,Liberal,3.0,3.2
+1991,Belgium,969,Liberal,3.0,1.5
+1991,Belgium,993,Right-wing,12.0,6.6
+1991,Belgium,1029,Social democracy,28.0,12.0
+1991,Belgium,1110,Liberal,26.0,12.0
+1991,Belgium,1192,Christian democracy,18.0,7.7
+1991,Belgium,1378,Social democracy,35.0,13.5
+1991,Belgium,1594,Green/Ecologist,7.0,4.9
+1991,Bulgaria,353,Agrarian,0.0,3.86
+1991,Bulgaria,364,Right-wing,0.0,1.13
+1991,Bulgaria,423,Christian democracy,110.0,34.36
+1991,Bulgaria,599,Liberal,0.0,1.32
+1991,Bulgaria,800,Special issue,0.0,1.82
+1991,Bulgaria,1160,Social democracy,106.0,33.14
+1991,Bulgaria,1286,Liberal,24.0,7.55
+1991,Bulgaria,2173,Agrarian,0.0,3.44
+1991,Bulgaria,2174,Social democracy,0.0,3.2
+1991,Bulgaria,2175,Liberal,0.0,2.81
+1991,Cyprus,572,Communist/Socialist,18.0,30.6
+1991,Cyprus,851,Conservative,11.0,19.6
+1991,Cyprus,945,Social democracy,7.0,10.9
+1991,Cyprus,1575,Conservative,20.0,35.8
+1991,Cyprus,1779,Communist/Socialist,0.0,2.4
+1991,Finland,66,Special issue,1.0,0.3
+1991,Finland,94,Agrarian,55.0,24.8
+1991,Finland,200,Agrarian,7.0,4.8
+1991,Finland,395,Social democracy,48.0,22.1
+1991,Finland,585,Liberal,11.0,5.5
+1991,Finland,1062,Green/Ecologist,10.0,6.8
+1991,Finland,1118,Conservative,40.0,19.3
+1991,Finland,1219,Liberal,1.0,0.8
+1991,Finland,1292,Communist/Socialist,19.0,10.1
+1991,Finland,1463,Christian democracy,8.0,3.1
+1991,Finland,2054,no family,0.0,0.47
+1991,Poland,18,Social democracy,4.0,2.1
+1991,Poland,108,Social democracy,27.0,5.1
+1991,Poland,181,Right-wing,3.0,0.5
+1991,Poland,334,Christian democracy,5.0,2.4
+1991,Poland,369,Christian democracy,44.0,8.7
+1991,Poland,548,Right-wing,46.0,7.5
+1991,Poland,619,Agrarian,28.0,5.5
+1991,Poland,629,Social democracy,60.0,12.0
+1991,Poland,664,Agrarian,48.0,8.7
+1991,Poland,696,Christian democracy,4.0,1.1
+1991,Poland,900,Special issue,7.0,1.2
+1991,Poland,1074,Communist/Socialist,4.0,0.2
+1991,Poland,1104,Liberal,62.0,12.31
+1991,Poland,1208,Special issue,2.0,0.36
+1991,Poland,1216,Communist/Socialist,1.0,1.4
+1991,Poland,1544,Liberal,37.0,7.5
+1991,Poland,1549,Conservative,3.0,2.3
+1991,Poland,1691,Liberal,16.0,3.3
+1991,Poland,1758,Conservative,49.0,8.7
+1991,Poland,2053,no family,0.0,0.82
+1991,Poland,2287,no family,10.0,
+1991,Portugal,82,Special issue,1.0,1.71
+1991,Portugal,251,Christian democracy,5.0,4.52
+1991,Portugal,514,Communist/Socialist,15.0,
+1991,Portugal,725,Social democracy,72.0,29.7
+1991,Portugal,998,Communist/Socialist,0.0,1.14
+1991,Portugal,1273,Liberal,135.0,51.6
+1991,Portugal,1295,Communist/Socialist,,8.97
+1991,Portugal,1535,Green/Ecologist,2.0,
+1991,Sweden,282,Christian democracy,26.0,7.1
+1991,Sweden,657,Conservative,80.0,21.9
+1991,Sweden,882,Communist/Socialist,16.0,4.5
+1991,Sweden,892,Liberal,33.0,9.1
+1991,Sweden,904,Social democracy,138.0,37.7
+1991,Sweden,951,Right-wing,25.0,6.7
+1991,Sweden,1154,Green/Ecologist,0.0,3.4
+1991,Sweden,1461,Agrarian,31.0,8.5
+1992,Czech Republic,19,Special issue,14.0,5.87
+1992,Czech Republic,77,Social democracy,0.0,3.77
+1992,Czech Republic,440,Christian democracy,10.0,
+1992,Czech Republic,574,Liberal,0.0,4.59
+1992,Czech Republic,789,Social democracy,16.0,6.53
+1992,Czech Republic,829,Conservative,66.0,29.73
+1992,Czech Republic,872,Right-wing,14.0,5.98
+1992,Czech Republic,1123,Liberal,14.0,5.93
+1992,Czech Republic,1173,Communist/Socialist,35.0,14.05
+1992,Czech Republic,1218,Liberal,16.0,6.52
+1992,Czech Republic,1245,Christian democracy,15.0,6.28
+1992,Czech Republic,2219,Liberal,0.0,3.15
+1992,Czech Republic,2220,Liberal,0.0,2.69
+1992,Czech Republic,2221,to be coded,0.0,1.37
+1992,Czech Republic,2222,Special issue,0.0,1.3
+1992,Czech Republic,2223,Social democracy,0.0,1.08
+1992,Estonia,25,Special issue,8.0,7.12
+1992,Estonia,243,Conservative,29.0,22.0
+1992,Estonia,450,Social democracy,15.0,12.25
+1992,Estonia,486,Liberal,17.0,13.6
+1992,Estonia,552,Conservative,10.0,8.79
+1992,Estonia,1064,Right-wing,8.0,6.89
+1992,Estonia,1448,Social democracy,12.0,9.73
+1992,Estonia,1516,Liberal,1.0,2.39
+1992,Estonia,1553,Agrarian,0.0,2.91
+1992,Estonia,1792,Special issue,0.0,3.71
+1992,Estonia,2416,Communist/Socialist,0.0,1.61
+1992,Estonia,2631,Green/Ecologist,1.0,2.62
+1992,Ireland,30,no family,5.0,
+1992,Ireland,280,Conservative,68.0,39.11
+1992,Ireland,318,Social democracy,33.0,19.31
+1992,Ireland,651,Liberal,10.0,4.68
+1992,Ireland,1393,Christian democracy,45.0,24.47
+1992,Ireland,1573,Green/Ecologist,1.0,1.4
+1992,Ireland,1580,Communist/Socialist,4.0,2.78
+1992,Ireland,2217,Communist/Socialist,0.0,1.61
+1992,Italy,93,Liberal,27.0,4.4
+1992,Italy,242,Social democracy,16.0,2.7
+1992,Italy,366,Christian democracy,12.0,1.9
+1992,Italy,473,Special issue,1.0,0.39
+1992,Italy,487,Liberal,17.0,2.9
+1992,Italy,809,Social democracy,107.0,16.1
+1992,Italy,831,Right-wing,34.0,5.4
+1992,Italy,910,Green/Ecologist,16.0,2.8
+1992,Italy,974,Special issue,1.0,0.11
+1992,Italy,1030,Special issue,3.0,0.51
+1992,Italy,1080,Special issue,1.0,0.39
+1992,Italy,1296,Social democracy,7.0,1.2
+1992,Italy,1321,Communist/Socialist,35.0,5.6
+1992,Italy,1436,Right-wing,55.0,8.7
+1992,Italy,1475,Social democracy,92.0,13.6
+1992,Italy,1633,Christian democracy,206.0,29.7
+1992,Italy,2059,no family,0.0,0.82
+1992,Lithuania,28,Special issue,4.0,2.14
+1992,Lithuania,58,no family,1.0,
+1992,Lithuania,383,Right-wing,1.0,3.55
+1992,Lithuania,432,Right-wing,4.0,1.99
+1992,Lithuania,519,Social democracy,73.0,43.98
+1992,Lithuania,675,Christian democracy,18.0,12.61
+1992,Lithuania,887,Liberal,2.0,2.52
+1992,Lithuania,1045,Conservative,30.0,21.17
+1992,Lithuania,1408,Social democracy,8.0,6.05
+1992,Lithuania,1562,Right-wing,0.0,1.51
+1992,Lithuania,1782,Special issue,0.0,1.19
+1992,Lithuania,1783,to be coded,0.0,1.07
+1992,Malta,360,Green/Ecologist,0.0,1.69
+1992,Malta,984,Conservative,34.0,51.77
+1992,Malta,1003,Social democracy,31.0,46.5
+1992,Romania,356,Christian democracy,,20.01
+1992,Romania,419,Liberal,43.0,10.2
+1992,Romania,425,no family,13.0,
+1992,Romania,562,Communist/Socialist,13.0,3.04
+1992,Romania,648,Right-wing,30.0,7.7
+1992,Romania,713,Right-wing,16.0,3.9
+1992,Romania,792,Green/Ecologist,4.0,
+1992,Romania,861,Liberal,14.0,
+1992,Romania,888,Christian democracy,41.0,
+1992,Romania,948,Conservative,27.0,7.5
+1992,Romania,1015,Liberal,0.0,2.63
+1992,Romania,1120,Social democracy,117.0,27.7
+1992,Romania,1299,Agrarian,0.0,2.998
+1992,Romania,1601,Social democracy,10.0,
+1992,Romania,1639,Green/Ecologist,0.0,2.25
+1992,Romania,2098,to be coded,0.0,1.63
+1992,Romania,2099,Liberal,13.0,
+1992,Slovakia,559,Conservative,,7.42
+1992,Slovakia,874,Green/Ecologist,0.0,2.14
+1992,Slovakia,936,Christian democracy,0.0,3.05
+1992,Slovakia,1000,Christian democracy,0.0,3.31
+1992,Slovakia,1061,Liberal,0.0,4.04
+1992,Slovakia,1072,Right-wing,15.0,7.93
+1992,Slovakia,1142,Conservative,74.0,37.26
+1992,Slovakia,1415,Communist/Socialist,29.0,14.7
+1992,Slovakia,1432,Christian democracy,18.0,8.89
+1992,Slovakia,1651,Social democracy,0.0,4.0
+1992,Slovakia,2235,Green/Ecologist,0.0,1.08
+1992,Slovakia,2246,Liberal,0.0,2.29
+1992,Slovakia,2247,Christian democracy,5.0,
+1992,Slovakia,2248,Conservative,9.0,
+1992,Slovenia,16,Christian democracy,10.0,8.69
+1992,Slovenia,65,Special issue,1.0,
+1992,Slovenia,143,Social democracy,6.0,5.01
+1992,Slovenia,179,Social democracy,4.0,3.34
+1992,Slovenia,199,Special issue,1.0,
+1992,Slovenia,317,Communist/Socialist,0.0,2.75
+1992,Slovenia,706,Social democracy,14.0,13.58
+1992,Slovenia,875,Liberal,0.0,1.52
+1992,Slovenia,981,to be coded,12.0,10.02
+1992,Slovenia,1047,Christian democracy,15.0,14.51
+1992,Slovenia,1252,Liberal,22.0,23.46
+1992,Slovenia,1370,no family,0.0,1.0
+1992,Slovenia,1619,Green/Ecologist,5.0,3.7
+1992,Slovenia,2241,Christian democracy,0.0,1.14
+1992,Slovenia,2243,Liberal,0.0,1.42
+1992,Slovenia,2244,to be coded,0.0,1.36
+1992,Slovenia,2275,Liberal,0.0,1.6
+1992,Slovenia,2573,Conservative,0.0,2.18
+1992,United Kingdom,311,Special issue,4.0,0.5
+1992,United Kingdom,319,Conservative,3.0,0.3
+1992,United Kingdom,467,Green/Ecologist,0.0,0.5
+1992,United Kingdom,659,Liberal,20.0,17.8
+1992,United Kingdom,773,Conservative,336.0,41.9
+1992,United Kingdom,1023,Social democracy,4.0,0.5
+1992,United Kingdom,1210,Conservative,9.0,0.8
+1992,United Kingdom,1284,Social democracy,3.0,1.9
+1992,United Kingdom,1556,Social democracy,271.0,34.9
+1992,United Kingdom,1566,to be coded,1.0,0.1
+1993,France,138,Conservative,248.0,20.4
+1993,France,270,Right-wing,0.0,12.4
+1993,France,285,Conservative,22.0,4.7
+1993,France,509,Conservative,215.0,19.1
+1993,France,650,Green/Ecologist,0.0,
+1993,France,686,Communist/Socialist,24.0,9.2
+1993,France,873,Green/Ecologist,0.0,7.64
+1993,France,1328,no family,1.0,3.7
+1993,France,1492,Social democracy,6.0,0.9
+1993,France,1539,Social democracy,55.0,17.6
+1993,France,2083,Communist/Socialist,0.0,1.8
+1993,France,2260,Communist/Socialist,6.0,1.8
+1993,Greece,47,Christian democracy,111.0,39.3
+1993,Greece,614,Communist/Socialist,9.0,4.5
+1993,Greece,1338,Social democracy,170.0,47.1
+1993,Greece,1412,Conservative,10.0,4.9
+1993,Greece,1441,Communist/Socialist,0.0,2.9
+1993,Latvia,32,Liberal,13.0,12.0
+1993,Latvia,42,Special issue,0.0,2.63
+1993,Latvia,203,Right-wing,6.0,5.35
+1993,Latvia,239,Christian democracy,6.0,5.01
+1993,Latvia,384,Liberal,5.0,4.76
+1993,Latvia,526,Liberal,36.0,32.41
+1993,Latvia,928,Social democracy,7.0,5.76
+1993,Latvia,1001,Green/Ecologist,0.0,1.19
+1993,Latvia,1083,Special issue,0.0,1.16
+1993,Latvia,1368,Agrarian,12.0,10.65
+1993,Latvia,1557,Right-wing,15.0,13.35
+1993,Poland,108,Social democracy,0.0,4.9
+1993,Poland,181,Right-wing,0.0,2.7
+1993,Poland,207,Agrarian,0.0,2.78
+1993,Poland,369,Christian democracy,0.0,4.42
+1993,Poland,548,Right-wing,22.0,5.8
+1993,Poland,619,Agrarian,0.0,2.4
+1993,Poland,629,Social democracy,171.0,20.4
+1993,Poland,664,Agrarian,132.0,15.4
+1993,Poland,838,Social democracy,41.0,7.3
+1993,Poland,900,Special issue,3.0,0.4
+1993,Poland,1019,Christian democracy,16.0,5.4
+1993,Poland,1104,Liberal,74.0,10.6
+1993,Poland,1544,Liberal,0.0,4.0
+1993,Poland,1549,Conservative,0.0,3.2
+1993,Poland,1710,Christian democracy,0.0,2.7
+1993,Poland,1758,Conservative,0.0,6.37
+1993,Poland,2287,no family,1.0,0.1
+1993,Spain,118,Communist/Socialist,18.0,9.63
+1993,Spain,234,Special issue,4.0,0.88
+1993,Spain,443,Special issue,1.0,0.48
+1993,Spain,637,Christian democracy,0.0,1.77
+1993,Spain,645,Conservative,141.0,35.04
+1993,Spain,757,Special issue,1.0,0.81
+1993,Spain,845,Special issue,1.0,0.55
+1993,Spain,894,Conservative,17.0,4.98
+1993,Spain,902,Social democracy,159.0,39.1
+1993,Spain,1221,Special issue,1.0,0.62
+1993,Spain,1317,Special issue,2.0,0.88
+1993,Spain,1361,Christian democracy,5.0,1.25
+1994,Austria,50,Right-wing,42.0,22.5
+1994,Austria,955,Liberal,11.0,6.0
+1994,Austria,973,Social democracy,65.0,34.9
+1994,Austria,1013,Christian democracy,52.0,27.7
+1994,Austria,1429,Green/Ecologist,13.0,7.3
+1994,Austria,1744,Special issue,0.0,0.9
+1994,Bulgaria,353,Agrarian,18.0,6.51
+1994,Bulgaria,423,Christian democracy,69.0,24.23
+1994,Bulgaria,599,Liberal,13.0,4.73
+1994,Bulgaria,800,Special issue,0.0,1.41
+1994,Bulgaria,1160,Social democracy,125.0,43.5
+1994,Bulgaria,1286,Liberal,15.0,5.44
+1994,Bulgaria,1570,Communist/Socialist,0.0,1.51
+1994,Bulgaria,2170,Social democracy,0.0,3.79
+1994,Bulgaria,2176,Liberal,0.0,1.49
+1994,Bulgaria,2177,Conservative,0.0,1.43
+1994,Denmark,211,Liberal,8.0,4.6
+1994,Denmark,306,Communist/Socialist,6.0,3.1
+1994,Denmark,590,Conservative,27.0,15.0
+1994,Denmark,978,Liberal,11.0,6.4
+1994,Denmark,1128,no family,1.0,1.0
+1994,Denmark,1324,Conservative,5.0,2.8
+1994,Denmark,1331,Christian democracy,0.0,1.8
+1994,Denmark,1605,Liberal,42.0,23.3
+1994,Denmark,1629,Social democracy,62.0,34.6
+1994,Denmark,1644,Green/Ecologist,13.0,7.3
+1994,Denmark,1892,Conservative,1.0,
+1994,Denmark,2574,Conservative,1.0,
+1994,Denmark,2575,Liberal,1.0,
+1994,Denmark,2576,no family,1.0,
+1994,Germany,524,Right-wing,0.0,1.9
+1994,Germany,543,Liberal,47.0,6.9
+1994,Germany,558,Social democracy,252.0,36.4
+1994,Germany,772,Green/Ecologist,49.0,7.3
+1994,Germany,791,Communist/Socialist,30.0,4.4
+1994,Germany,808,Christian democracy,244.0,34.2
+1994,Germany,1180,Christian democracy,50.0,7.3
+1994,Hungary,95,Right-wing,0.0,1.6
+1994,Hungary,434,Christian democracy,22.0,7.0
+1994,Hungary,546,Conservative,38.0,11.7
+1994,Hungary,870,Conservative,26.0,8.8
+1994,Hungary,921,Conservative,20.0,7.0
+1994,Hungary,1183,Agrarian,1.0,2.1
+1994,Hungary,1202,Communist/Socialist,0.0,3.2
+1994,Hungary,1203,Liberal,1.0,0.6
+1994,Hungary,1426,Liberal,69.0,19.7
+1994,Hungary,1591,Social democracy,209.0,33.0
+1994,Hungary,2588,to be coded,0.0,2.55
+1994,Italy,67,Conservative,,46.4
+1994,Italy,99,Christian democracy,29.0,
+1994,Italy,142,Christian democracy,46.0,15.7
+1994,Italy,366,Christian democracy,6.0,
+1994,Italy,373,Conservative,109.0,
+1994,Italy,397,Liberal,4.0,
+1994,Italy,436,Right-wing,1.0,0.2
+1994,Italy,596,Conservative,99.0,
+1994,Italy,671,Liberal,2.0,
+1994,Italy,809,Social democracy,109.0,
+1994,Italy,896,Christian democracy,18.0,
+1994,Italy,910,Green/Ecologist,11.0,
+1994,Italy,974,Special issue,1.0,0.1
+1994,Italy,1030,Special issue,3.0,0.6
+1994,Italy,1048,Social democracy,,34.3
+1994,Italy,1296,Social democracy,6.0,
+1994,Italy,1321,Communist/Socialist,39.0,
+1994,Italy,1431,Christian democracy,5.0,
+1994,Italy,1436,Right-wing,117.0,
+1994,Italy,1475,Social democracy,14.0,
+1994,Italy,1552,no family,10.0,
+1994,Italy,2302,no family,1.0,
+1994,Luxembourg,151,Communist/Socialist,0.0,1.92
+1994,Luxembourg,310,Green/Ecologist,5.0,10.17
+1994,Luxembourg,374,Right-wing,0.0,2.76
+1994,Luxembourg,701,Social democracy,17.0,26.69
+1994,Luxembourg,967,Liberal,12.0,18.35
+1994,Luxembourg,1234,Christian democracy,21.0,29.71
+1994,Luxembourg,1582,Conservative,5.0,8.16
+1994,Netherlands,112,Special issue,6.0,3.63
+1994,Netherlands,209,Right-wing,3.0,2.46
+1994,Netherlands,212,Christian democracy,3.0,1.77
+1994,Netherlands,235,Christian democracy,34.0,22.23
+1994,Netherlands,275,Right-wing,0.0,0.36
+1994,Netherlands,345,Liberal,24.0,15.49
+1994,Netherlands,357,Communist/Socialist,2.0,1.32
+1994,Netherlands,625,Conservative,2.0,1.33
+1994,Netherlands,742,Social democracy,37.0,23.97
+1994,Netherlands,756,Green/Ecologist,5.0,3.47
+1994,Netherlands,1251,Conservative,2.0,1.73
+1994,Netherlands,1409,Liberal,31.0,19.96
+1994,Netherlands,2288,no family,1.0,0.87
+1994,Slovakia,44,Communist/Socialist,0.0,2.72
+1994,Slovakia,527,Communist/Socialist,18.0,10.42
+1994,Slovakia,559,Conservative,,10.19
+1994,Slovakia,936,Christian democracy,0.0,2.06
+1994,Slovakia,1000,Christian democracy,0.0,3.43
+1994,Slovakia,1072,Right-wing,9.0,5.4
+1994,Slovakia,1142,Conservative,61.0,34.97
+1994,Slovakia,1432,Christian democracy,17.0,10.08
+1994,Slovakia,1495,Liberal,15.0,8.57
+1994,Slovakia,1563,Communist/Socialist,13.0,7.35
+1994,Slovakia,2237,Special issue,0.0,1.33
+1994,Slovakia,2238,Special issue,0.0,1.32
+1994,Slovakia,2239,to be coded,0.0,1.05
+1994,Slovakia,2246,Liberal,1.0,
+1994,Slovakia,2247,Christian democracy,7.0,
+1994,Slovakia,2248,Conservative,9.0,
+1994,Sweden,282,Christian democracy,15.0,4.1
+1994,Sweden,657,Conservative,80.0,22.4
+1994,Sweden,882,Communist/Socialist,22.0,6.2
+1994,Sweden,892,Liberal,26.0,7.2
+1994,Sweden,904,Social democracy,161.0,45.3
+1994,Sweden,951,Right-wing,0.0,1.2
+1994,Sweden,1154,Green/Ecologist,18.0,5.0
+1994,Sweden,1461,Agrarian,27.0,7.7
+1995,Austria,50,Right-wing,41.0,21.9
+1995,Austria,955,Liberal,10.0,5.5
+1995,Austria,973,Social democracy,71.0,38.1
+1995,Austria,1013,Christian democracy,52.0,28.3
+1995,Austria,1429,Green/Ecologist,9.0,4.8
+1995,Austria,1744,Special issue,0.0,1.1
+1995,Belgium,161,Green/Ecologist,6.0,4.01
+1995,Belgium,171,Right-wing,2.0,2.28
+1995,Belgium,256,Communist/Socialist,0.0,0.6
+1995,Belgium,290,Right-wing,5.0,4.67
+1995,Belgium,454,Liberal,18.0,10.26
+1995,Belgium,723,Christian democracy,29.0,17.2
+1995,Belgium,993,Right-wing,11.0,7.83
+1995,Belgium,1029,Social democracy,20.0,12.6
+1995,Belgium,1110,Liberal,21.0,13.15
+1995,Belgium,1192,Christian democracy,12.0,7.73
+1995,Belgium,1378,Social democracy,21.0,11.87
+1995,Belgium,1594,Green/Ecologist,5.0,4.43
+1995,Estonia,113,Liberal,19.0,16.19
+1995,Estonia,243,Conservative,8.0,7.86
+1995,Estonia,486,Liberal,41.0,32.23
+1995,Estonia,1064,Right-wing,0.0,3.61
+1995,Estonia,1137,Social democracy,16.0,14.17
+1995,Estonia,1395,Conservative,5.0,5.0
+1995,Estonia,1448,Social democracy,6.0,5.99
+1995,Estonia,1590,Social democracy,6.0,5.87
+1995,Estonia,1794,Right-wing,0.0,2.57
+1995,Estonia,1796,Agrarian,0.0,1.51
+1995,Estonia,2416,Communist/Socialist,0.0,2.27
+1995,Finland,66,Special issue,1.0,0.4
+1995,Finland,94,Agrarian,44.0,19.8
+1995,Finland,200,Agrarian,1.0,1.3
+1995,Finland,395,Social democracy,63.0,28.3
+1995,Finland,585,Liberal,11.0,5.1
+1995,Finland,979,Special issue,0.0,1.01
+1995,Finland,1009,Liberal,2.0,2.8
+1995,Finland,1062,Green/Ecologist,9.0,6.5
+1995,Finland,1105,Green/Ecologist,1.0,0.3
+1995,Finland,1118,Conservative,39.0,17.9
+1995,Finland,1292,Communist/Socialist,22.0,11.2
+1995,Finland,1463,Christian democracy,7.0,3.0
+1995,Latvia,32,Liberal,6.0,5.55
+1995,Latvia,42,Special issue,0.0,1.16
+1995,Latvia,203,Right-wing,14.0,11.94
+1995,Latvia,239,Christian democracy,8.0,6.36
+1995,Latvia,267,Right-wing,16.0,14.9
+1995,Latvia,278,Liberal,0.0,1.49
+1995,Latvia,309,Communist/Socialist,5.0,5.58
+1995,Latvia,526,Liberal,17.0,14.65
+1995,Latvia,759,Liberal,18.0,15.15
+1995,Latvia,1042,Communist/Socialist,8.0,7.15
+1995,Latvia,1083,Special issue,0.0,1.25
+1995,Latvia,1163,to be coded,0.0,1.0
+1995,Latvia,1557,Right-wing,8.0,6.32
+1995,Latvia,2417,Agrarian,0.0,1.37
+1995,Latvia,2418,Social democracy,0.0,4.56
+1995,Portugal,251,Christian democracy,15.0,9.23
+1995,Portugal,281,Communist/Socialist,0.0,0.71
+1995,Portugal,514,Communist/Socialist,13.0,
+1995,Portugal,725,Social democracy,112.0,44.61
+1995,Portugal,1273,Liberal,88.0,34.78
+1995,Portugal,1295,Communist/Socialist,,8.74
+1995,Portugal,1535,Green/Ecologist,2.0,
+1996,Cyprus,6,Right-wing,0.0,1.7
+1996,Cyprus,572,Communist/Socialist,19.0,33.0
+1996,Cyprus,851,Conservative,10.0,16.4
+1996,Cyprus,945,Social democracy,5.0,8.1
+1996,Cyprus,1523,Liberal,2.0,3.7
+1996,Cyprus,1575,Conservative,20.0,34.5
+1996,Cyprus,1621,Green/Ecologist,0.0,1.0
+1996,Cyprus,1779,Communist/Socialist,0.0,1.4
+1996,Czech Republic,29,Right-wing,0.0,2.05
+1996,Czech Republic,77,Social democracy,0.0,3.09
+1996,Czech Republic,789,Social democracy,61.0,26.44
+1996,Czech Republic,829,Conservative,68.0,29.62
+1996,Czech Republic,872,Right-wing,18.0,8.01
+1996,Czech Republic,1123,Liberal,13.0,6.36
+1996,Czech Republic,1173,Communist/Socialist,22.0,10.33
+1996,Czech Republic,1245,Christian democracy,18.0,8.08
+1996,Czech Republic,1616,Liberal,0.0,2.8
+1996,Czech Republic,2224,Communist/Socialist,0.0,1.4
+1996,Greece,47,Christian democracy,108.0,38.12
+1996,Greece,614,Communist/Socialist,11.0,5.61
+1996,Greece,720,Social democracy,9.0,4.43
+1996,Greece,1338,Social democracy,162.0,41.49
+1996,Greece,1412,Conservative,0.0,2.94
+1996,Greece,1441,Communist/Socialist,10.0,5.12
+1996,Italy,67,Conservative,,42.1
+1996,Italy,350,Liberal,26.0,
+1996,Italy,373,Conservative,93.0,
+1996,Italy,436,Right-wing,1.0,0.22
+1996,Italy,596,Conservative,123.0,
+1996,Italy,627,Christian democracy,30.0,
+1996,Italy,809,Social democracy,171.0,
+1996,Italy,840,Christian democracy,75.0,
+1996,Italy,910,Green/Ecologist,16.0,
+1996,Italy,974,Special issue,1.0,0.1
+1996,Italy,1048,Social democracy,,34.94
+1996,Italy,1296,Social democracy,0.0,1.88
+1996,Italy,1321,Communist/Socialist,35.0,8.57
+1996,Italy,1436,Right-wing,59.0,10.07
+1996,Lithuania,28,Special issue,1.0,3.13
+1996,Lithuania,58,no family,4.0,
+1996,Lithuania,378,Liberal,1.0,1.93
+1996,Lithuania,383,Right-wing,1.0,4.01
+1996,Lithuania,493,Christian democracy,1.0,3.24
+1996,Lithuania,519,Social democracy,12.0,10.01
+1996,Lithuania,675,Christian democracy,16.0,10.43
+1996,Lithuania,863,Special issue,0.0,1.71
+1996,Lithuania,887,Liberal,13.0,8.67
+1996,Lithuania,1045,Conservative,70.0,31.34
+1996,Lithuania,1144,Liberal,3.0,2.2
+1996,Lithuania,1261,Social democracy,1.0,3.86
+1996,Lithuania,1408,Social democracy,12.0,6.94
+1996,Lithuania,1447,Special issue,1.0,1.57
+1996,Lithuania,1562,Right-wing,0.0,1.57
+1996,Lithuania,1632,Agrarian,1.0,1.75
+1996,Lithuania,2036,Special issue,0.0,2.55
+1996,Lithuania,2037,to be coded,0.0,1.26
+1996,Malta,360,Green/Ecologist,0.0,1.46
+1996,Malta,984,Conservative,34.0,47.8
+1996,Malta,1003,Social democracy,35.0,50.7
+1996,Romania,356,Christian democracy,,30.17
+1996,Romania,419,Liberal,43.0,12.93
+1996,Romania,425,no family,15.0,
+1996,Romania,562,Communist/Socialist,0.0,2.15
+1996,Romania,648,Right-wing,18.0,4.36
+1996,Romania,713,Right-wing,19.0,4.46
+1996,Romania,792,Green/Ecologist,5.0,
+1996,Romania,861,Liberal,0.0,1.57
+1996,Romania,888,Christian democracy,83.0,
+1996,Romania,948,Conservative,25.0,6.64
+1996,Romania,1015,Liberal,25.0,
+1996,Romania,1120,Social democracy,91.0,21.77
+1996,Romania,1601,Social democracy,10.0,
+1996,Romania,1639,Green/Ecologist,1.0,
+1996,Romania,2087,Conservative,3.0,
+1996,Romania,2088,Conservative,5.0,
+1996,Romania,2104,Communist/Socialist,0.0,2.29
+1996,Romania,2105,Communist/Socialist,0.0,1.73
+1996,Romania,2106,Special issue,0.0,1.44
+1996,Slovenia,16,Christian democracy,19.0,19.38
+1996,Slovenia,65,Special issue,1.0,
+1996,Slovenia,143,Social democracy,0.0,2.68
+1996,Slovenia,179,Social democracy,16.0,16.13
+1996,Slovenia,199,Special issue,1.0,
+1996,Slovenia,706,Social democracy,9.0,9.03
+1996,Slovenia,981,to be coded,4.0,3.22
+1996,Slovenia,1047,Christian democracy,10.0,9.62
+1996,Slovenia,1252,Liberal,25.0,27.01
+1996,Slovenia,1587,Special issue,5.0,4.32
+1996,Slovenia,1619,Green/Ecologist,0.0,1.76
+1996,Slovenia,2245,to be coded,0.0,1.06
+1996,Slovenia,2275,Liberal,0.0,1.15
+1996,Spain,118,Communist/Socialist,21.0,10.64
+1996,Spain,234,Special issue,4.0,0.89
+1996,Spain,443,Special issue,1.0,0.37
+1996,Spain,520,Special issue,2.0,0.89
+1996,Spain,645,Conservative,156.0,39.17
+1996,Spain,757,Special issue,1.0,0.68
+1996,Spain,845,Special issue,1.0,0.47
+1996,Spain,894,Conservative,16.0,4.64
+1996,Spain,902,Social democracy,141.0,38.0
+1996,Spain,1317,Special issue,2.0,0.73
+1996,Spain,1361,Christian democracy,5.0,1.29
+1997,Bulgaria,599,Liberal,12.0,5.27
+1997,Bulgaria,710,Social democracy,14.0,5.57
+1997,Bulgaria,784,Conservative,137.0,49.15
+1997,Bulgaria,996,Liberal,19.0,7.6
+1997,Bulgaria,1149,Special issue,0.0,1.12
+1997,Bulgaria,1160,Social democracy,58.0,22.44
+1997,Bulgaria,1570,Communist/Socialist,0.0,1.3
+1997,France,138,Conservative,139.0,15.67
+1997,France,270,Right-wing,1.0,14.95
+1997,France,285,Conservative,6.0,6.61
+1997,France,509,Conservative,111.0,14.23
+1997,France,686,Communist/Socialist,39.0,9.93
+1997,France,873,Green/Ecologist,8.0,6.84
+1997,France,1328,no family,1.0,1.4
+1997,France,1492,Social democracy,13.0,1.44
+1997,France,1539,Social democracy,252.0,23.5
+1997,France,2083,Communist/Socialist,0.0,2.53
+1997,France,2143,Communist/Socialist,7.0,2.8
+1997,Ireland,30,no family,6.0,
+1997,Ireland,280,Conservative,77.0,39.33
+1997,Ireland,318,Social democracy,17.0,10.4
+1997,Ireland,651,Liberal,4.0,4.68
+1997,Ireland,1014,Communist/Socialist,1.0,0.7
+1997,Ireland,1393,Christian democracy,54.0,27.95
+1997,Ireland,1573,Green/Ecologist,2.0,2.76
+1997,Ireland,1580,Communist/Socialist,4.0,2.51
+1997,Ireland,2217,Communist/Socialist,1.0,2.55
+1997,Ireland,2218,Conservative,0.0,1.07
+1997,Poland,109,Special issue,0.0,2.18
+1997,Poland,148,Conservative,6.0,5.56
+1997,Poland,629,Social democracy,164.0,27.13
+1997,Poland,664,Agrarian,27.0,7.31
+1997,Poland,838,Social democracy,0.0,4.74
+1997,Poland,900,Special issue,2.0,0.4
+1997,Poland,1104,Liberal,60.0,13.37
+1997,Poland,1275,Special issue,0.0,1.63
+1997,Poland,1355,Christian democracy,201.0,33.83
+1997,Poland,1549,Conservative,0.0,2.033
+1997,Poland,1712,Christian democracy,0.0,1.36
+1997,United Kingdom,311,Special issue,4.0,0.51
+1997,United Kingdom,319,Conservative,2.0,0.34
+1997,United Kingdom,453,no family,1.0,
+1997,United Kingdom,659,Liberal,46.0,16.8
+1997,United Kingdom,689,Communist/Socialist,2.0,0.41
+1997,United Kingdom,773,Conservative,165.0,30.7
+1997,United Kingdom,1023,Social democracy,3.0,0.61
+1997,United Kingdom,1210,Conservative,10.0,0.83
+1997,United Kingdom,1284,Social democracy,6.0,2.0
+1997,United Kingdom,1556,Social democracy,419.0,43.2
+1997,United Kingdom,2103,Special issue,0.0,2.6
+1997,United Kingdom,2296,no family,1.0,0.04
+1998,Czech Republic,77,Social democracy,0.0,3.06
+1998,Czech Republic,196,Green/Ecologist,0.0,1.12
+1998,Czech Republic,688,Liberal,19.0,8.6
+1998,Czech Republic,789,Social democracy,74.0,32.31
+1998,Czech Republic,829,Conservative,63.0,27.74
+1998,Czech Republic,872,Right-wing,0.0,3.9
+1998,Czech Republic,1173,Communist/Socialist,24.0,11.03
+1998,Czech Republic,1245,Christian democracy,20.0,9.0
+1998,Czech Republic,1616,Liberal,0.0,1.45
+1998,Denmark,74,Social democracy,1.0,
+1998,Denmark,211,Liberal,7.0,3.9
+1998,Denmark,306,Communist/Socialist,5.0,2.7
+1998,Denmark,590,Conservative,16.0,8.9
+1998,Denmark,978,Liberal,4.0,2.4
+1998,Denmark,1324,Conservative,8.0,4.3
+1998,Denmark,1331,Christian democracy,4.0,2.5
+1998,Denmark,1418,Right-wing,13.0,7.4
+1998,Denmark,1605,Liberal,42.0,24.0
+1998,Denmark,1629,Social democracy,63.0,35.9
+1998,Denmark,1644,Green/Ecologist,13.0,7.6
+1998,Denmark,1894,Social democracy,1.0,
+1998,Denmark,2058,no family,0.0,0.3
+1998,Denmark,2574,Conservative,1.0,
+1998,Denmark,2575,Liberal,1.0,
+1998,Germany,524,Right-wing,0.0,1.8
+1998,Germany,543,Liberal,43.0,6.2
+1998,Germany,558,Social democracy,298.0,40.9
+1998,Germany,772,Green/Ecologist,47.0,6.7
+1998,Germany,791,Communist/Socialist,36.0,5.1
+1998,Germany,808,Christian democracy,198.0,28.4
+1998,Germany,1180,Christian democracy,47.0,6.7
+1998,Germany,1506,Right-wing,0.0,1.2
+1998,Hungary,95,Right-wing,14.0,5.5
+1998,Hungary,434,Christian democracy,0.0,2.3
+1998,Hungary,546,Conservative,17.0,2.8
+1998,Hungary,870,Conservative,48.0,13.1
+1998,Hungary,921,Conservative,148.0,29.5
+1998,Hungary,1202,Communist/Socialist,0.0,4.0
+1998,Hungary,1426,Liberal,24.0,7.6
+1998,Hungary,1591,Social democracy,134.0,32.9
+1998,Hungary,1617,no family,1.0,2.3
+1998,Latvia,32,Liberal,16.0,14.12
+1998,Latvia,267,Right-wing,0.0,1.73
+1998,Latvia,521,Right-wing,17.0,14.65
+1998,Latvia,526,Liberal,21.0,18.05
+1998,Latvia,550,Conservative,8.0,7.31
+1998,Latvia,759,Liberal,0.0,1.6
+1998,Latvia,811,Conservative,24.0,21.19
+1998,Latvia,1001,Green/Ecologist,0.0,2.29
+1998,Latvia,1368,Agrarian,0.0,2.47
+1998,Latvia,2418,Social democracy,14.0,12.81
+1998,Malta,360,Green/Ecologist,0.0,1.21
+1998,Malta,984,Conservative,35.0,51.81
+1998,Malta,1003,Social democracy,30.0,46.97
+1998,Netherlands,209,Right-wing,0.0,0.61
+1998,Netherlands,212,Christian democracy,3.0,2.03
+1998,Netherlands,235,Christian democracy,29.0,18.37
+1998,Netherlands,345,Liberal,14.0,8.99
+1998,Netherlands,357,Communist/Socialist,5.0,3.53
+1998,Netherlands,625,Conservative,2.0,1.26
+1998,Netherlands,742,Social democracy,45.0,28.98
+1998,Netherlands,756,Green/Ecologist,11.0,7.27
+1998,Netherlands,1251,Conservative,3.0,1.78
+1998,Netherlands,1409,Liberal,38.0,24.69
+1998,Slovakia,44,Communist/Socialist,0.0,2.79
+1998,Slovakia,313,Christian democracy,42.0,26.33
+1998,Slovakia,559,Conservative,15.0,9.12
+1998,Slovakia,1016,Social democracy,13.0,8.01
+1998,Slovakia,1072,Right-wing,14.0,9.07
+1998,Slovakia,1142,Conservative,43.0,27.0
+1998,Slovakia,1415,Communist/Socialist,23.0,14.66
+1998,Slovakia,1563,Communist/Socialist,0.0,1.3
+1998,Sweden,282,Christian democracy,42.0,11.76
+1998,Sweden,407,Special issue,0.0,1.0
+1998,Sweden,657,Conservative,82.0,22.9
+1998,Sweden,882,Communist/Socialist,43.0,11.99
+1998,Sweden,892,Liberal,17.0,4.71
+1998,Sweden,904,Social democracy,131.0,36.38
+1998,Sweden,1154,Green/Ecologist,16.0,4.49
+1998,Sweden,1461,Agrarian,18.0,5.12
+1999,Austria,50,Right-wing,52.0,26.9
+1999,Austria,955,Liberal,0.0,3.7
+1999,Austria,973,Social democracy,65.0,33.2
+1999,Austria,1013,Christian democracy,52.0,26.9
+1999,Austria,1429,Green/Ecologist,14.0,7.4
+1999,Austria,1745,Special issue,0.0,1.0
+1999,Belgium,161,Green/Ecologist,11.0,7.3
+1999,Belgium,171,Right-wing,1.0,1.45
+1999,Belgium,290,Right-wing,8.0,5.56
+1999,Belgium,454,Liberal,18.0,10.14
+1999,Belgium,620,Liberal,0.0,2.1
+1999,Belgium,723,Christian democracy,22.0,14.09
+1999,Belgium,993,Right-wing,15.0,9.87
+1999,Belgium,1029,Social democracy,14.0,9.55
+1999,Belgium,1110,Liberal,23.0,14.3
+1999,Belgium,1192,Christian democracy,10.0,5.88
+1999,Belgium,1378,Social democracy,19.0,10.16
+1999,Belgium,1594,Green/Ecologist,9.0,6.99
+1999,Estonia,113,Liberal,18.0,15.92
+1999,Estonia,417,Conservative,7.0,7.27
+1999,Estonia,486,Liberal,7.0,7.58
+1999,Estonia,609,Christian democracy,0.0,2.43
+1999,Estonia,846,Conservative,18.0,16.09
+1999,Estonia,1137,Social democracy,28.0,23.41
+1999,Estonia,1448,Social democracy,17.0,15.21
+1999,Estonia,1590,Social democracy,6.0,6.13
+1999,Estonia,2266,Conservative,0.0,2.03
+1999,Estonia,2267,Liberal,,1.6
+1999,Finland,66,Special issue,1.0,0.4
+1999,Finland,94,Agrarian,48.0,22.4
+1999,Finland,200,Agrarian,1.0,1.0
+1999,Finland,395,Social democracy,51.0,22.9
+1999,Finland,585,Liberal,11.0,5.1
+1999,Finland,638,Special issue,1.0,1.1
+1999,Finland,1009,Liberal,0.0,1.0
+1999,Finland,1062,Green/Ecologist,11.0,7.3
+1999,Finland,1118,Conservative,46.0,21.0
+1999,Finland,1292,Communist/Socialist,20.0,10.9
+1999,Finland,1463,Christian democracy,10.0,4.2
+1999,Luxembourg,310,Green/Ecologist,5.0,9.1
+1999,Luxembourg,457,Communist/Socialist,1.0,3.76
+1999,Luxembourg,701,Social democracy,13.0,23.74
+1999,Luxembourg,967,Liberal,15.0,21.59
+1999,Luxembourg,1234,Christian democracy,19.0,29.72
+1999,Luxembourg,1582,Conservative,7.0,10.36
+1999,Luxembourg,2027,Green/Ecologist,0.0,1.09
+1999,Portugal,251,Christian democracy,15.0,8.51
+1999,Portugal,281,Communist/Socialist,0.0,0.75
+1999,Portugal,514,Communist/Socialist,15.0,
+1999,Portugal,557,Communist/Socialist,2.0,2.49
+1999,Portugal,725,Social democracy,115.0,44.96
+1999,Portugal,1273,Liberal,81.0,32.98
+1999,Portugal,1295,Communist/Socialist,,9.18
+1999,Portugal,1535,Green/Ecologist,2.0,
+2000,Croatia,276,Christian democracy,46.0,24.4
+2000,Croatia,1044,Right-wing,5.0,5.3
+2000,Croatia,1102,Liberal,24.0,
+2000,Croatia,1384,Liberal,2.0,
+2000,Croatia,1457,Liberal,2.0,
+2000,Croatia,1465,Agrarian,17.0,15.6
+2000,Croatia,1493,Social democracy,44.0,40.8
+2000,Croatia,1627,Liberal,4.0,
+2000,Croatia,2134,Special issue,0.0,1.9
+2000,Croatia,2192,no family,1.0,
+2000,Croatia,2196,Special issue,2.0,
+2000,Croatia,2197,no family,3.0,0.7
+2000,Croatia,2199,Right-wing,0.0,1.1
+2000,Croatia,2202,Agrarian,0.0,1.4
+2000,Croatia,2203,Conservative,0.0,1.4
+2000,Croatia,2295,no family,1.0,
+2000,Greece,47,Christian democracy,125.0,42.74
+2000,Greece,614,Communist/Socialist,11.0,5.52
+2000,Greece,720,Social democracy,0.0,2.69
+2000,Greece,1338,Social democracy,158.0,43.79
+2000,Greece,1441,Communist/Socialist,6.0,3.2
+2000,Lithuania,28,Special issue,2.0,1.95
+2000,Lithuania,58,no family,3.0,
+2000,Lithuania,378,Liberal,34.0,17.25
+2000,Lithuania,383,Right-wing,1.0,1.15
+2000,Lithuania,493,Christian democracy,1.0,4.19
+2000,Lithuania,519,Social democracy,26.0,31.08
+2000,Lithuania,652,no family,1.0,
+2000,Lithuania,675,Christian democracy,2.0,3.07
+2000,Lithuania,709,Christian democracy,1.0,2.01
+2000,Lithuania,856,Liberal,29.0,19.64
+2000,Lithuania,863,Special issue,3.0,
+2000,Lithuania,887,Liberal,2.0,2.86
+2000,Lithuania,1045,Conservative,9.0,8.62
+2000,Lithuania,1261,Social democracy,3.0,
+2000,Lithuania,1408,Social democracy,19.0,
+2000,Lithuania,1562,Right-wing,1.0,1.27
+2000,Lithuania,1632,Agrarian,4.0,4.08
+2000,Lithuania,2039,to be coded,0.0,1.47
+2000,Romania,356,Christian democracy,0.0,5.04
+2000,Romania,419,Liberal,31.0,7.03
+2000,Romania,425,no family,18.0,
+2000,Romania,648,Right-wing,0.0,1.38
+2000,Romania,713,Right-wing,84.0,19.48
+2000,Romania,948,Conservative,27.0,6.8
+2000,Romania,1015,Liberal,30.0,6.89
+2000,Romania,1120,Social democracy,155.0,36.61
+2000,Romania,2040,Social democracy,0.0,4.07
+2000,Romania,2041,Liberal,0.0,1.4
+2000,Slovenia,16,Christian democracy,9.0,9.54
+2000,Slovenia,65,Special issue,1.0,
+2000,Slovenia,179,Social democracy,14.0,15.81
+2000,Slovenia,199,Special issue,1.0,
+2000,Slovenia,706,Social democracy,11.0,12.08
+2000,Slovenia,981,to be coded,4.0,4.39
+2000,Slovenia,1047,Christian democracy,8.0,8.66
+2000,Slovenia,1252,Liberal,34.0,36.26
+2000,Slovenia,1512,Green/Ecologist,4.0,4.34
+2000,Slovenia,1587,Special issue,4.0,5.17
+2000,Spain,118,Communist/Socialist,8.0,5.54
+2000,Spain,234,Special issue,4.0,1.09
+2000,Spain,370,Social democracy,1.0,0.9
+2000,Spain,520,Special issue,3.0,1.34
+2000,Spain,645,Conservative,183.0,45.24
+2000,Spain,757,Special issue,1.0,0.85
+2000,Spain,845,Special issue,1.0,0.44
+2000,Spain,894,Conservative,15.0,4.25
+2000,Spain,902,Social democracy,125.0,34.71
+2000,Spain,1361,Christian democracy,7.0,1.55
+2000,Spain,1367,Special issue,1.0,0.33
+2000,Spain,2294,no family,1.0,0.52
+2001,Bulgaria,15,Special issue,0.0,3.44
+2001,Bulgaria,544,Liberal,120.0,42.74
+2001,Bulgaria,784,Conservative,51.0,18.18
+2001,Bulgaria,1149,Special issue,0.0,1.7
+2001,Bulgaria,1160,Social democracy,48.0,17.15
+2001,Bulgaria,1286,Liberal,21.0,7.45
+2001,Bulgaria,1362,Right-wing,0.0,3.63
+2001,Cyprus,6,Right-wing,1.0,3.0
+2001,Cyprus,572,Communist/Socialist,20.0,34.7
+2001,Cyprus,851,Conservative,9.0,14.8
+2001,Cyprus,945,Social democracy,4.0,6.5
+2001,Cyprus,1049,Right-wing,1.0,2.2
+2001,Cyprus,1523,Liberal,1.0,2.6
+2001,Cyprus,1575,Conservative,19.0,34.0
+2001,Cyprus,1621,Green/Ecologist,1.0,2.0
+2001,Denmark,74,Social democracy,1.0,
+2001,Denmark,211,Liberal,9.0,5.2
+2001,Denmark,306,Communist/Socialist,4.0,2.4
+2001,Denmark,590,Conservative,16.0,9.1
+2001,Denmark,978,Liberal,0.0,0.5
+2001,Denmark,1324,Conservative,0.0,1.8
+2001,Denmark,1331,Christian democracy,4.0,2.3
+2001,Denmark,1418,Right-wing,22.0,12.0
+2001,Denmark,1605,Liberal,56.0,31.2
+2001,Denmark,1629,Social democracy,52.0,29.1
+2001,Denmark,1644,Green/Ecologist,12.0,6.4
+2001,Denmark,1891,Communist/Socialist,1.0,
+2001,Denmark,1892,Conservative,1.0,
+2001,Denmark,2568,Communist/Socialist,1.0,
+2001,Italy,373,Conservative,99.0,12.02
+2001,Italy,488,Christian democracy,0.0,2.4
+2001,Italy,596,Conservative,194.0,29.43
+2001,Italy,627,Christian democracy,40.0,3.22
+2001,Italy,693,Liberal,0.0,4.01
+2001,Italy,809,Social democracy,136.0,16.57
+2001,Italy,910,Green/Ecologist,17.0,2.17
+2001,Italy,974,Special issue,1.0,0.07
+2001,Italy,1005,Liberal,83.0,14.52
+2001,Italy,1030,Special issue,3.0,0.54
+2001,Italy,1287,Social democracy,3.0,0.95
+2001,Italy,1296,Social democracy,0.0,2.2
+2001,Italy,1321,Communist/Socialist,11.0,5.03
+2001,Italy,1436,Right-wing,30.0,3.94
+2001,Italy,1661,Communist/Socialist,10.0,1.67
+2001,Poland,207,Agrarian,53.0,10.2
+2001,Poland,512,Conservative,65.0,12.7
+2001,Poland,528,Conservative,44.0,9.5
+2001,Poland,629,Social democracy,200.0,41.04
+2001,Poland,664,Agrarian,42.0,9.0
+2001,Poland,838,Social democracy,16.0,
+2001,Poland,900,Special issue,2.0,0.4
+2001,Poland,987,Conservative,38.0,7.9
+2001,Poland,1104,Liberal,0.0,3.1
+2001,Poland,1355,Christian democracy,0.0,5.6
+2001,United Kingdom,311,Special issue,4.0,0.7
+2001,United Kingdom,319,Conservative,5.0,0.7
+2001,United Kingdom,453,no family,2.0,
+2001,United Kingdom,659,Liberal,52.0,18.3
+2001,United Kingdom,689,Communist/Socialist,4.0,0.7
+2001,United Kingdom,773,Conservative,166.0,31.7
+2001,United Kingdom,1023,Social democracy,3.0,0.6
+2001,United Kingdom,1210,Conservative,6.0,0.8
+2001,United Kingdom,1272,Right-wing,0.0,1.5
+2001,United Kingdom,1284,Social democracy,5.0,1.8
+2001,United Kingdom,1556,Social democracy,412.0,40.7
+2002,Austria,50,Right-wing,18.0,10.01
+2002,Austria,955,Liberal,0.0,0.98
+2002,Austria,973,Social democracy,69.0,36.51
+2002,Austria,1013,Christian democracy,79.0,42.3
+2002,Austria,1429,Green/Ecologist,17.0,9.47
+2002,Czech Republic,196,Green/Ecologist,0.0,2.36
+2002,Czech Republic,688,Liberal,9.0,
+2002,Czech Republic,789,Social democracy,70.0,30.2
+2002,Czech Republic,829,Conservative,58.0,24.47
+2002,Czech Republic,1173,Communist/Socialist,41.0,18.51
+2002,Czech Republic,1245,Christian democracy,22.0,14.27
+2002,Czech Republic,1532,Liberal,0.0,2.78
+2002,France,59,Conservative,1.0,0.41
+2002,France,177,Social democracy,3.0,1.09
+2002,France,259,Agrarian,0.0,1.67
+2002,France,270,Right-wing,0.0,11.34
+2002,France,285,Conservative,7.0,3.65
+2002,France,442,Communist/Socialist,0.0,1.27
+2002,France,509,Conservative,28.0,4.85
+2002,France,658,Conservative,356.0,33.3
+2002,France,686,Communist/Socialist,24.0,4.82
+2002,France,873,Green/Ecologist,3.0,4.51
+2002,France,1101,Conservative,2.0,0.8
+2002,France,1176,Communist/Socialist,0.0,1.2
+2002,France,1263,Right-wing,0.0,1.09
+2002,France,1492,Social democracy,7.0,1.54
+2002,France,1539,Social democracy,141.0,24.11
+2002,France,2143,Communist/Socialist,0.0,1.19
+2002,France,2249,Green/Ecologist,0.0,1.17
+2002,France,2252,Conservative,5.0,0.37
+2002,Germany,524,Right-wing,0.0,0.6
+2002,Germany,543,Liberal,47.0,7.4
+2002,Germany,558,Social democracy,251.0,38.5
+2002,Germany,772,Green/Ecologist,55.0,8.6
+2002,Germany,791,Communist/Socialist,2.0,4.0
+2002,Germany,808,Christian democracy,190.0,29.5
+2002,Germany,1180,Christian democracy,58.0,9.0
+2002,Hungary,95,Right-wing,0.0,4.37
+2002,Hungary,434,Christian democracy,0.0,3.9
+2002,Hungary,546,Conservative,24.0,
+2002,Hungary,921,Conservative,164.0,41.07
+2002,Hungary,1202,Communist/Socialist,0.0,2.16
+2002,Hungary,1426,Liberal,20.0,5.57
+2002,Hungary,1591,Social democracy,178.0,42.05
+2002,Ireland,30,no family,12.0,
+2002,Ireland,280,Conservative,81.0,41.48
+2002,Ireland,318,Social democracy,21.0,10.77
+2002,Ireland,651,Liberal,8.0,3.96
+2002,Ireland,1014,Communist/Socialist,1.0,0.8
+2002,Ireland,1393,Christian democracy,31.0,22.48
+2002,Ireland,1573,Green/Ecologist,6.0,3.85
+2002,Ireland,2216,no family,0.0,0.26
+2002,Ireland,2217,Communist/Socialist,5.0,6.51
+2002,Ireland,2329,no family,1.0,0.46
+2002,Latvia,257,Social democracy,0.0,1.3
+2002,Latvia,466,Agrarian,12.0,9.4
+2002,Latvia,521,Right-wing,7.0,5.4
+2002,Latvia,526,Liberal,0.0,4.9
+2002,Latvia,811,Conservative,20.0,16.6
+2002,Latvia,956,Special issue,0.0,1.6
+2002,Latvia,1043,Conservative,10.0,9.5
+2002,Latvia,1518,Conservative,26.0,23.9
+2002,Latvia,1520,Social democracy,25.0,19.0
+2002,Latvia,1608,Social democracy,0.0,1.5
+2002,Latvia,1656,Social democracy,0.0,4.0
+2002,Netherlands,112,Special issue,0.0,0.41
+2002,Netherlands,235,Christian democracy,43.0,27.93
+2002,Netherlands,345,Liberal,7.0,5.1
+2002,Netherlands,357,Communist/Socialist,9.0,5.9
+2002,Netherlands,456,Right-wing,26.0,17.0
+2002,Netherlands,742,Social democracy,23.0,15.11
+2002,Netherlands,744,Right-wing,2.0,1.61
+2002,Netherlands,756,Green/Ecologist,10.0,6.95
+2002,Netherlands,1206,Christian democracy,4.0,2.54
+2002,Netherlands,1251,Conservative,2.0,1.72
+2002,Netherlands,1409,Liberal,24.0,15.44
+2002,Portugal,251,Christian democracy,14.0,8.9
+2002,Portugal,281,Communist/Socialist,0.0,0.67
+2002,Portugal,514,Communist/Socialist,10.0,
+2002,Portugal,557,Communist/Socialist,3.0,2.79
+2002,Portugal,725,Social democracy,96.0,38.55
+2002,Portugal,1273,Liberal,105.0,41.01
+2002,Portugal,1295,Communist/Socialist,,7.08
+2002,Portugal,1535,Green/Ecologist,2.0,
+2002,Slovakia,20,Right-wing,0.0,3.65
+2002,Slovakia,44,Communist/Socialist,11.0,6.32
+2002,Slovakia,64,Social democracy,0.0,1.79
+2002,Slovakia,131,Christian democracy,28.0,15.09
+2002,Slovakia,220,Social democracy,25.0,13.46
+2002,Slovakia,559,Conservative,20.0,11.16
+2002,Slovakia,1072,Right-wing,0.0,3.32
+2002,Slovakia,1142,Conservative,36.0,19.5
+2002,Slovakia,1200,Liberal,15.0,8.01
+2002,Slovakia,1415,Communist/Socialist,0.0,1.36
+2002,Slovakia,1432,Christian democracy,15.0,8.25
+2002,Slovakia,2160,Conservative,0.0,3.28
+2002,Sweden,282,Christian democracy,33.0,9.1
+2002,Sweden,657,Conservative,55.0,15.3
+2002,Sweden,882,Communist/Socialist,30.0,8.4
+2002,Sweden,892,Liberal,48.0,13.4
+2002,Sweden,904,Social democracy,144.0,39.9
+2002,Sweden,1154,Green/Ecologist,17.0,4.6
+2002,Sweden,1461,Agrarian,22.0,6.2
+2002,Sweden,1546,Right-wing,0.0,1.44
+2003,Belgium,161,Green/Ecologist,4.0,3.06
+2003,Belgium,171,Right-wing,1.0,1.98
+2003,Belgium,501,Conservative,1.0,3.06
+2003,Belgium,723,Christian democracy,21.0,13.25
+2003,Belgium,915,Liberal,24.0,11.4
+2003,Belgium,993,Right-wing,18.0,11.59
+2003,Belgium,1110,Liberal,25.0,15.36
+2003,Belgium,1113,Social democracy,23.0,14.91
+2003,Belgium,1192,Christian democracy,8.0,5.47
+2003,Belgium,1378,Social democracy,25.0,13.02
+2003,Belgium,1594,Green/Ecologist,0.0,2.47
+2003,Croatia,90,Liberal,3.0,
+2003,Croatia,276,Christian democracy,66.0,33.2
+2003,Croatia,316,Right-wing,0.0,1.3
+2003,Croatia,1044,Right-wing,8.0,6.5
+2003,Croatia,1102,Liberal,2.0,4.1
+2003,Croatia,1384,Liberal,10.0,8.3
+2003,Croatia,1457,Liberal,2.0,
+2003,Croatia,1465,Agrarian,10.0,7.3
+2003,Croatia,1493,Social democracy,34.0,23.3
+2003,Croatia,1627,Liberal,4.0,
+2003,Croatia,2133,Social democracy,3.0,
+2003,Croatia,2134,Special issue,3.0,4.1
+2003,Croatia,2196,Special issue,1.0,
+2003,Croatia,2197,no family,4.0,2.3
+2003,Croatia,2198,Agrarian,1.0,1.0
+2003,Croatia,2270,Conservative,1.0,
+2003,Estonia,113,Liberal,19.0,17.7
+2003,Estonia,417,Conservative,13.0,13.0
+2003,Estonia,428,Conservative,28.0,24.6
+2003,Estonia,609,Christian democracy,0.0,1.1
+2003,Estonia,846,Conservative,7.0,7.3
+2003,Estonia,1137,Social democracy,28.0,25.4
+2003,Estonia,1448,Social democracy,6.0,7.0
+2003,Estonia,1590,Social democracy,0.0,2.2
+2003,Finland,66,Special issue,1.0,0.4
+2003,Finland,94,Agrarian,55.0,24.7
+2003,Finland,200,Agrarian,3.0,1.6
+2003,Finland,395,Social democracy,53.0,24.5
+2003,Finland,585,Liberal,8.0,4.6
+2003,Finland,806,Communist/Socialist,0.0,0.8
+2003,Finland,1062,Green/Ecologist,14.0,8.0
+2003,Finland,1118,Conservative,40.0,18.6
+2003,Finland,1292,Communist/Socialist,19.0,9.9
+2003,Finland,1463,Christian democracy,7.0,5.3
+2003,Malta,360,Green/Ecologist,0.0,0.68
+2003,Malta,984,Conservative,35.0,51.79
+2003,Malta,1003,Social democracy,30.0,47.51
+2003,Netherlands,235,Christian democracy,44.0,28.62
+2003,Netherlands,345,Liberal,6.0,4.07
+2003,Netherlands,357,Communist/Socialist,9.0,6.32
+2003,Netherlands,456,Right-wing,8.0,5.7
+2003,Netherlands,742,Social democracy,42.0,27.26
+2003,Netherlands,756,Green/Ecologist,8.0,5.14
+2003,Netherlands,990,Special issue,0.0,0.49
+2003,Netherlands,1206,Christian democracy,3.0,2.12
+2003,Netherlands,1251,Conservative,2.0,1.56
+2003,Netherlands,1409,Liberal,28.0,17.91
+2004,Greece,47,Christian democracy,166.0,45.36
+2004,Greece,614,Communist/Socialist,12.0,5.9
+2004,Greece,720,Social democracy,0.0,1.79
+2004,Greece,1179,Right-wing,0.0,2.19
+2004,Greece,1338,Social democracy,116.0,40.55
+2004,Greece,1441,Communist/Socialist,6.0,
+2004,Greece,1592,Communist/Socialist,,3.26
+2004,Lithuania,28,Special issue,2.0,3.79
+2004,Lithuania,58,no family,6.0,
+2004,Lithuania,191,Agrarian,10.0,6.6
+2004,Lithuania,581,Liberal,39.0,28.44
+2004,Lithuania,675,Christian democracy,0.0,1.37
+2004,Lithuania,709,Christian democracy,0.0,1.96
+2004,Lithuania,856,Liberal,11.0,
+2004,Lithuania,983,Liberal,18.0,9.19
+2004,Lithuania,1045,Conservative,25.0,14.75
+2004,Lithuania,1277,Social democracy,20.0,20.65
+2004,Lithuania,1421,Conservative,10.0,11.36
+2004,Luxembourg,151,Communist/Socialist,0.0,1.15
+2004,Luxembourg,310,Green/Ecologist,7.0,11.54
+2004,Luxembourg,457,Communist/Socialist,0.0,2.01
+2004,Luxembourg,701,Social democracy,14.0,25.43
+2004,Luxembourg,967,Liberal,10.0,14.94
+2004,Luxembourg,1234,Christian democracy,24.0,35.81
+2004,Luxembourg,1582,Conservative,5.0,9.04
+2004,Romania,419,Liberal,48.0,
+2004,Romania,425,no family,18.0,
+2004,Romania,713,Right-wing,48.0,13.0
+2004,Romania,888,Christian democracy,0.0,1.8
+2004,Romania,948,Conservative,22.0,6.2
+2004,Romania,1015,Liberal,64.0,31.3
+2004,Romania,1120,Social democracy,132.0,36.6
+2004,Romania,1332,Christian democracy,0.0,2.2
+2004,Slovenia,16,Christian democracy,7.0,6.82
+2004,Slovenia,65,Special issue,1.0,
+2004,Slovenia,179,Social democracy,29.0,29.08
+2004,Slovenia,199,Special issue,1.0,
+2004,Slovenia,380,Liberal,0.0,3.97
+2004,Slovenia,706,Social democracy,10.0,10.17
+2004,Slovenia,981,to be coded,6.0,6.27
+2004,Slovenia,1047,Christian democracy,9.0,9.09
+2004,Slovenia,1252,Liberal,23.0,22.8
+2004,Slovenia,1512,Green/Ecologist,0.0,2.08
+2004,Slovenia,1587,Special issue,4.0,4.04
+2004,Slovenia,2019,Special issue,0.0,2.62
+2004,Spain,118,Communist/Socialist,5.0,5.04
+2004,Spain,234,Special issue,3.0,0.92
+2004,Spain,370,Social democracy,0.0,0.71
+2004,Spain,385,Special issue,1.0,0.24
+2004,Spain,520,Special issue,2.0,0.82
+2004,Spain,645,Conservative,148.0,38.31
+2004,Spain,757,Special issue,8.0,2.56
+2004,Spain,845,Special issue,1.0,0.32
+2004,Spain,894,Conservative,10.0,3.28
+2004,Spain,902,Social democracy,164.0,43.27
+2004,Spain,1361,Christian democracy,7.0,1.65
+2004,Spain,1367,Special issue,1.0,0.37
+2005,Bulgaria,57,Conservative,17.0,6.44
+2005,Bulgaria,535,Right-wing,21.0,8.14
+2005,Bulgaria,544,Liberal,53.0,19.88
+2005,Bulgaria,784,Conservative,20.0,7.68
+2005,Bulgaria,1160,Social democracy,82.0,30.95
+2005,Bulgaria,1286,Liberal,34.0,12.81
+2005,Bulgaria,1375,Conservative,13.0,5.19
+2005,Bulgaria,2178,Special issue,0.0,1.25
+2005,Bulgaria,2179,Social democracy,0.0,1.3
+2005,Bulgaria,2180,Green/Ecologist,0.0,2.95
+2005,Denmark,74,Social democracy,1.0,
+2005,Denmark,211,Liberal,17.0,9.2
+2005,Denmark,306,Communist/Socialist,6.0,3.4
+2005,Denmark,590,Conservative,18.0,10.3
+2005,Denmark,1324,Conservative,0.0,1.0
+2005,Denmark,1331,Christian democracy,0.0,1.7
+2005,Denmark,1418,Right-wing,24.0,13.3
+2005,Denmark,1605,Liberal,52.0,29.0
+2005,Denmark,1629,Social democracy,47.0,25.8
+2005,Denmark,1644,Green/Ecologist,11.0,6.0
+2005,Denmark,1891,Communist/Socialist,1.0,
+2005,Denmark,2568,Communist/Socialist,1.0,
+2005,Denmark,2574,Conservative,1.0,
+2005,Germany,543,Liberal,61.0,9.8
+2005,Germany,558,Social democracy,222.0,34.2
+2005,Germany,772,Green/Ecologist,51.0,8.1
+2005,Germany,791,Communist/Socialist,54.0,8.7
+2005,Germany,808,Christian democracy,180.0,27.8
+2005,Germany,1180,Christian democracy,46.0,7.4
+2005,Germany,1537,Right-wing,0.0,1.6
+2005,Poland,148,Conservative,0.0,1.05
+2005,Poland,207,Agrarian,56.0,11.4
+2005,Poland,512,Conservative,133.0,24.1
+2005,Poland,528,Conservative,155.0,27.0
+2005,Poland,629,Social democracy,55.0,11.3
+2005,Poland,664,Agrarian,25.0,7.0
+2005,Poland,900,Special issue,2.0,0.29
+2005,Poland,987,Conservative,34.0,8.0
+2005,Poland,1104,Liberal,0.0,2.45
+2005,Poland,1140,Social democracy,0.0,3.89
+2005,Poland,1549,Conservative,0.0,1.57
+2005,Portugal,251,Christian democracy,12.0,7.46
+2005,Portugal,281,Communist/Socialist,0.0,0.86
+2005,Portugal,514,Communist/Socialist,12.0,
+2005,Portugal,557,Communist/Socialist,8.0,6.54
+2005,Portugal,725,Social democracy,121.0,46.4
+2005,Portugal,1273,Liberal,75.0,29.64
+2005,Portugal,1295,Communist/Socialist,,7.77
+2005,Portugal,1535,Green/Ecologist,2.0,
+2005,United Kingdom,311,Special issue,3.0,0.6
+2005,United Kingdom,319,Conservative,9.0,0.9
+2005,United Kingdom,453,no family,3.0,
+2005,United Kingdom,467,Green/Ecologist,0.0,1.0
+2005,United Kingdom,659,Liberal,62.0,22.0
+2005,United Kingdom,689,Communist/Socialist,5.0,0.6
+2005,United Kingdom,773,Conservative,198.0,32.4
+2005,United Kingdom,1023,Social democracy,3.0,0.5
+2005,United Kingdom,1057,to be coded,1.0,0.3
+2005,United Kingdom,1210,Conservative,1.0,0.5
+2005,United Kingdom,1272,Right-wing,0.0,2.2
+2005,United Kingdom,1284,Social democracy,6.0,1.5
+2005,United Kingdom,1556,Social democracy,355.0,35.2
+2006,Austria,50,Right-wing,21.0,11.0
+2006,Austria,669,Special issue,0.0,2.8
+2006,Austria,769,Communist/Socialist,0.0,1.0
+2006,Austria,973,Social democracy,68.0,35.3
+2006,Austria,1013,Christian democracy,66.0,34.3
+2006,Austria,1429,Green/Ecologist,21.0,11.1
+2006,Austria,1536,Right-wing,7.0,4.1
+2006,Cyprus,491,Liberal,3.0,5.75
+2006,Cyprus,572,Communist/Socialist,18.0,31.13
+2006,Cyprus,851,Conservative,11.0,17.92
+2006,Cyprus,945,Social democracy,5.0,8.91
+2006,Cyprus,1523,Liberal,0.0,1.56
+2006,Cyprus,1575,Conservative,18.0,30.34
+2006,Cyprus,1621,Green/Ecologist,1.0,1.95
+2006,Cyprus,1735,to be coded,0.0,1.22
+2006,Czech Republic,196,Green/Ecologist,6.0,6.29
+2006,Czech Republic,789,Social democracy,74.0,32.32
+2006,Czech Republic,829,Conservative,81.0,35.38
+2006,Czech Republic,1173,Communist/Socialist,26.0,12.81
+2006,Czech Republic,1245,Christian democracy,13.0,7.22
+2006,Czech Republic,1532,Liberal,0.0,2.08
+2006,Hungary,95,Right-wing,0.0,2.2
+2006,Hungary,434,Christian democracy,23.0,
+2006,Hungary,437,Conservative,,42.0
+2006,Hungary,546,Conservative,11.0,5.0
+2006,Hungary,921,Conservative,141.0,
+2006,Hungary,952,no family,1.0,
+2006,Hungary,1426,Liberal,20.0,6.5
+2006,Hungary,1591,Social democracy,190.0,43.2
+2006,Italy,52,Christian democracy,4.0,0.73
+2006,Italy,226,Christian democracy,39.0,6.75
+2006,Italy,373,Conservative,71.0,12.01
+2006,Italy,399,Christian democracy,10.0,1.39
+2006,Italy,596,Conservative,140.0,23.6
+2006,Italy,693,Liberal,17.0,2.31
+2006,Italy,910,Green/Ecologist,15.0,2.0
+2006,Italy,927,Special issue,1.0,0.25
+2006,Italy,1030,Special issue,4.0,0.47
+2006,Italy,1048,Social democracy,220.0,30.43
+2006,Italy,1063,Liberal,1.0,0.09
+2006,Italy,1246,Social democracy,6.0,1.08
+2006,Italy,1296,Social democracy,18.0,2.53
+2006,Italy,1321,Communist/Socialist,41.0,5.69
+2006,Italy,1436,Right-wing,26.0,4.51
+2006,Italy,1661,Communist/Socialist,16.0,2.25
+2006,Italy,2302,no family,1.0,0.18
+2006,Latvia,257,Social democracy,0.0,2.08
+2006,Latvia,466,Agrarian,18.0,16.71
+2006,Latvia,521,Right-wing,8.0,6.94
+2006,Latvia,662,Conservative,10.0,8.58
+2006,Latvia,801,Conservative,0.0,1.48
+2006,Latvia,811,Conservative,23.0,19.56
+2006,Latvia,1100,Social democracy,17.0,14.42
+2006,Latvia,1294,Conservative,0.0,1.27
+2006,Latvia,1518,Conservative,18.0,16.38
+2006,Latvia,1520,Social democracy,6.0,6.03
+2006,Latvia,1656,Social democracy,0.0,3.5
+2006,Netherlands,235,Christian democracy,41.0,26.51
+2006,Netherlands,345,Liberal,3.0,1.96
+2006,Netherlands,357,Communist/Socialist,25.0,16.58
+2006,Netherlands,742,Social democracy,33.0,21.19
+2006,Netherlands,756,Green/Ecologist,7.0,4.6
+2006,Netherlands,990,Special issue,2.0,1.83
+2006,Netherlands,1206,Christian democracy,6.0,3.97
+2006,Netherlands,1251,Conservative,2.0,1.56
+2006,Netherlands,1409,Liberal,22.0,14.67
+2006,Netherlands,1501,Right-wing,9.0,5.89
+2006,Netherlands,2110,no family,0.0,0.64
+2006,Slovakia,44,Communist/Socialist,0.0,3.88
+2006,Slovakia,131,Christian democracy,31.0,18.35
+2006,Slovakia,220,Social democracy,50.0,29.14
+2006,Slovakia,559,Conservative,20.0,11.68
+2006,Slovakia,752,Liberal,0.0,3.47
+2006,Slovakia,1072,Right-wing,20.0,11.73
+2006,Slovakia,1142,Conservative,15.0,8.79
+2006,Slovakia,1200,Liberal,0.0,1.42
+2006,Slovakia,1432,Christian democracy,14.0,8.31
+2006,Sweden,282,Christian democracy,24.0,6.6
+2006,Sweden,657,Conservative,97.0,26.1
+2006,Sweden,882,Communist/Socialist,22.0,5.8
+2006,Sweden,892,Liberal,28.0,7.5
+2006,Sweden,904,Social democracy,130.0,35.2
+2006,Sweden,1154,Green/Ecologist,19.0,5.2
+2006,Sweden,1461,Agrarian,29.0,7.9
+2006,Sweden,1546,Right-wing,0.0,2.9
+2007,Belgium,161,Green/Ecologist,8.0,5.1
+2007,Belgium,171,Right-wing,1.0,2.0
+2007,Belgium,221,Liberal,5.0,4.03
+2007,Belgium,256,Communist/Socialist,0.0,0.84
+2007,Belgium,915,Liberal,23.0,12.5
+2007,Belgium,972,Christian democracy,30.0,18.5
+2007,Belgium,993,Right-wing,17.0,12.0
+2007,Belgium,1110,Liberal,18.0,11.83
+2007,Belgium,1113,Social democracy,14.0,10.26
+2007,Belgium,1192,Christian democracy,10.0,6.1
+2007,Belgium,1378,Social democracy,20.0,10.86
+2007,Belgium,1594,Green/Ecologist,4.0,3.98
+2007,Croatia,276,Christian democracy,66.0,35.9
+2007,Croatia,1044,Right-wing,1.0,3.4
+2007,Croatia,1102,Liberal,2.0,
+2007,Croatia,1384,Liberal,7.0,6.7
+2007,Croatia,1465,Agrarian,6.0,6.4
+2007,Croatia,1493,Social democracy,56.0,30.8
+2007,Croatia,1627,Liberal,3.0,1.5
+2007,Croatia,2133,Social democracy,3.0,1.5
+2007,Croatia,2134,Special issue,1.0,4.0
+2007,Croatia,2135,Right-wing,3.0,1.8
+2007,Croatia,2192,no family,4.0,
+2007,Croatia,2270,Conservative,1.0,
+2007,Denmark,74,Social democracy,1.0,
+2007,Denmark,211,Liberal,9.0,5.1
+2007,Denmark,306,Communist/Socialist,4.0,2.2
+2007,Denmark,376,Liberal,5.0,2.8
+2007,Denmark,590,Conservative,18.0,10.4
+2007,Denmark,1331,Christian democracy,0.0,0.9
+2007,Denmark,1418,Right-wing,25.0,13.9
+2007,Denmark,1605,Liberal,46.0,26.2
+2007,Denmark,1629,Social democracy,45.0,25.5
+2007,Denmark,1644,Green/Ecologist,23.0,13.0
+2007,Denmark,1891,Communist/Socialist,1.0,
+2007,Denmark,1892,Conservative,1.0,
+2007,Denmark,2568,Communist/Socialist,1.0,
+2007,Estonia,113,Liberal,31.0,27.8
+2007,Estonia,219,Green/Ecologist,6.0,7.1
+2007,Estonia,417,Conservative,6.0,7.1
+2007,Estonia,609,Christian democracy,0.0,1.7
+2007,Estonia,1137,Social democracy,29.0,26.1
+2007,Estonia,1448,Social democracy,10.0,10.6
+2007,Estonia,1590,Social democracy,0.0,1.0
+2007,Estonia,1597,Conservative,19.0,17.9
+2007,Finland,66,Special issue,1.0,0.4
+2007,Finland,94,Agrarian,51.0,23.1
+2007,Finland,200,Agrarian,5.0,4.1
+2007,Finland,395,Social democracy,45.0,21.4
+2007,Finland,585,Liberal,9.0,4.6
+2007,Finland,806,Communist/Socialist,0.0,0.7
+2007,Finland,1062,Green/Ecologist,15.0,8.5
+2007,Finland,1118,Conservative,50.0,22.3
+2007,Finland,1292,Communist/Socialist,17.0,8.8
+2007,Finland,1463,Christian democracy,7.0,4.9
+2007,France,177,Social democracy,15.0,1.97
+2007,France,270,Right-wing,0.0,4.29
+2007,France,285,Conservative,9.0,2.47
+2007,France,509,Conservative,3.0,7.61
+2007,France,658,Conservative,313.0,39.54
+2007,France,686,Communist/Socialist,15.0,4.3
+2007,France,873,Green/Ecologist,4.0,3.25
+2007,France,947,no family,1.0,
+2007,France,1058,Liberal,22.0,2.37
+2007,France,1101,Conservative,1.0,1.2
+2007,France,1492,Social democracy,7.0,1.32
+2007,France,1539,Social democracy,186.0,24.73
+2007,France,2077,Special issue,1.0,0.51
+2007,France,2083,Communist/Socialist,0.0,3.41
+2007,Greece,47,Christian democracy,152.0,41.84
+2007,Greece,614,Communist/Socialist,22.0,8.15
+2007,Greece,1179,Right-wing,10.0,3.8
+2007,Greece,1280,Green/Ecologist,0.0,1.05
+2007,Greece,1338,Social democracy,102.0,38.1
+2007,Greece,1592,Communist/Socialist,14.0,5.04
+2007,Ireland,30,no family,5.0,
+2007,Ireland,280,Conservative,78.0,41.56
+2007,Ireland,318,Social democracy,20.0,10.13
+2007,Ireland,651,Liberal,2.0,2.73
+2007,Ireland,1014,Communist/Socialist,0.0,0.64
+2007,Ireland,1393,Christian democracy,51.0,27.32
+2007,Ireland,1573,Green/Ecologist,6.0,4.69
+2007,Ireland,2217,Communist/Socialist,4.0,6.94
+2007,Poland,180,Social democracy,,13.15
+2007,Poland,207,Agrarian,0.0,1.53
+2007,Poland,512,Conservative,209.0,41.51
+2007,Poland,528,Conservative,166.0,32.11
+2007,Poland,629,Social democracy,37.0,
+2007,Poland,664,Agrarian,31.0,8.91
+2007,Poland,838,Social democracy,0.0,
+2007,Poland,900,Special issue,1.0,0.2
+2007,Poland,987,Conservative,0.0,1.3
+2007,Poland,1011,no family,5.0,
+2007,Poland,1104,Liberal,1.0,
+2007,Poland,1140,Social democracy,10.0,
+2008,Austria,50,Right-wing,34.0,17.54
+2008,Austria,955,Liberal,0.0,2.09
+2008,Austria,973,Social democracy,57.0,29.26
+2008,Austria,1013,Christian democracy,51.0,25.98
+2008,Austria,1429,Green/Ecologist,20.0,10.43
+2008,Austria,1536,Right-wing,21.0,10.7
+2008,Austria,1746,Social democracy,0.0,1.76
+2008,Italy,67,Conservative,276.0,38.23
+2008,Italy,176,Right-wing,0.0,2.46
+2008,Italy,226,Christian democracy,36.0,5.85
+2008,Italy,382,Social democracy,217.0,34.04
+2008,Italy,693,Liberal,29.0,4.48
+2008,Italy,927,Special issue,1.0,0.24
+2008,Italy,1030,Special issue,2.0,0.4
+2008,Italy,1040,Christian democracy,8.0,1.12
+2008,Italy,1063,Liberal,1.0,0.08
+2008,Italy,1321,Communist/Socialist,0.0,3.16
+2008,Italy,1436,Right-wing,60.0,8.29
+2008,Lithuania,28,Special issue,3.0,4.79
+2008,Lithuania,58,no family,4.0,
+2008,Lithuania,191,Agrarian,3.0,3.73
+2008,Lithuania,383,Right-wing,0.0,1.75
+2008,Lithuania,482,Liberal,11.0,5.73
+2008,Lithuania,581,Liberal,10.0,8.99
+2008,Lithuania,676,Liberal,0.0,1.11
+2008,Lithuania,856,Liberal,1.0,3.64
+2008,Lithuania,983,Liberal,8.0,5.34
+2008,Lithuania,1045,Conservative,45.0,19.72
+2008,Lithuania,1056,Communist/Socialist,0.0,3.24
+2008,Lithuania,1277,Social democracy,25.0,11.72
+2008,Lithuania,1421,Conservative,15.0,12.68
+2008,Lithuania,1502,Liberal,16.0,15.09
+2008,Malta,360,Green/Ecologist,0.0,1.31
+2008,Malta,984,Conservative,35.0,49.34
+2008,Malta,1003,Social democracy,34.0,48.79
+2008,Romania,5,Conservative,4.0,
+2008,Romania,425,no family,18.0,
+2008,Romania,713,Right-wing,0.0,3.15
+2008,Romania,948,Conservative,22.0,6.17
+2008,Romania,958,Liberal,115.0,32.36
+2008,Romania,1015,Liberal,65.0,18.57
+2008,Romania,1120,Social democracy,110.0,33.09
+2008,Romania,1332,Christian democracy,0.0,2.27
+2008,Slovenia,16,Christian democracy,5.0,5.21
+2008,Slovenia,65,Special issue,1.0,
+2008,Slovenia,179,Social democracy,28.0,29.26
+2008,Slovenia,199,Special issue,1.0,
+2008,Slovenia,326,Social democracy,9.0,9.37
+2008,Slovenia,706,Social democracy,29.0,30.45
+2008,Slovenia,981,to be coded,5.0,5.4
+2008,Slovenia,1047,Christian democracy,0.0,3.4
+2008,Slovenia,1252,Liberal,5.0,5.21
+2008,Slovenia,1587,Special issue,7.0,7.45
+2008,Slovenia,1946,Right-wing,0.0,1.81
+2008,Spain,118,Communist/Socialist,2.0,3.81
+2008,Spain,234,Special issue,2.0,0.69
+2008,Spain,385,Special issue,1.0,0.25
+2008,Spain,520,Special issue,2.0,0.84
+2008,Spain,551,Liberal,1.0,1.2
+2008,Spain,645,Conservative,154.0,40.1
+2008,Spain,757,Special issue,3.0,1.17
+2008,Spain,894,Conservative,10.0,3.06
+2008,Spain,902,Social democracy,169.0,44.36
+2008,Spain,1361,Christian democracy,6.0,1.2
+2008,Spain,2056,no family,0.0,0.27
+2009,Bulgaria,535,Right-wing,21.0,9.36
+2009,Bulgaria,544,Liberal,0.0,3.02
+2009,Bulgaria,566,Liberal,0.0,3.26
+2009,Bulgaria,636,Right-wing,10.0,4.13
+2009,Bulgaria,1160,Social democracy,40.0,17.7
+2009,Bulgaria,1254,Conservative,15.0,6.76
+2009,Bulgaria,1286,Liberal,38.0,14.45
+2009,Bulgaria,1541,Conservative,116.0,39.72
+2009,Germany,543,Liberal,93.0,14.6
+2009,Germany,558,Social democracy,146.0,23.0
+2009,Germany,772,Green/Ecologist,68.0,10.7
+2009,Germany,791,Communist/Socialist,76.0,11.9
+2009,Germany,808,Christian democracy,194.0,27.3
+2009,Germany,865,Special issue,0.0,2.0
+2009,Germany,1180,Christian democracy,45.0,6.5
+2009,Germany,1537,Right-wing,0.0,1.5
+2009,Greece,47,Christian democracy,91.0,33.47
+2009,Greece,614,Communist/Socialist,21.0,7.54
+2009,Greece,1179,Right-wing,15.0,5.63
+2009,Greece,1280,Green/Ecologist,0.0,2.53
+2009,Greece,1338,Social democracy,160.0,43.92
+2009,Greece,1592,Communist/Socialist,13.0,4.6
+2009,Luxembourg,151,Communist/Socialist,0.0,1.47
+2009,Luxembourg,310,Green/Ecologist,7.0,11.71
+2009,Luxembourg,457,Communist/Socialist,1.0,3.29
+2009,Luxembourg,701,Social democracy,13.0,21.56
+2009,Luxembourg,967,Liberal,9.0,14.98
+2009,Luxembourg,1234,Christian democracy,26.0,38.04
+2009,Luxembourg,1582,Conservative,4.0,8.13
+2009,Portugal,251,Christian democracy,21.0,10.77
+2009,Portugal,281,Communist/Socialist,0.0,0.96
+2009,Portugal,557,Communist/Socialist,16.0,10.12
+2009,Portugal,725,Social democracy,97.0,37.73
+2009,Portugal,1273,Liberal,81.0,30.04
+2009,Portugal,1295,Communist/Socialist,15.0,8.11
+2010,Belgium,161,Green/Ecologist,8.0,4.8
+2010,Belgium,221,Liberal,1.0,2.31
+2010,Belgium,256,Communist/Socialist,0.0,1.55
+2010,Belgium,438,Conservative,1.0,1.29
+2010,Belgium,501,Conservative,27.0,17.4
+2010,Belgium,723,Christian democracy,17.0,10.85
+2010,Belgium,915,Liberal,18.0,9.28
+2010,Belgium,993,Right-wing,12.0,7.76
+2010,Belgium,1029,Social democracy,13.0,9.24
+2010,Belgium,1110,Liberal,13.0,8.64
+2010,Belgium,1192,Christian democracy,9.0,5.52
+2010,Belgium,1378,Social democracy,26.0,13.7
+2010,Belgium,1594,Green/Ecologist,5.0,4.38
+2010,Czech Republic,2,Conservative,38.0,16.7
+2010,Czech Republic,196,Green/Ecologist,0.0,2.44
+2010,Czech Republic,336,Liberal,24.0,10.88
+2010,Czech Republic,406,Social democracy,0.0,4.33
+2010,Czech Republic,789,Social democracy,56.0,22.08
+2010,Czech Republic,795,Right-wing,0.0,1.14
+2010,Czech Republic,829,Conservative,53.0,20.22
+2010,Czech Republic,1173,Communist/Socialist,26.0,11.27
+2010,Czech Republic,1245,Christian democracy,0.0,4.39
+2010,Czech Republic,1613,Right-wing,0.0,3.67
+2010,Czech Republic,2024,Special issue,3.0,
+2010,Hungary,403,Green/Ecologist,16.0,7.48
+2010,Hungary,434,Christian democracy,36.0,
+2010,Hungary,437,Conservative,,52.73
+2010,Hungary,546,Conservative,0.0,2.18
+2010,Hungary,600,Right-wing,47.0,16.67
+2010,Hungary,921,Conservative,227.0,
+2010,Hungary,1591,Social democracy,59.0,19.3
+2010,Hungary,1617,no family,1.0,
+2010,Latvia,466,Agrarian,22.0,20.11
+2010,Latvia,521,Right-wing,8.0,7.84
+2010,Latvia,1100,Social democracy,29.0,26.61
+2010,Latvia,1520,Social democracy,0.0,1.47
+2010,Latvia,1666,Conservative,33.0,31.9
+2010,Latvia,1667,Conservative,8.0,7.82
+2010,Netherlands,235,Christian democracy,21.0,13.61
+2010,Netherlands,345,Liberal,10.0,6.95
+2010,Netherlands,357,Communist/Socialist,15.0,9.82
+2010,Netherlands,742,Social democracy,30.0,19.63
+2010,Netherlands,756,Green/Ecologist,10.0,6.67
+2010,Netherlands,990,Special issue,2.0,1.3
+2010,Netherlands,1206,Christian democracy,5.0,3.24
+2010,Netherlands,1251,Conservative,2.0,1.74
+2010,Netherlands,1409,Liberal,31.0,20.49
+2010,Netherlands,1501,Right-wing,24.0,15.45
+2010,Netherlands,2288,no family,0.0,0.56
+2010,Slovakia,131,Christian democracy,28.0,15.42
+2010,Slovakia,220,Social democracy,62.0,34.79
+2010,Slovakia,559,Conservative,0.0,4.33
+2010,Slovakia,586,Right-wing,0.0,1.33
+2010,Slovakia,1072,Right-wing,9.0,5.07
+2010,Slovakia,1142,Conservative,0.0,4.32
+2010,Slovakia,1432,Christian democracy,15.0,8.52
+2010,Slovakia,1460,Liberal,18.0,12.14
+2010,Slovakia,1620,Conservative,14.0,8.12
+2010,Slovakia,1759,Conservative,4.0,
+2010,Slovakia,2317,Social democracy,0.0,2.41
+2010,Sweden,282,Christian democracy,19.0,5.6
+2010,Sweden,657,Conservative,107.0,30.06
+2010,Sweden,721,Special issue,0.0,0.65
+2010,Sweden,882,Communist/Socialist,19.0,5.6
+2010,Sweden,892,Liberal,24.0,7.06
+2010,Sweden,904,Social democracy,112.0,30.66
+2010,Sweden,1154,Green/Ecologist,25.0,7.34
+2010,Sweden,1461,Agrarian,23.0,6.56
+2010,Sweden,1546,Right-wing,20.0,5.7
+2010,United Kingdom,311,Special issue,3.0,0.6
+2010,United Kingdom,319,Conservative,8.0,0.6
+2010,United Kingdom,453,no family,1.0,
+2010,United Kingdom,467,Green/Ecologist,1.0,1.0
+2010,United Kingdom,659,Liberal,57.0,23.0
+2010,United Kingdom,689,Communist/Socialist,5.0,0.6
+2010,United Kingdom,773,Conservative,307.0,36.1
+2010,United Kingdom,1023,Social democracy,3.0,0.4
+2010,United Kingdom,1250,Right-wing,0.0,1.9
+2010,United Kingdom,1272,Right-wing,0.0,3.1
+2010,United Kingdom,1284,Social democracy,6.0,1.7
+2010,United Kingdom,1556,Social democracy,258.0,29.0
+2010,United Kingdom,2296,no family,1.0,0.14
+2011,Croatia,276,Christian democracy,41.0,23.5
+2011,Croatia,1044,Right-wing,0.0,3.0
+2011,Croatia,1081,Liberal,1.0,
+2011,Croatia,1102,Liberal,0.0,3.0
+2011,Croatia,1384,Liberal,13.0,
+2011,Croatia,1465,Agrarian,1.0,0.64
+2011,Croatia,1493,Social democracy,61.0,41.08
+2011,Croatia,1627,Liberal,3.0,
+2011,Croatia,2134,Special issue,3.0,
+2011,Croatia,2135,Right-wing,6.0,2.96
+2011,Croatia,2181,Right-wing,1.0,0.64
+2011,Croatia,2182,Communist/Socialist,6.0,4.19
+2011,Croatia,2191,no family,3.0,
+2011,Croatia,2192,no family,8.0,
+2011,Croatia,2193,Right-wing,2.0,
+2011,Croatia,2195,no family,2.0,1.25
+2011,Croatia,2196,Special issue,0.0,2.8
+2011,Cyprus,491,Liberal,2.0,3.88
+2011,Cyprus,572,Communist/Socialist,19.0,32.67
+2011,Cyprus,851,Conservative,9.0,15.76
+2011,Cyprus,945,Social democracy,5.0,8.93
+2011,Cyprus,1575,Conservative,20.0,34.28
+2011,Cyprus,1621,Green/Ecologist,1.0,2.21
+2011,Cyprus,1768,Right-wing,0.0,1.08
+2011,Denmark,74,Social democracy,1.0,
+2011,Denmark,211,Liberal,17.0,9.38
+2011,Denmark,306,Communist/Socialist,12.0,6.6
+2011,Denmark,376,Liberal,9.0,4.92
+2011,Denmark,590,Conservative,8.0,4.88
+2011,Denmark,1331,Christian democracy,0.0,0.78
+2011,Denmark,1418,Right-wing,22.0,12.17
+2011,Denmark,1605,Liberal,47.0,26.41
+2011,Denmark,1629,Social democracy,44.0,24.51
+2011,Denmark,1644,Green/Ecologist,16.0,9.09
+2011,Denmark,1891,Communist/Socialist,1.0,
+2011,Denmark,1892,Conservative,1.0,
+2011,Denmark,1894,Social democracy,1.0,
+2011,Estonia,113,Liberal,33.0,28.6
+2011,Estonia,219,Green/Ecologist,0.0,3.8
+2011,Estonia,417,Conservative,0.0,2.1
+2011,Estonia,1137,Social democracy,26.0,23.3
+2011,Estonia,1448,Social democracy,19.0,17.1
+2011,Estonia,1597,Conservative,23.0,20.5
+2011,Finland,66,Special issue,1.0,0.2
+2011,Finland,94,Agrarian,35.0,15.8
+2011,Finland,200,Agrarian,39.0,19.1
+2011,Finland,395,Social democracy,42.0,19.1
+2011,Finland,585,Liberal,9.0,4.3
+2011,Finland,1062,Green/Ecologist,10.0,7.3
+2011,Finland,1118,Conservative,44.0,20.4
+2011,Finland,1292,Communist/Socialist,14.0,8.1
+2011,Finland,1463,Christian democracy,6.0,4.0
+2011,Finland,2412,Special issue,0.0,0.5
+2011,Ireland,30,no family,14.0,12.17
+2011,Ireland,280,Conservative,20.0,17.45
+2011,Ireland,318,Social democracy,37.0,19.45
+2011,Ireland,1014,Communist/Socialist,2.0,1.21
+2011,Ireland,1393,Christian democracy,76.0,36.1
+2011,Ireland,1573,Green/Ecologist,0.0,1.85
+2011,Ireland,1804,Communist/Socialist,2.0,0.97
+2011,Ireland,2217,Communist/Socialist,14.0,9.94
+2011,Ireland,2298,no family,1.0,0.5
+2011,Latvia,466,Agrarian,13.0,12.22
+2011,Latvia,521,Right-wing,14.0,13.88
+2011,Latvia,662,Conservative,0.0,2.41
+2011,Latvia,1100,Social democracy,31.0,28.36
+2011,Latvia,1666,Conservative,20.0,18.83
+2011,Latvia,1942,Conservative,22.0,20.83
+2011,Poland,512,Conservative,207.0,39.18
+2011,Poland,528,Conservative,157.0,29.89
+2011,Poland,629,Social democracy,27.0,8.24
+2011,Poland,664,Agrarian,28.0,8.36
+2011,Poland,900,Special issue,1.0,0.19
+2011,Poland,1549,Conservative,0.0,1.06
+2011,Poland,1679,Conservative,0.0,2.19
+2011,Poland,1945,Liberal,40.0,10.02
+2011,Portugal,251,Christian democracy,24.0,12.21
+2011,Portugal,281,Communist/Socialist,0.0,1.17
+2011,Portugal,557,Communist/Socialist,8.0,5.39
+2011,Portugal,725,Social democracy,74.0,29.24
+2011,Portugal,1273,Liberal,108.0,40.31
+2011,Portugal,1295,Communist/Socialist,16.0,8.23
+2011,Portugal,1781,Green/Ecologist,0.0,1.08
+2011,Slovenia,16,Christian democracy,6.0,6.83
+2011,Slovenia,65,Special issue,1.0,
+2011,Slovenia,179,Social democracy,26.0,26.19
+2011,Slovenia,199,Special issue,1.0,
+2011,Slovenia,706,Social democracy,10.0,10.52
+2011,Slovenia,981,to be coded,0.0,1.8
+2011,Slovenia,1047,Christian democracy,4.0,4.88
+2011,Slovenia,1252,Liberal,0.0,1.48
+2011,Slovenia,1587,Special issue,6.0,6.97
+2011,Slovenia,1987,Social democracy,28.0,28.51
+2011,Slovenia,1988,Liberal,8.0,8.37
+2011,Slovenia,1989,Social democracy,0.0,1.22
+2011,Spain,118,Communist/Socialist,11.0,7.02
+2011,Spain,234,Special issue,2.0,0.6
+2011,Spain,385,Special issue,1.0,0.18
+2011,Spain,520,Special issue,2.0,0.77
+2011,Spain,551,Liberal,5.0,4.76
+2011,Spain,645,Conservative,186.0,41.9
+2011,Spain,757,Special issue,3.0,1.07
+2011,Spain,845,Special issue,7.0,1.39
+2011,Spain,894,Conservative,16.0,4.23
+2011,Spain,902,Social democracy,110.0,25.32
+2011,Spain,1221,Special issue,,1.41
+2011,Spain,1361,Christian democracy,5.0,1.35
+2011,Spain,1974,Social democracy,,3.84
+2011,Spain,1976,Special issue,,1.41
+2011,Spain,2056,no family,0.0,0.9
+2011,Spain,2294,no family,2.0,
+2012,France,177,Social democracy,22.0,3.4
+2012,France,270,Right-wing,2.0,13.6
+2012,France,285,Conservative,15.0,3.51
+2012,France,401,Conservative,6.0,1.24
+2012,France,509,Conservative,2.0,1.77
+2012,France,658,Conservative,194.0,27.12
+2012,France,686,Communist/Socialist,10.0,6.91
+2012,France,873,Green/Ecologist,17.0,5.46
+2012,France,1058,Liberal,12.0,2.2
+2012,France,1492,Social democracy,12.0,1.65
+2012,France,1539,Social democracy,280.0,29.35
+2012,France,2077,Special issue,2.0,0.56
+2012,France,2078,Liberal,2.0,0.6
+2012,France,2079,Right-wing,1.0,0.19
+2012,France,2080,no family,0.0,0.96
+2012,Greece,47,Christian democracy,118.5,24.255000000000003
+2012,Greece,614,Communist/Socialist,19.0,6.49
+2012,Greece,1179,Right-wing,0.0,2.2350000000000003
+2012,Greece,1280,Green/Ecologist,0.0,2.93
+2012,Greece,1338,Social democracy,37.0,12.73
+2012,Greece,1592,Communist/Socialist,61.5,21.84
+2012,Greece,2091,Right-wing,26.5,9.065
+2012,Greece,2092,Right-wing,19.5,6.945
+2012,Greece,2093,Social democracy,18.0,6.1850000000000005
+2012,Greece,2094,Liberal,0.0,2.55
+2012,Greece,2095,Conservative,0.0,1.87
+2012,Greece,2096,Liberal,0.0,1.8
+2012,Greece,2097,Communist/Socialist,0.0,1.19
+2012,Lithuania,28,Special issue,8.0,5.83
+2012,Lithuania,58,no family,3.0,
+2012,Lithuania,191,Agrarian,1.0,3.88
+2012,Lithuania,482,Liberal,10.0,8.57
+2012,Lithuania,581,Liberal,29.0,19.82
+2012,Lithuania,709,Christian democracy,0.0,1.2
+2012,Lithuania,983,Liberal,0.0,2.06
+2012,Lithuania,1045,Conservative,33.0,15.08
+2012,Lithuania,1056,Communist/Socialist,0.0,1.21
+2012,Lithuania,1277,Social democracy,38.0,18.37
+2012,Lithuania,1421,Conservative,12.0,7.31
+2012,Lithuania,2121,Special issue,7.0,7.99
+2012,Lithuania,2122,Liberal,0.0,1.76
+2012,Netherlands,235,Christian democracy,13.0,8.51
+2012,Netherlands,345,Liberal,12.0,8.03
+2012,Netherlands,357,Communist/Socialist,15.0,9.65
+2012,Netherlands,742,Social democracy,38.0,24.84
+2012,Netherlands,756,Green/Ecologist,4.0,2.33
+2012,Netherlands,990,Special issue,2.0,1.93
+2012,Netherlands,1206,Christian democracy,5.0,3.13
+2012,Netherlands,1251,Conservative,3.0,2.09
+2012,Netherlands,1409,Liberal,41.0,26.58
+2012,Netherlands,1501,Right-wing,15.0,10.08
+2012,Netherlands,2109,Liberal,2.0,1.88
+2012,Netherlands,2110,no family,0.0,0.32
+2012,Romania,5,Conservative,13.0,
+2012,Romania,425,no family,18.0,
+2012,Romania,713,Right-wing,0.0,1.25
+2012,Romania,888,Christian democracy,1.0,
+2012,Romania,948,Conservative,18.0,5.13
+2012,Romania,958,Liberal,52.0,16.51
+2012,Romania,1015,Liberal,100.0,
+2012,Romania,1120,Social democracy,150.0,58.63
+2012,Romania,2002,Social democracy,10.0,
+2012,Romania,2129,Christian democracy,3.0,
+2012,Romania,2130,Communist/Socialist,47.0,13.99
+2012,Slovakia,131,Christian democracy,11.0,6.09
+2012,Slovakia,220,Social democracy,83.0,44.41
+2012,Slovakia,559,Conservative,0.0,4.28
+2012,Slovakia,586,Right-wing,0.0,1.58
+2012,Slovakia,1072,Right-wing,0.0,4.55
+2012,Slovakia,1200,Liberal,0.0,1.22
+2012,Slovakia,1432,Christian democracy,16.0,8.82
+2012,Slovakia,1460,Liberal,11.0,5.88
+2012,Slovakia,1620,Conservative,13.0,6.89
+2012,Slovakia,1759,Conservative,16.0,8.55
+2012,Slovakia,2013,Liberal,0.0,1.29
+2012,Slovakia,2015,Communist/Socialist,0.0,1.58
+2013,Austria,50,Right-wing,40.0,20.5
+2013,Austria,769,Communist/Socialist,0.0,1.0
+2013,Austria,973,Social democracy,52.0,26.8
+2013,Austria,1013,Christian democracy,47.0,24.0
+2013,Austria,1429,Green/Ecologist,24.0,12.4
+2013,Austria,1536,Right-wing,0.0,3.5
+2013,Austria,2150,Liberal,11.0,5.7
+2013,Austria,2255,Liberal,9.0,5.0
+2013,Bulgaria,57,Conservative,0.0,2.926
+2013,Bulgaria,423,Christian democracy,0.0,1.374
+2013,Bulgaria,535,Right-wing,23.0,7.297000000000001
+2013,Bulgaria,566,Liberal,0.0,1.736
+2013,Bulgaria,636,Right-wing,0.0,1.67
+2013,Bulgaria,1160,Social democracy,84.0,26.609
+2013,Bulgaria,1286,Liberal,36.0,11.306
+2013,Bulgaria,1541,Conservative,97.0,30.535
+2013,Bulgaria,2211,Right-wing,0.0,3.7030000000000003
+2013,Bulgaria,2212,Right-wing,0.0,1.886
+2013,Bulgaria,2213,Conservative,0.0,3.252
+2013,Bulgaria,2214,Special issue,0.0,1.339
+2013,Bulgaria,2595,to be coded,0.0,1.626
+2013,Czech Republic,2,Conservative,21.0,11.99
+2013,Czech Republic,196,Green/Ecologist,0.0,3.19
+2013,Czech Republic,363,Conservative,0.0,2.46
+2013,Czech Republic,406,Social democracy,0.0,1.51
+2013,Czech Republic,789,Social democracy,50.0,20.45
+2013,Czech Republic,829,Conservative,16.0,7.72
+2013,Czech Republic,1173,Communist/Socialist,33.0,14.91
+2013,Czech Republic,1245,Christian democracy,14.0,6.78
+2013,Czech Republic,2024,Special issue,5.0,
+2013,Czech Republic,2261,Special issue,0.0,2.66
+2013,Czech Republic,2262,Conservative,14.0,6.88
+2013,Czech Republic,2263,Liberal,47.0,18.65
+2013,Germany,543,Liberal,0.0,4.8
+2013,Germany,558,Social democracy,193.0,25.7
+2013,Germany,772,Green/Ecologist,63.0,8.4
+2013,Germany,791,Communist/Socialist,64.0,8.6
+2013,Germany,808,Christian democracy,255.0,34.1
+2013,Germany,865,Special issue,0.0,2.2
+2013,Germany,1180,Christian democracy,56.0,7.4
+2013,Germany,1537,Right-wing,0.0,1.3
+2013,Germany,2253,Right-wing,0.0,4.7
+2013,Italy,226,Christian democracy,8.0,1.79
+2013,Italy,382,Social democracy,297.0,26.27
+2013,Italy,465,Communist/Socialist,37.0,3.25
+2013,Italy,596,Conservative,98.0,21.99
+2013,Italy,927,Special issue,2.0,0.41
+2013,Italy,974,Special issue,1.0,0.05
+2013,Italy,1030,Special issue,5.0,0.43
+2013,Italy,1321,Communist/Socialist,0.0,2.3
+2013,Italy,1436,Right-wing,18.0,4.1
+2013,Italy,2153,Liberal,6.0,0.49
+2013,Italy,2154,Conservative,9.0,1.97
+2013,Italy,2155,Green/Ecologist,109.0,25.88
+2013,Italy,2156,Liberal,39.0,8.84
+2013,Italy,2158,Liberal,0.0,1.15
+2013,Italy,2671,Conservative,1.0,0.13
+2013,Luxembourg,151,Communist/Socialist,0.0,1.64
+2013,Luxembourg,310,Green/Ecologist,6.0,10.13
+2013,Luxembourg,457,Communist/Socialist,2.0,4.94
+2013,Luxembourg,701,Social democracy,13.0,20.28
+2013,Luxembourg,967,Liberal,13.0,18.25
+2013,Luxembourg,1234,Christian democracy,23.0,33.68
+2013,Luxembourg,1582,Conservative,3.0,6.64
+2013,Luxembourg,2256,Special issue,0.0,2.94
+2013,Luxembourg,2257,Conservative,0.0,1.5
+2013,Malta,360,Green/Ecologist,0.0,1.8
+2013,Malta,984,Conservative,30.0,43.34
+2013,Malta,1003,Social democracy,39.0,54.83
+2014,Belgium,161,Green/Ecologist,6.0,3.3
+2014,Belgium,256,Communist/Socialist,2.0,3.72
+2014,Belgium,438,Conservative,1.0,1.52
+2014,Belgium,501,Conservative,33.0,20.26
+2014,Belgium,723,Christian democracy,18.0,11.61
+2014,Belgium,915,Liberal,20.0,9.64
+2014,Belgium,969,Liberal,2.0,1.8
+2014,Belgium,993,Right-wing,3.0,3.67
+2014,Belgium,1029,Social democracy,13.0,8.83
+2014,Belgium,1110,Liberal,14.0,9.78
+2014,Belgium,1192,Christian democracy,9.0,4.98
+2014,Belgium,1378,Social democracy,23.0,11.67
+2014,Belgium,1594,Green/Ecologist,6.0,5.32
+2014,Belgium,2368,Right-wing,0.0,0.86
+2014,Bulgaria,535,Right-wing,11.0,4.52
+2014,Bulgaria,1160,Social democracy,39.0,15.4
+2014,Bulgaria,1286,Liberal,38.0,14.84
+2014,Bulgaria,1541,Conservative,84.0,32.67
+2014,Bulgaria,2211,Right-wing,19.0,7.28
+2014,Bulgaria,2214,Special issue,0.0,1.14
+2014,Bulgaria,2362,Conservative,15.0,5.69
+2014,Bulgaria,2363,Conservative,23.0,8.89
+2014,Bulgaria,2364,Social democracy,11.0,4.15
+2014,Bulgaria,2379,Social democracy,0.0,1.19
+2014,Hungary,403,Green/Ecologist,5.0,5.34
+2014,Hungary,434,Christian democracy,16.0,
+2014,Hungary,437,Conservative,,44.87
+2014,Hungary,600,Right-wing,23.0,20.22
+2014,Hungary,921,Conservative,117.0,
+2014,Hungary,952,no family,1.0,
+2014,Hungary,1202,Communist/Socialist,0.0,0.56
+2014,Hungary,1591,Social democracy,29.0,25.57
+2014,Hungary,1970,Social democracy,4.0,
+2014,Hungary,2318,Social democracy,3.0,
+2014,Hungary,2349,Green/Ecologist,1.0,
+2014,Latvia,466,Agrarian,21.0,19.53
+2014,Latvia,521,Right-wing,17.0,16.61
+2014,Latvia,1100,Social democracy,24.0,23.0
+2014,Latvia,1520,Social democracy,0.0,1.58
+2014,Latvia,1666,Conservative,23.0,21.87
+2014,Latvia,2365,Conservative,7.0,6.85
+2014,Latvia,2366,Conservative,8.0,6.66
+2014,Latvia,2367,to be coded,0.0,1.18
+2014,Slovenia,16,Christian democracy,0.0,3.95
+2014,Slovenia,65,Special issue,1.0,
+2014,Slovenia,179,Social democracy,21.0,20.71
+2014,Slovenia,199,Special issue,1.0,
+2014,Slovenia,706,Social democracy,6.0,5.98
+2014,Slovenia,981,to be coded,0.0,2.2
+2014,Slovenia,1047,Christian democracy,5.0,5.59
+2014,Slovenia,1587,Special issue,10.0,10.18
+2014,Slovenia,1987,Social democracy,0.0,2.97
+2014,Slovenia,2333,Social democracy,36.0,34.49
+2014,Slovenia,2334,Communist/Socialist,6.0,5.97
+2014,Slovenia,2337,Social democracy,4.0,4.38
+2014,Slovenia,2338,Special issue,0.0,1.34
+2014,Sweden,282,Christian democracy,16.0,4.57
+2014,Sweden,657,Conservative,84.0,23.33
+2014,Sweden,882,Communist/Socialist,21.0,5.72
+2014,Sweden,892,Liberal,19.0,5.42
+2014,Sweden,904,Social democracy,113.0,31.01
+2014,Sweden,1154,Green/Ecologist,25.0,6.89
+2014,Sweden,1461,Agrarian,22.0,6.11
+2014,Sweden,1521,Special issue,0.0,3.12
+2014,Sweden,1546,Right-wing,49.0,12.86
+2015,Croatia,276,Christian democracy,50.0,34.08
+2015,Croatia,1102,Liberal,2.0,
+2015,Croatia,1384,Liberal,9.0,
+2015,Croatia,1465,Agrarian,1.0,
+2015,Croatia,1493,Social democracy,42.0,32.83
+2015,Croatia,1627,Liberal,3.0,1.86
+2015,Croatia,2134,Special issue,2.0,
+2015,Croatia,2135,Right-wing,2.0,1.35
+2015,Croatia,2181,Right-wing,3.0,
+2015,Croatia,2182,Communist/Socialist,3.0,
+2015,Croatia,2185,Christian democracy,1.0,
+2015,Croatia,2192,no family,8.0,1.66
+2015,Croatia,2295,no family,2.0,
+2015,Croatia,2382,Green/Ecologist,0.0,1.73
+2015,Croatia,2612,Right-wing,1.0,4.19
+2015,Croatia,2614,Liberal,1.0,1.54
+2015,Croatia,2615,Conservative,19.0,13.42
+2015,Croatia,2628,Social democracy,2.0,3.34
+2015,Denmark,74,Social democracy,1.0,0.22
+2015,Denmark,211,Liberal,8.0,4.47
+2015,Denmark,306,Communist/Socialist,14.0,7.62
+2015,Denmark,376,Liberal,13.0,7.36
+2015,Denmark,590,Conservative,6.0,3.27
+2015,Denmark,1331,Christian democracy,0.0,0.81
+2015,Denmark,1418,Right-wing,37.0,20.58
+2015,Denmark,1605,Liberal,34.0,19.01
+2015,Denmark,1629,Social democracy,47.0,25.66
+2015,Denmark,1644,Green/Ecologist,7.0,4.09
+2015,Denmark,1891,Communist/Socialist,1.0,0.22
+2015,Denmark,1894,Social democracy,1.0,0.16
+2015,Denmark,2567,Green/Ecologist,9.0,4.68
+2015,Denmark,2568,Communist/Socialist,1.0,0.16
+2015,Estonia,113,Liberal,30.0,27.69
+2015,Estonia,219,Green/Ecologist,0.0,0.9
+2015,Estonia,417,Conservative,7.0,8.15
+2015,Estonia,1137,Social democracy,27.0,24.81
+2015,Estonia,1448,Social democracy,15.0,15.19
+2015,Estonia,1597,Conservative,14.0,13.71
+2015,Estonia,2409,Conservative,8.0,8.69
+2015,Finland,94,Agrarian,49.0,21.1
+2015,Finland,200,Agrarian,38.0,17.65
+2015,Finland,395,Social democracy,34.0,16.51
+2015,Finland,585,Liberal,9.0,4.88
+2015,Finland,1062,Green/Ecologist,15.0,8.53
+2015,Finland,1118,Conservative,37.0,18.2
+2015,Finland,1292,Communist/Socialist,12.0,7.13
+2015,Finland,1463,Christian democracy,5.0,3.54
+2015,Finland,2412,Special issue,0.0,0.85
+2015,Finland,2413,no family,1.0,0.56
+2015,Greece,47,Christian democracy,75.5,27.955
+2015,Greece,614,Communist/Socialist,15.0,5.51
+2015,Greece,1179,Right-wing,0.0,1.03
+2015,Greece,1338,Social democracy,15.0,5.48
+2015,Greece,1592,Communist/Socialist,147.0,35.900000000000006
+2015,Greece,2091,Right-wing,11.5,4.22
+2015,Greece,2092,Right-wing,17.5,6.635
+2015,Greece,2165,Social democracy,4.5,2.6100000000000003
+2015,Greece,2346,Social democracy,14.0,5.07
+2015,Greece,2407,Social democracy,0.0,2.46
+2015,Greece,2408,Social democracy,0.0,1.77
+2015,Greece,2596,Communist/Socialist,0.0,2.86
+2015,Poland,512,Conservative,138.0,24.09
+2015,Poland,528,Conservative,235.0,37.58
+2015,Poland,629,Social democracy,0.0,7.55
+2015,Poland,664,Agrarian,16.0,5.13
+2015,Poland,900,Special issue,1.0,0.18
+2015,Poland,2600,Right-wing,42.0,8.81
+2015,Poland,2601,Liberal,28.0,7.6
+2015,Poland,2602,Conservative,0.0,4.76
+2015,Poland,2625,Social democracy,0.0,3.62
+2015,Portugal,281,Communist/Socialist,0.0,1.15
+2015,Portugal,557,Communist/Socialist,19.0,10.58
+2015,Portugal,725,Social democracy,86.0,33.57
+2015,Portugal,1273,Liberal,107.0,39.84
+2015,Portugal,1295,Communist/Socialist,17.0,8.56
+2015,Portugal,1781,Green/Ecologist,1.0,1.44
+2015,Portugal,2597,Conservative,0.0,1.19
+2015,Spain,118,Communist/Socialist,2.0,3.67
+2015,Spain,234,Special issue,1.0,0.33
+2015,Spain,645,Conservative,123.0,28.72
+2015,Spain,757,Special issue,9.0,2.39
+2015,Spain,902,Social democracy,90.0,22.01
+2015,Spain,1361,Christian democracy,6.0,1.2
+2015,Spain,2375,Liberal,40.0,13.93
+2015,Spain,2376,Communist/Socialist,42.0,12.67
+2015,Spain,2381,Special issue,0.0,0.87
+2015,Spain,2603,Special issue,2.0,0.87
+2015,Spain,2604,Communist/Socialist,6.0,1.63
+2015,Spain,2605,Conservative,8.0,2.25
+2015,Spain,2606,Communist/Socialist,12.0,3.69
+2015,Spain,2607,Communist/Socialist,9.0,2.67
+2015,United Kingdom,311,Special issue,3.0,0.59
+2015,United Kingdom,319,Conservative,8.0,0.6
+2015,United Kingdom,467,Green/Ecologist,1.0,3.77
+2015,United Kingdom,659,Liberal,8.0,7.87
+2015,United Kingdom,689,Communist/Socialist,4.0,0.57
+2015,United Kingdom,773,Conservative,331.0,36.93
+2015,United Kingdom,1023,Social democracy,3.0,0.33
+2015,United Kingdom,1210,Conservative,2.0,0.37
+2015,United Kingdom,1272,Right-wing,1.0,12.65
+2015,United Kingdom,1284,Social democracy,56.0,4.74
+2015,United Kingdom,1556,Social democracy,232.0,30.46
+2015,United Kingdom,2063,Christian democracy,0.0,0.2
+2015,United Kingdom,2296,no family,1.0,0.54
+2016,Croatia,276,Christian democracy,61.0,35.17
+2016,Croatia,1493,Social democracy,54.0,32.18
+2016,Croatia,1627,Liberal,3.0,2.18
+2016,Croatia,2135,Right-wing,1.0,1.19
+2016,Croatia,2192,no family,8.0,1.92
+2016,Croatia,2295,no family,1.0,0.26
+2016,Croatia,2612,Right-wing,8.0,5.92
+2016,Croatia,2615,Conservative,13.0,9.43
+2016,Croatia,2628,Social democracy,2.0,3.84
+2016,Cyprus,572,Communist/Socialist,16.0,25.67
+2016,Cyprus,851,Conservative,9.0,14.49
+2016,Cyprus,945,Social democracy,3.0,6.18
+2016,Cyprus,1575,Conservative,18.0,30.69
+2016,Cyprus,1621,Green/Ecologist,2.0,4.81
+2016,Cyprus,1768,Right-wing,2.0,3.71
+2016,Cyprus,2341,Social democracy,3.0,6.01
+2016,Cyprus,2626,Right-wing,3.0,5.24
+2016,Cyprus,2627,Special issue,0.0,1.16
+2016,Ireland,30,no family,12.0,11.14
+2016,Ireland,280,Conservative,44.0,24.35
+2016,Ireland,318,Social democracy,7.0,6.61
+2016,Ireland,1014,Communist/Socialist,6.0,3.95
+2016,Ireland,1393,Christian democracy,50.0,25.52
+2016,Ireland,1573,Green/Ecologist,2.0,2.72
+2016,Ireland,2217,Communist/Socialist,23.0,13.85
+2016,Ireland,2298,no family,1.0,0.35
+2016,Ireland,2619,Social democracy,3.0,3.01
+2016,Ireland,2620,Conservative,0.0,2.18
+2016,Ireland,2621,no family,4.0,1.47
+2016,Ireland,2622,no family,6.0,4.21
+2016,Lithuania,21,Green/Ecologist,1.0,2.03
+2016,Lithuania,28,Special issue,8.0,5.72
+2016,Lithuania,58,no family,4.0,
+2016,Lithuania,191,Agrarian,54.0,22.45
+2016,Lithuania,482,Liberal,14.0,9.45
+2016,Lithuania,581,Liberal,2.0,4.88
+2016,Lithuania,652,no family,1.0,1.8
+2016,Lithuania,1045,Conservative,31.0,22.63
+2016,Lithuania,1277,Social democracy,17.0,15.04
+2016,Lithuania,1421,Conservative,8.0,5.55
+2016,Lithuania,2634,Liberal,0.0,2.23
+2016,Lithuania,2635,Right-wing,1.0,6.32
+2016,Lithuania,2636,no family,0.0,1.05
+2016,Romania,425,no family,17.0,
+2016,Romania,713,Right-wing,0.0,1.04
+2016,Romania,948,Conservative,21.0,6.19
+2016,Romania,1015,Liberal,69.0,20.04
+2016,Romania,1120,Social democracy,154.0,45.48
+2016,Romania,2395,Christian democracy,18.0,5.35
+2016,Romania,2646,no family,30.0,8.87
+2016,Romania,2647,Liberal,20.0,5.62
+2016,Romania,2648,Right-wing,0.0,2.79
+2016,Slovakia,220,Social democracy,49.0,28.28
+2016,Slovakia,559,Conservative,0.0,4.05
+2016,Slovakia,586,Right-wing,14.0,8.04
+2016,Slovakia,1072,Right-wing,15.0,8.64
+2016,Slovakia,1432,Christian democracy,0.0,4.94
+2016,Slovakia,1460,Liberal,21.0,12.1
+2016,Slovakia,1620,Conservative,11.0,6.5
+2016,Slovakia,1759,Conservative,19.0,11.03
+2016,Slovakia,2623,Right-wing,11.0,6.63
+2016,Slovakia,2624,Conservative,10.0,5.61
+2016,Spain,234,Special issue,1.0,0.33
+2016,Spain,645,Conservative,137.0,33.03
+2016,Spain,757,Special issue,9.0,2.63
+2016,Spain,902,Social democracy,85.0,22.66
+2016,Spain,1361,Christian democracy,5.0,1.2
+2016,Spain,2375,Liberal,32.0,13.05
+2016,Spain,2376,Communist/Socialist,45.0,13.37
+2016,Spain,2381,Special issue,0.0,1.19
+2016,Spain,2603,Special issue,2.0,0.77
+2016,Spain,2604,Communist/Socialist,5.0,1.44
+2016,Spain,2605,Conservative,8.0,2.01
+2016,Spain,2606,Communist/Socialist,12.0,3.55
+2016,Spain,2607,Communist/Socialist,9.0,2.74
+2017,Austria,50,Right-wing,51.0,26.0
+2017,Austria,973,Social democracy,52.0,26.9
+2017,Austria,1013,Christian democracy,62.0,31.5
+2017,Austria,1429,Green/Ecologist,0.0,3.8
+2017,Austria,2255,Liberal,10.0,5.3
+2017,Austria,2651,Green/Ecologist,8.0,4.4
+2017,Austria,2652,Special issue,0.0,1.0
+2017,Bulgaria,57,Conservative,0.0,2.54
+2017,Bulgaria,1160,Social democracy,80.0,27.93
+2017,Bulgaria,1286,Liberal,26.0,9.24
+2017,Bulgaria,1541,Conservative,95.0,33.54
+2017,Bulgaria,2211,Right-wing,27.0,9.31
+2017,Bulgaria,2363,Conservative,0.0,3.14
+2017,Bulgaria,2364,Social democracy,0.0,1.59
+2017,Bulgaria,2637,Liberal,12.0,4.26
+2017,Bulgaria,2638,Liberal,0.0,2.96
+2017,Bulgaria,2639,Liberal,0.0,2.94
+2017,Bulgaria,2640,Right-wing,0.0,1.11
+2017,Czech Republic,2,Conservative,7.0,5.31
+2017,Czech Republic,196,Green/Ecologist,0.0,1.46
+2017,Czech Republic,363,Conservative,0.0,1.56
+2017,Czech Republic,789,Social democracy,15.0,7.27
+2017,Czech Republic,829,Conservative,25.0,11.32
+2017,Czech Republic,1173,Communist/Socialist,15.0,7.76
+2017,Czech Republic,1245,Christian democracy,10.0,5.8
+2017,Czech Republic,2024,Special issue,6.0,5.18
+2017,Czech Republic,2261,Special issue,22.0,10.79
+2017,Czech Republic,2263,Liberal,78.0,29.64
+2017,Czech Republic,2654,Right-wing,22.0,10.64
+2017,France,177,Social democracy,12.0,1.6
+2017,France,270,Right-wing,8.0,13.2
+2017,France,285,Conservative,6.0,2.76
+2017,France,509,Conservative,42.0,4.12
+2017,France,658,Conservative,112.0,15.77
+2017,France,686,Communist/Socialist,10.0,2.72
+2017,France,873,Green/Ecologist,1.0,4.3
+2017,France,947,no family,5.0,
+2017,France,1328,no family,3.0,
+2017,France,1492,Social democracy,3.0,0.47
+2017,France,1539,Social democracy,30.0,7.44
+2017,France,2079,Right-wing,1.0,0.3
+2017,France,2083,Communist/Socialist,,0.77
+2017,France,2273,Conservative,18.0,3.03
+2017,France,2399,Conservative,1.0,1.17
+2017,France,2643,Liberal,308.0,28.21
+2017,France,2644,Communist/Socialist,17.0,11.03
+2017,Germany,41,Conservative,0.0,1.0
+2017,Germany,543,Liberal,80.0,10.7
+2017,Germany,558,Social democracy,153.0,20.5
+2017,Germany,772,Green/Ecologist,67.0,8.9
+2017,Germany,791,Communist/Socialist,69.0,9.2
+2017,Germany,808,Christian democracy,200.0,26.8
+2017,Germany,1180,Christian democracy,46.0,6.2
+2017,Germany,2253,Right-wing,94.0,12.6
+2017,Germany,2649,Special issue,0.0,1.0
+2017,Malta,360,Green/Ecologist,0.0,0.83
+2017,Malta,984,Conservative,30.0,43.68
+2017,Malta,1003,Social democracy,37.0,55.04
+2017,Netherlands,235,Christian democracy,19.0,12.4
+2017,Netherlands,345,Liberal,19.0,12.2
+2017,Netherlands,357,Communist/Socialist,14.0,9.1
+2017,Netherlands,742,Social democracy,9.0,5.7
+2017,Netherlands,756,Green/Ecologist,14.0,9.1
+2017,Netherlands,990,Special issue,5.0,3.2
+2017,Netherlands,1206,Christian democracy,5.0,3.4
+2017,Netherlands,1251,Conservative,3.0,2.1
+2017,Netherlands,1409,Liberal,33.0,21.3
+2017,Netherlands,1501,Right-wing,20.0,13.1
+2017,Netherlands,2109,Liberal,4.0,3.1
+2017,Netherlands,2110,no family,0.0,0.4
+2017,Netherlands,2641,Liberal,3.0,2.1
+2017,Netherlands,2642,Conservative,2.0,1.8
+2017,United Kingdom,311,Special issue,4.0,0.5
+2017,United Kingdom,319,Conservative,10.0,0.9
+2017,United Kingdom,467,Green/Ecologist,1.0,1.63
+2017,United Kingdom,659,Liberal,12.0,7.37
+2017,United Kingdom,689,Communist/Socialist,7.0,0.7
+2017,United Kingdom,773,Conservative,318.0,42.45
+2017,United Kingdom,1272,Right-wing,0.0,1.8
+2017,United Kingdom,1284,Social democracy,35.0,3.0
+2017,United Kingdom,1556,Social democracy,262.0,39.99
+2017,United Kingdom,2296,no family,1.0,0.58
+2018,Hungary,403,Green/Ecologist,8.0,7.06
+2018,Hungary,434,Christian democracy,16.0,
+2018,Hungary,437,Conservative,,49.28
+2018,Hungary,600,Right-wing,26.0,19.06
+2018,Hungary,870,Conservative,1.0,
+2018,Hungary,921,Conservative,117.0,
+2018,Hungary,952,no family,1.0,0.46
+2018,Hungary,1591,Social democracy,20.0,11.91
+2018,Hungary,1970,Social democracy,9.0,5.37
+2018,Hungary,2318,Social democracy,1.0,0.66
+2018,Hungary,2659,Conservative,0.0,3.06
+2018,Hungary,2660,Special issue,0.0,1.73
+2018,Italy,226,Christian democracy,4.0,1.34
+2018,Italy,382,Social democracy,112.0,18.76
+2018,Italy,465,Communist/Socialist,14.0,3.39
+2018,Italy,596,Conservative,106.0,14.0
+2018,Italy,693,Liberal,2.0,0.54
+2018,Italy,927,Special issue,1.0,0.33
+2018,Italy,1030,Special issue,4.0,0.41
+2018,Italy,1296,Social democracy,2.0,2.76
+2018,Italy,1321,Communist/Socialist,0.0,1.13
+2018,Italy,1436,Right-wing,124.0,17.39
+2018,Italy,2153,Liberal,1.0,
+2018,Italy,2154,Conservative,31.0,4.35
+2018,Italy,2155,Green/Ecologist,227.0,33.33
+2018,Italy,2302,no family,1.0,0.58
+2018,Italy,2671,Conservative,1.0,0.21
+2018,Latvia,466,Agrarian,11.0,9.97
+2018,Latvia,521,Right-wing,13.0,11.08
+2018,Latvia,1100,Social democracy,23.0,19.92
+2018,Latvia,1520,Social democracy,0.0,3.22
+2018,Latvia,1666,Conservative,8.0,6.74
+2018,Latvia,2366,Conservative,0.0,4.17
+2018,Latvia,2392,Liberal,13.0,12.12
+2018,Latvia,2715,Right-wing,16.0,14.33
+2018,Latvia,2716,Social democracy,0.0,2.63
+2018,Latvia,2717,Conservative,16.0,13.67
+2018,Luxembourg,151,Communist/Socialist,0.0,1.07
+2018,Luxembourg,310,Green/Ecologist,9.0,14.1
+2018,Luxembourg,457,Communist/Socialist,2.0,4.72
+2018,Luxembourg,701,Social democracy,10.0,15.72
+2018,Luxembourg,967,Liberal,12.0,16.4
+2018,Luxembourg,1234,Christian democracy,21.0,27.08
+2018,Luxembourg,1582,Conservative,4.0,8.02
+2018,Luxembourg,2256,Special issue,2.0,6.2
+2018,Slovenia,16,Christian democracy,0.0,2.62
+2018,Slovenia,179,Social democracy,25.0,24.92
+2018,Slovenia,706,Social democracy,10.0,9.93
+2018,Slovenia,981,to be coded,4.0,4.17
+2018,Slovenia,1047,Christian democracy,7.0,7.16
+2018,Slovenia,1587,Special issue,5.0,4.93
+2018,Slovenia,1619,Green/Ecologist,0.0,1.09
+2018,Slovenia,2333,Social democracy,10.0,9.75
+2018,Slovenia,2337,Social democracy,5.0,5.11
+2018,Slovenia,2338,Special issue,0.0,2.15
+2018,Slovenia,2668,Social democracy,13.0,12.6
+2018,Slovenia,2669,Social democracy,0.0,1.52
+2018,Slovenia,2670,Communist/Socialist,9.0,9.33
+2018,Sweden,282,Christian democracy,22.0,6.32
+2018,Sweden,657,Conservative,70.0,19.84
+2018,Sweden,882,Communist/Socialist,28.0,8.0
+2018,Sweden,892,Liberal,20.0,5.49
+2018,Sweden,904,Social democracy,100.0,28.26
+2018,Sweden,1154,Green/Ecologist,16.0,4.41
+2018,Sweden,1461,Agrarian,31.0,8.61
+2018,Sweden,1546,Right-wing,62.0,17.53
+2019,Estonia,113,Liberal,34.0,28.9
+2019,Estonia,219,Green/Ecologist,0.0,1.8
+2019,Estonia,417,Conservative,19.0,17.8
+2019,Estonia,1137,Social democracy,26.0,23.1
+2019,Estonia,1448,Social democracy,10.0,9.8
+2019,Estonia,1597,Conservative,12.0,11.4
+2019,Estonia,2409,Conservative,0.0,1.2
+2019,Estonia,2720,Liberal,0.0,4.4
+2019,Estonia,2721,Green/Ecologist,0.0,1.2
+2019,Finland,94,Agrarian,31.0,13.8
+2019,Finland,200,Agrarian,39.0,17.5
+2019,Finland,395,Social democracy,40.0,17.7
+2019,Finland,585,Liberal,9.0,4.5
+2019,Finland,1062,Green/Ecologist,20.0,11.5
+2019,Finland,1118,Conservative,38.0,17.0
+2019,Finland,1292,Communist/Socialist,16.0,8.2
+2019,Finland,1463,Christian democracy,5.0,3.9
+2019,Spain,234,Special issue,2.0,0.53
+2019,Spain,645,Conservative,66.0,16.7
+2019,Spain,757,Special issue,15.0,3.89
+2019,Spain,902,Social democracy,123.0,28.68
+2019,Spain,1361,Christian democracy,6.0,1.51
+2019,Spain,2375,Liberal,57.0,15.86
+2019,Spain,2380,Liberal,24.0,10.26
+2019,Spain,2381,Special issue,0.0,1.25
+2019,Spain,2603,Special issue,4.0,0.99
+2019,Spain,2606,Communist/Socialist,7.0,2.36
+2019,Spain,2722,Liberal,7.0,1.91
+2019,Spain,2723,Conservative,2.0,0.41
+2019,Spain,2724,Communist/Socialist,35.0,11.95
