@@ -18,3 +18,6 @@ You will find a collection of csv files of ParlGov in the [data folder.](https:/
 
 We'll add more data sources as we go.
 
+## Stories
+
+You can read the [first story here.](https://decorrespondent.nl/9541/maakt-europa-een-enorme-ruk-naar-rechts-dit-zeggen-de-data/464618077-897d7fd4)
