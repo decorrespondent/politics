@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 /src/.ipynb_checkpoints
+/src/config.py
+/__pycache__
