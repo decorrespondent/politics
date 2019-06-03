@@ -96,6 +96,9 @@ for country in df['country_name'].unique():
             old_df_country['election_year'] = year
             df_year = df_year.append(old_df_country)        
 
+# sort df_year
+df_year.sort.values(dd)
+
 # count the amount of parties in all EU-memberstates per year
 party_count_EU_t = df_year.groupby('election_year').count()
 # count per country
@@ -103,7 +106,7 @@ for country in df_year['country_name'].unique():
     
 # df_year['party_count']
 
-party_count_EU = df_year.groupby(['country_name', 'election_year' ])['vote_share'].count()
+party_count_EU = df_year.groupby(['country_name','election_year'])['vote_share'].count()
 party_count_EU = pd.DataFrame(data=party_count_EU).rename(columns={'vote_share':'total_parties'})
 
 
