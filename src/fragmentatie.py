@@ -97,7 +97,7 @@ for country in df['country_name'].unique():
             df_year = df_year.append(old_df_country)        
 
 # sort df_year
-df_year.sort.values(dd)
+df_year = df_year.sort_values(by=['country_name','election_year'])
 
 # count the amount of parties in all EU-memberstates per year
 party_count_EU_t = df_year.groupby('election_year').count()
@@ -109,9 +109,12 @@ for country in df_year['country_name'].unique():
 party_count_EU = df_year.groupby(['country_name','election_year'])['vote_share'].count()
 party_count_EU = pd.DataFrame(data=party_count_EU).rename(columns={'vote_share':'total_parties'})
 
+# to csv
+df_year.to_csv(path_visuals +'df_year.csv')
+party_count_EU.to_csv(path_visuals + 'party_count_EU.csv')
 
-
-
+# has the vote_share of fammilies decreased
+fam_EU = df_year.groupby(['election_year', 'family_name'])['vote_share'].mean()
 
 # electoral volatility: the sum of th aggregated growth of all winning parties
 # in comparison with the former election. 
