@@ -31,3 +31,4 @@ trace1 = go.Scatter(
         y = viz_parties['vote_share'],
 data2 = [trace1]
 plot(data2)
+
