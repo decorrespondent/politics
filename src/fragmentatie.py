@@ -5,16 +5,12 @@ import config
 from plotly.offline import plot
 import plotly.graph_objs as go
 import numpy as np
+import matplotlib.pyplot as plt
 
 path_temp = config.PATH_TEMP_DATA
 path_visuals = config.PATH_VIZ
 path_source_data = config.PATH_SOURCE_DATA
 path_output_data = config.PATH_OUTPUT_DATA
-
-
-def country_selector(country):
-    df_country = df.loc[df['country_name'] == country]
-    return df_country
 
 
 # get a all elections
@@ -66,12 +62,17 @@ df = df[df['party_name'] != 'no seat']
 # only look at the netherlands
 
 # make a series where party's are grouped by election year and see their vote share per election
+def country_selector(country):
+    df_country = df.loc[df['country_name'] == country]
+    return df_country
+
+
 df2 = country_selector('Netherlands').groupby(
         ['election_year', 'party_name'])['vote_share'].mean()
 
 # look at the individual countries.
 
-# count the amount of parties per election in a new df
+# count the amount of parties per election in a new df based on voteshare
 party_count = df2.groupby('election_year').count()
 party_count = pd.DataFrame(data=party_count).rename(
         columns={'vote_share': 'total_parties'})
@@ -96,33 +97,46 @@ for country in df['country_name'].unique():
             old_df_country = df_country.loc[df_country['election_year'] == year]
         else:
             old_df_country['election_year'] = year
-            df_year = df_year.append(old_df_country)        
+            df_year = df_year.append(old_df_country)   
 
 # sort df_year
 df_year = df_year.sort_values(by=['country_name','election_year'])
 
-# count the amount of parties in all EU-memberstates per year
+# count the amount of parties in all EU-memberstates per year based on vote_share
 party_count_EU_t = df_year.groupby('election_year').count()
-
 party_count_EU = df_year.groupby(['country_name','election_year'])['vote_share'].count()
 party_count_EU = pd.DataFrame(data=party_count_EU).rename(columns={'vote_share': 'total_parties'})
 
+# count te amount of parties in all EU-memberstates per year based on seats
+party_count_EU_seats = df_year.groupby(['country_name','election_year'])['vote_share'].count()
+party_count_EU_seats = pd.DataFrame(data=party_count_EU).rename(columns={'vote_share': 'total_parties'})
+
 # average amount of parties per year
 parties_EU_mean = party_count_EU.groupby('election_year')['total_parties'].mean()
-
-
 
 # has the vote_share of fammilies decreased
 fam_EU = df_year.groupby(['election_year', 'family_name'])['vote_share'].mean()
 
 # to csv
-df_year.to_csv(path_visuals + 'df_year.csv')
-party_count_EU.to_csv(path_visuals + 'party_count_EU.csv')
-fam_EU.to_csv(path_visuals + 'fam_eu.csv')
+# df_year.to_csv(path_visuals + 'df_year.csv')
+# party_count_EU.to_csv(path_visuals + 'party_count_EU.csv')
+# fam_EU.to_csv(path_visuals + 'fam_eu.csv')
 
-# biggest party
+# biggest party nl for plotting in viz.py
+nl = country_selector('Netherlands')
+biggest_nl = nl.groupby('election_year')['vote_share'].max()
+
+biggest_eu = df.groupby(['country_name', 'election_year'])['vote_share'].max()
 
 
+# for all the countries in the EU
+# for country in df_year['country_name'].unique():
+#     (country).groupby(['election_year', 'party_name'])['vote_share'].mean()
+    
+ 
+   
+# check the average of the last 10 years per country
+    
 
 
 
