@@ -5615,13 +5615,13 @@ GRC,Greece,1989-11-05,1990-02-13,Zolotas II,1,0,0,1,300,OE,Oikolόgoi Enallaktik
 GRC,Greece,1989-11-05,1990-02-13,Zolotas II,1,0,0,128,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,508,716,454,1338
 GRC,Greece,1989-11-05,1990-02-13,Zolotas II,1,0,0,21,300,SYN,Synaspismós tīs Aristerás,Coalition of the Left,2.7683,41,508,716,454,1441
 GRC,Greece,1989-11-05,1990-02-13,Zolotas II,1,1,1,0,300,none,no party affiliation,no party affiliation,,41,508,716,454,1358
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,0,0,1,300,DIANA,Dimokratiki Ananeosi,Democratic Renewal,7.4,41,284,362,716,1374
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,0,0,2,300,Emp,Empistosύnh (Rodόph),Independent Muslim Lists,,41,284,362,716,1059
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,1,1,150,300,ND,Néa Đimokratía,New Democracy,6.7365,41,284,362,716,47
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,0,0,1,300,OE,Oikolόgoi Enallaktikoί,Alternative Ecologists,2.5,41,284,362,716,2163
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,0,0,123,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,284,362,716,1338
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,0,0,19,300,SYN,Synaspismós tīs Aristerás,Coalition of the Left,2.7683,41,284,362,716,1441
-GRC,Greece,1990-04-08,1990-04-11,Mitsotakis Kon.,0,0,0,4,300,none,no party affiliation,no party affiliation,,41,284,362,716,1358
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,0,0,1,300,DIANA,Dimokratiki Ananeosi,Democratic Renewal,7.4,41,284,362,716,1374
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,0,0,2,300,Emp,Empistosύnh (Rodόph),Independent Muslim Lists,,41,284,362,716,1059
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,1,1,150,300,ND,Néa Đimokratía,New Democracy,6.7365,41,284,362,716,47
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,0,0,1,300,OE,Oikolόgoi Enallaktikoί,Alternative Ecologists,2.5,41,284,362,716,2163
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,0,0,123,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,284,362,716,1338
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,0,0,19,300,SYN,Synaspismós tīs Aristerás,Coalition of the Left,2.7683,41,284,362,716,1441
+GRC,Greece,1990-04-08,1990-04-11,Mitsotakis,0,0,0,4,300,none,no party affiliation,no party affiliation,,41,284,362,716,1358
 GRC,Greece,1993-10-10,1993-10-13,Papandreou A IV,0,0,0,9,300,KKE,Kommounistikó Kómma Elládas,Communist Party of Greece,1.253,41,654,74,362,614
 GRC,Greece,1993-10-10,1993-10-13,Papandreou A IV,0,0,0,111,300,ND,Néa Đimokratía,New Democracy,6.7365,41,654,74,362,47
 GRC,Greece,1993-10-10,1993-10-13,Papandreou A IV,0,1,1,170,300,PASOK,Panellinio Sosialistikó Kínima,Panhellenic Socialist Movement,4.4968,41,654,74,362,1338
@@ -8141,7 +8141,7 @@ ITA,Italy,2013-02-25,2013-04-27,Letta I,0,0,0,6,630,CD,Centro Democratico, Democ
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,1,0,98,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,789,1048,983,596
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,0,0,9,630,FdI-CN,Fratelli d'Italia – Centrodestra Nazionale,Brothers of Italy -- National Centre-right,7.4,26,789,1048,983,2154
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,0,0,18,630,LN,Lega Nord,North League,7.8007,26,789,1048,983,1436
-ITA,Italy,2013-02-25,2013-04-27,Letta I,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,789,1048,983,2155
+ITA,Italy,2013-02-25,2013-04-27,Letta I,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,2.5,26,789,1048,983,2155
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,1,1,297,630,PD,Partito Democratico,Democratic Party,2.6216,26,789,1048,983,382
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,1,0,0,630,R,Radicali,Radicals,3.9732,26,789,1048,983,1296
 ITA,Italy,2013-02-25,2013-04-27,Letta I,0,0,0,37,630,S,Sinistra,Left,1.3,26,789,1048,983,465
@@ -8155,7 +8155,7 @@ ITA,Italy,2013-02-25,2013-11-18,Letta II,0,0,0,6,630,CD,Centro Democratico, Demo
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,0,0,69,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,789,1068,1048,596
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,0,0,9,630,FdI-CN,Fratelli d'Italia – Centrodestra Nazionale,Brothers of Italy -- National Centre-right,7.4,26,789,1068,1048,2154
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,0,0,18,630,LN,Lega Nord,North League,7.8007,26,789,1068,1048,1436
-ITA,Italy,2013-02-25,2013-11-18,Letta II,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,789,1068,1048,2155
+ITA,Italy,2013-02-25,2013-11-18,Letta II,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,2.5,26,789,1068,1048,2155
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,1,0,29,630,NCD,Nuovo Centrodestra | Alternativa Popolare,New Centre-Right | Popular Alternative,7.4,26,789,1068,1048,2268
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,1,1,297,630,PD,Partito Democratico,Democratic Party,2.6216,26,789,1068,1048,382
 ITA,Italy,2013-02-25,2013-11-18,Letta II,0,1,0,0,630,R,Radicali,Radicals,3.9732,26,789,1068,1048,1296
@@ -8170,7 +8170,7 @@ ITA,Italy,2013-02-25,2014-02-22,Renzi,0,0,0,6,630,CD,Centro Democratico, Democra
 ITA,Italy,2013-02-25,2014-02-22,Renzi,0,0,0,69,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,789,1079,1068,596
 ITA,Italy,2013-02-25,2014-02-22,Renzi,0,0,0,9,630,FdI-CN,Fratelli d'Italia – Centrodestra Nazionale,Brothers of Italy -- National Centre-right,7.4,26,789,1079,1068,2154
 ITA,Italy,2013-02-25,2014-02-22,Renzi,0,0,0,18,630,LN,Lega Nord,North League,7.8007,26,789,1079,1068,1436
-ITA,Italy,2013-02-25,2014-02-22,Renzi,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,789,1079,1068,2155
+ITA,Italy,2013-02-25,2014-02-22,Renzi,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,2.5,26,789,1079,1068,2155
 ITA,Italy,2013-02-25,2014-02-22,Renzi,0,1,0,29,630,NCD,Nuovo Centrodestra | Alternativa Popolare,New Centre-Right | Popular Alternative,7.4,26,789,1079,1068,2268
 ITA,Italy,2013-02-25,2014-02-22,Renzi,0,1,1,297,630,PD,Partito Democratico,Democratic Party,2.6216,26,789,1079,1068,382
 ITA,Italy,2013-02-25,2014-02-22,Renzi,0,1,0,0,630,R,Radicali,Radicals,3.9732,26,789,1079,1068,1296
@@ -8185,7 +8185,7 @@ ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,6,630,CD,Centro Democratico, Dem
 ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,69,630,FI-PdL,Forza Italia – Il Popolo della Libertà,Go Italy -- The People of Freedom,7.1459,26,789,1501,1079,596
 ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,9,630,FdI-CN,Fratelli d'Italia – Centrodestra Nazionale,Brothers of Italy -- National Centre-right,7.4,26,789,1501,1079,2154
 ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,18,630,LN,Lega Nord,North League,7.8007,26,789,1501,1079,1436
-ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,789,1501,1079,2155
+ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,109,630,M5S,Movimento 5 Stelle,Five Star Movement,2.5,26,789,1501,1079,2155
 ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,1,0,29,630,NCD,Nuovo Centrodestra | Alternativa Popolare,New Centre-Right | Popular Alternative,7.4,26,789,1501,1079,2268
 ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,1,1,297,630,PD,Partito Democratico,Democratic Party,2.6216,26,789,1501,1079,382
 ITA,Italy,2013-02-25,2016-12-12,Gentiloni,0,0,0,37,630,S,Sinistra,Left,1.3,26,789,1501,1079,465
@@ -8200,7 +8200,7 @@ ITA,Italy,2018-03-04,2018-06-01,Conte,0,0,0,106,630,FI-PdL,Forza Italia – Il P
 ITA,Italy,2018-03-04,2018-06-01,Conte,0,0,0,31,630,FdI-CN,Fratelli d'Italia – Centrodestra Nazionale,Brothers of Italy -- National Centre-right,7.4,26,1024,1532,1501,2154
 ITA,Italy,2018-03-04,2018-06-01,Conte,0,0,0,2,630,IdV,Italia dei Valori,Italy of Values,4.8712,26,1024,1532,1501,693
 ITA,Italy,2018-03-04,2018-06-01,Conte,0,1,0,124,630,LN,Lega Nord,North League,7.8007,26,1024,1532,1501,1436
-ITA,Italy,2018-03-04,2018-06-01,Conte,0,1,0,227,630,M5S,Movimento 5 Stelle,Five Star Movement,,26,1024,1532,1501,2155
+ITA,Italy,2018-03-04,2018-06-01,Conte,0,1,0,227,630,M5S,Movimento 5 Stelle,Five Star Movement,2.5,26,1024,1532,1501,2155
 ITA,Italy,2018-03-04,2018-06-01,Conte,0,0,0,112,630,PD,Partito Democratico,Democratic Party,2.6216,26,1024,1532,1501,382
 ITA,Italy,2018-03-04,2018-06-01,Conte,0,0,0,2,630,R,Radicali,Radicals,3.9732,26,1024,1532,1501,1296
 ITA,Italy,2018-03-04,2018-06-01,Conte,0,0,0,14,630,S,Sinistra,Left,1.3,26,1024,1532,1501,465
@@ -10956,21 +10956,21 @@ ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,0,0,18,329,PMP,Partidul Mișcarea 
 ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,0,0,69,329,PNL,Partidul Naţional Liberal,National Liberal Party,6.0543,23,1015,1513,1197,1015
 ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,1,1,154,329,PSD,Partidul Social Democrat,Social Democratic Party,3.2325,23,1015,1513,1197,1120
 ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,0,0,21,329,UDMR,Uniunea Democrată Maghiară din România,Democratic Union of Hungarians in Romania,6.016,23,1015,1513,1197,948
-ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,0,0,30,329,USR,Uniunea Salvați România,Save Romania Union,6.0,23,1015,1513,1197,2646
+ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,0,0,30,329,USR,Uniunea Salvați România,Save Romania Union,,23,1015,1513,1197,2646
 ROU,Romania,2016-12-11,2017-01-04,Grindeanu,0,0,0,17,329,etnice,Partidele minorităţilor etnice din România,Romanian ethnic minorities parties,,23,1015,1513,1197,425
 ROU,Romania,2016-12-11,2017-06-29,Tudose,0,1,0,20,329,ALDE,Alianța Liberalilor și Democraților,Alliance of Liberals and Democrats,6.0,23,1015,1514,1513,2647
 ROU,Romania,2016-12-11,2017-06-29,Tudose,0,0,0,18,329,PMP,Partidul Mișcarea Populară,People's Movement Party,6.2,23,1015,1514,1513,2395
 ROU,Romania,2016-12-11,2017-06-29,Tudose,0,0,0,69,329,PNL,Partidul Naţional Liberal,National Liberal Party,6.0543,23,1015,1514,1513,1015
 ROU,Romania,2016-12-11,2017-06-29,Tudose,0,1,1,154,329,PSD,Partidul Social Democrat,Social Democratic Party,3.2325,23,1015,1514,1513,1120
 ROU,Romania,2016-12-11,2017-06-29,Tudose,0,0,0,21,329,UDMR,Uniunea Democrată Maghiară din România,Democratic Union of Hungarians in Romania,6.016,23,1015,1514,1513,948
-ROU,Romania,2016-12-11,2017-06-29,Tudose,0,0,0,30,329,USR,Uniunea Salvați România,Save Romania Union,6.0,23,1015,1514,1513,2646
+ROU,Romania,2016-12-11,2017-06-29,Tudose,0,0,0,30,329,USR,Uniunea Salvați România,Save Romania Union,,23,1015,1514,1513,2646
 ROU,Romania,2016-12-11,2017-06-29,Tudose,0,0,0,17,329,etnice,Partidele minorităţilor etnice din România,Romanian ethnic minorities parties,,23,1015,1514,1513,425
 ROU,Romania,2016-12-11,2018-01-29,Dancila,0,1,0,20,329,ALDE,Alianța Liberalilor și Democraților,Alliance of Liberals and Democrats,6.0,23,1015,1527,1514,2647
 ROU,Romania,2016-12-11,2018-01-29,Dancila,0,0,0,18,329,PMP,Partidul Mișcarea Populară,People's Movement Party,6.2,23,1015,1527,1514,2395
 ROU,Romania,2016-12-11,2018-01-29,Dancila,0,0,0,69,329,PNL,Partidul Naţional Liberal,National Liberal Party,6.0543,23,1015,1527,1514,1015
 ROU,Romania,2016-12-11,2018-01-29,Dancila,0,1,1,154,329,PSD,Partidul Social Democrat,Social Democratic Party,3.2325,23,1015,1527,1514,1120
 ROU,Romania,2016-12-11,2018-01-29,Dancila,0,0,0,21,329,UDMR,Uniunea Democrată Maghiară din România,Democratic Union of Hungarians in Romania,6.016,23,1015,1527,1514,948
-ROU,Romania,2016-12-11,2018-01-29,Dancila,0,0,0,30,329,USR,Uniunea Salvați România,Save Romania Union,6.0,23,1015,1527,1514,2646
+ROU,Romania,2016-12-11,2018-01-29,Dancila,0,0,0,30,329,USR,Uniunea Salvați România,Save Romania Union,,23,1015,1527,1514,2646
 ROU,Romania,2016-12-11,2018-01-29,Dancila,0,0,0,17,329,etnice,Partidele minorităţilor etnice din România,Romanian ethnic minorities parties,,23,1015,1527,1514,425
 SVK,Slovakia,1990-06-09,1990-06-27,Meciar I,0,1,0,7,150,DS,Demokratická strana,Democratic Party,6.2,1,538,399,,1000
 SVK,Slovakia,1990-06-09,1990-06-27,Meciar I,0,1,0,31,150,KDH,Kresťanskodemokratické hnutie,Christian Democratic Movement,7.1082,1,538,399,,1432

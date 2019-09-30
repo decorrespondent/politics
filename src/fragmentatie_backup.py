@@ -15,9 +15,11 @@ path_output_data = config.PATH_OUTPUT_DATA
 
 # get a all elections
 elections = pd.read_csv(path_source_data + 'view_election.csv')
+len(elections)
 
 # remove ep elections
 elections = elections[elections['election_type'] == 'parliament']
+len(elections)
 
 # extract election year
 elections['election_year'] = pd.to_datetime(elections['election_date']).dt.year
@@ -30,8 +32,7 @@ elections = elections[['country_name',
                        'party_id',
                        'party_name',
                        'party_name_english',
-                       'election_year',
-                       'election_id']]
+                       'election_year',]]
 
 # merge with party info to get party family names
 party = pd.read_csv(path_source_data + 'view_party.csv')
@@ -39,15 +40,16 @@ party = party[['party_id', 'family_id', 'family_name', 'left_right',
                'liberty_authority', 'eu_anti_pro']]
 df = pd.merge(elections, party, on='party_id', how='left')
 df = df.drop_duplicates()
-
-# merge with calculations election paramaters to get the calculated values done by parlgov
-parameters = pd.read_csv(path_source_data + 'viewcalc_election_parameter.csv')
-df = pd.merge(df, parameters, on='election_id', how='left')
-
+len(df)
 
 # remove non_eu members
 non_eu_members = ['Norway', 'Canada', 'Australia', 'Switzerland',
                   'New Zealand', 'Iceland', 'Japan', 'Israel', 'Turkey']
+
+df = df[~df['country_name'].isin(non_eu_members)]
+
+# drop the UK and France because they are less proportional
+disproportional = ['United Kingdom', 'France']
 
 df = df[~df['country_name'].isin(non_eu_members)]
 
@@ -56,7 +58,6 @@ df = df[(df['election_year'] > 1945)]
 
 # drop the rows that have no seats
 df = df[df['party_name'] != 'no seat']
-df = df[df['party_name'] != 'one seat']
 
 # only look at the netherlands
 
@@ -64,8 +65,6 @@ df = df[df['party_name'] != 'one seat']
 def country_selector(country):
     df_country = df.loc[df['country_name'] == country]
     return df_country
-
-df_country = country_selector('Netherlands')`
 
 
 df2 = country_selector('Netherlands').groupby(
@@ -93,7 +92,7 @@ df_year = df
 
 for country in df['country_name'].unique():
     df_country = df.loc[df['country_name'] ==country]
-    for year in range(min(df_country['election_year']),2020):
+    for year in range(min(df_country['election_year']),2019):
         if year in df_country['election_year'].unique():
             old_df_country = df_country.loc[df_country['election_year'] == year]
         else:
@@ -116,6 +115,9 @@ party_count_EU_seats = pd.DataFrame(data=party_count_EU_seats).rename(columns={'
 # get the party counts in one table
 party_count_EU['total_parties_seats'] = df_year_seats.groupby(['country_name','election_year'])['seats'].count()
 
+
+
+
 # average amount of parties per year based on vote share
 parties_EU_mean = party_count_EU.groupby('election_year')['total_parties'].mean()
 
@@ -123,42 +125,57 @@ parties_EU_mean = party_count_EU.groupby('election_year')['total_parties'].mean(
 parties_EU_seats_mean = party_count_EU_seats.groupby('election_year')['total_parties_seats'].mean()
 parties_EU_seats_mean.to_csv(path_visuals + 'parties_EU_seats_mean.csv')
 
+
+
 # has the vote_share of fammilies decreased
 fam_EU = df_year.groupby(['election_year', 'family_name'])['vote_share'].mean()
 fam_EU_seats = df_year.groupby(['election_year', 'family_name'])['seats'].mean()
+
+
+# to csv
+# df_year.to_csv(path_visuals + 'df_year.csv')
+# party_count_EU.to_csv(path_visuals + 'party_count_EU.csv')
+# fam_EU.to_csv(path_visuals + 'fam_eu.csv')
+fam_EU_seats.to_csv(path_visuals + 'fam_eu_seats.csv')
 
 # biggest party nl for plotting in viz.py
 nl = country_selector('Netherlands')
 biggest_nl = nl.groupby('election_year')['vote_share'].max()
 biggest_eu = df.groupby(['country_name', 'election_year'])['vote_share'].max()
 
-# calculate the mean of the enp_seats
-enp_mean = df_year.groupby(['election_year'])['enp_seats'].mean()
-enp_mean2 = df_year.groupby(['election_year','country_name'])['enp_seats'].mean()
-
-# calculate the mean of the enp_votes
-enp_mean_votes = df_year.groupby(['election_year'])['enp_votes'].mean()
-
-# calculate the median of the enp_seats
-enp_median = df_year.groupby(['election_year'])['enp_seats'].median()
-
-# trying something removing one seats
-nl = nl[nl['party_name'] != 'no seat']
-
-# TO CSV
-# df_year.to_csv(path_visuals + 'df_year.csv')
-# df_year_seats.to_csv(path_visuals + 'df_year_seats.csv')
-# party_count_EU.to_csv(path_visuals + 'party_count_EU.csv')
-# fam_EU.to_csv(path_visuals + 'fam_eu.csv')
-# fam_EU_seats.to_csv(path_visuals + 'fam_eu_seats.csv')
-# party_count.to_csv(path_visuals + 'party_count_nl.csv')
-enp_mean.to_csv(path_visuals + 'enp_mean.csv')
+# Effective Number of Parties
 
 
 
 
+# for all the countries in the EU
+# for country in df_year['country_name'].unique():
+#     (country).groupby(['election_year', 'party_name'])['vote_share'].mean()
+    
+ 
+   
+# check the average of the last 10 years per country
+    
 
 
+
+# electoral volatility: the sum of th aggregated growth of all winning parties
+# in comparison with the former election. 
+
+
+
+        
+
+
+
+# df2.groupby(['election_year', 'family_name'])['vote_share'].sum()
+
+      
+     
+
+     
+# interessting to see the sum of the diffrent columns in rows: df_year.groupby(['country_name', 'election_year' ]).aggregate(np.sum)     
+     
      
      
      
